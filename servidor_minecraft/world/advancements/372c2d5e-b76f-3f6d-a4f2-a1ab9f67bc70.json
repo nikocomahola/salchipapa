@@ -115,7 +115,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-01 07:22:37 +0000",
       "minecraft:deep_ocean": "2025-08-01 06:27:29 +0000",
+      "minecraft:sunflower_plains": "2025-08-01 07:10:04 +0000",
       "minecraft:birch_forest": "2025-08-01 03:52:41 +0000",
       "minecraft:beach": "2025-08-01 03:34:22 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:36 +0000",
@@ -560,6 +562,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-08-01 07:10:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:11:00 +0000"
@@ -788,6 +796,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-01 07:13:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2025-08-01 05:11:00 +0000"
@@ -797,6 +811,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-01 07:19:32 +0000"
     },
     "done": true
   },
@@ -863,6 +883,12 @@
   "pfm:recipes/furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-01 07:18:04 +0000"
     },
     "done": true
   },
@@ -1043,6 +1069,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:31:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:17:11 +0000"
     },
     "done": true
   },
@@ -1271,6 +1303,12 @@
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2025-08-01 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
     },
     "done": true
   },
@@ -1523,6 +1561,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-08-01 07:03:27 +0000"
     },
     "done": true
   },
@@ -2162,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-01 07:17:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-08-01 05:50:09 +0000"
@@ -2720,6 +2770,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-08-01 07:17:52 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 06:27:06 +0000"
@@ -2837,6 +2893,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/tomato_egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:19:32 +0000"
     },
     "done": true
   },
@@ -3188,6 +3250,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 07:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-01 06:00:12 +0000"
@@ -3251,6 +3319,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-01 05:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-01 07:17:11 +0000"
     },
     "done": true
   },
@@ -3692,6 +3766,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-08-01 07:17:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 06:50:12 +0000"
@@ -3749,6 +3829,12 @@
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "hauntedharvest:nether/splatter_eggs_in_nether": {
+    "criteria": {
+      "unlock": "2025-08-01 07:19:37 +0000"
     },
     "done": true
   },
@@ -3884,6 +3970,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-01 07:03:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
@@ -3959,6 +4051,12 @@
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 06:54:32 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
     },
     "done": true
   },
@@ -4258,7 +4356,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-01 07:10:40 +0000",
       "minecraft:skeleton": "2025-08-01 06:33:09 +0000",
+      "minecraft:vindicator": "2025-08-01 07:11:29 +0000",
       "minecraft:creeper": "2025-08-01 05:18:09 +0000",
       "minecraft:cave_spider": "2025-08-01 06:36:34 +0000",
       "minecraft:zombie": "2025-08-01 06:10:24 +0000"
@@ -4346,6 +4446,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-08-01 07:03:27 +0000"
     },
     "done": true
   },
@@ -4607,6 +4713,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
@@ -4670,6 +4782,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-01 06:45:00 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2025-08-01 07:22:37 +0000"
     },
     "done": true
   },
@@ -5065,6 +5183,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-08-01 05:11:00 +0000"
@@ -5170,6 +5294,12 @@
   "spartanweaponry:recipes/copper_arrow": {
     "criteria": {
       "has_bow": "2025-08-01 06:28:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
     },
     "done": true
   },
@@ -5503,9 +5633,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-01 07:19:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-08-01 05:12:34 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/pufferfish_broth": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:17:11 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/roast_mutton_rack_block": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:03:27 +0000"
     },
     "done": true
   },
@@ -5536,6 +5684,12 @@
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 06:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-01 07:19:32 +0000"
     },
     "done": true
   },
@@ -5640,6 +5794,12 @@
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-08-01 07:10:38 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
@@ -5803,6 +5963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-01 07:17:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_pike": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:09 +0000"
@@ -5851,6 +6017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 06:00:17 +0000"
@@ -5878,6 +6050,12 @@
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2025-08-01 06:50:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
     },
     "done": true
   },
@@ -6121,6 +6299,12 @@
     },
     "done": true
   },
+  "largemeals:recipes/cooking/potato_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:17:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-08-01 05:11:00 +0000"
@@ -6244,6 +6428,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:11:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-08-01 07:12:29 +0000"
     },
     "done": true
   },
@@ -6703,6 +6893,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-08-01 07:17:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 06:54:32 +0000"
@@ -6778,6 +6974,12 @@
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 06:00:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-01 07:03:27 +0000"
     },
     "done": true
   },
@@ -7108,6 +7310,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-08-01 06:09:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-01 07:19:32 +0000"
     },
     "done": true
   },

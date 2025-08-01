@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-08-01 07:10:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
@@ -296,6 +302,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-01 06:36:08 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/white_flag": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 07:15:56 +0000"
     },
     "done": true
   },
@@ -533,9 +545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-01 06:37:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-08-01 07:15:51 +0000"
     },
     "done": true
   },
@@ -566,6 +590,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-08-01 07:15:56 +0000"
     },
     "done": true
   },
@@ -1283,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-08-01 05:49:36 +0000"
@@ -1889,6 +1925,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
@@ -1928,6 +1970,12 @@
   "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-01 06:49:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/gray_flag": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 07:15:51 +0000"
     },
     "done": true
   },
@@ -2579,6 +2627,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 07:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-08-01 05:33:49 +0000"
@@ -2756,6 +2810,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 07:15:51 +0000"
     },
     "done": true
   },
@@ -2951,6 +3017,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-08-01 07:15:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -3053,6 +3125,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-08-01 07:17:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 06:50:20 +0000"
@@ -3152,6 +3230,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-01 07:15:51 +0000"
     },
     "done": true
   },
@@ -3571,6 +3655,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-01 07:10:38 +0000",
       "minecraft:skeleton": "2025-08-01 05:32:41 +0000",
       "minecraft:zombie": "2025-08-01 06:44:22 +0000"
     },
@@ -3804,6 +3889,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 07:10:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -3894,6 +3985,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-01 07:11:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 05:36:32 +0000"
@@ -3975,6 +4072,12 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-08-01 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2025-08-01 07:22:38 +0000"
     },
     "done": true
   },
@@ -4187,6 +4290,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-08-01 05:49:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 07:15:56 +0000"
     },
     "done": true
   },
@@ -4496,6 +4605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 07:15:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
@@ -4754,6 +4869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_wheat": "2025-08-01 05:34:31 +0000"
@@ -4843,6 +4964,12 @@
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-08-01 07:10:53 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
@@ -5027,6 +5154,12 @@
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-08-01 06:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-01 07:15:51 +0000"
     },
     "done": true
   },
@@ -5252,6 +5385,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-08-01 07:15:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-08-01 05:38:32 +0000"
@@ -5303,6 +5442,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-01 06:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 07:15:56 +0000"
     },
     "done": true
   },
@@ -5498,6 +5643,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-08-01 05:38:32 +0000"
@@ -5615,6 +5766,24 @@
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-01 06:36:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-01 07:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-01 07:15:56 +0000"
     },
     "done": true
   },
@@ -5920,7 +6089,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-01 07:22:39 +0000",
       "minecraft:deep_ocean": "2025-08-01 06:27:29 +0000",
+      "minecraft:sunflower_plains": "2025-08-01 07:10:03 +0000",
       "minecraft:birch_forest": "2025-08-01 05:55:24 +0000",
       "minecraft:beach": "2025-08-01 05:16:33 +0000",
       "minecraft:dark_forest": "2025-08-01 05:15:48 +0000",

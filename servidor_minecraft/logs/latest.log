@@ -4461,3 +4461,275 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 07:06:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Not even afraid of death]
 [01Aug2025 07:06:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Back to childhood]
 [01Aug2025 07:06:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has reached the goal [Horror of the Depths]
+[01Aug2025 07:06:31.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[01Aug2025 07:06:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ahi no se puede creo
+[01Aug2025 07:06:41.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Knowledge raises the soul]
+[01Aug2025 07:06:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> solo es de comida ese
+[01Aug2025 07:06:51.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4684ms or 93 ticks behind
+[01Aug2025 07:07:09.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[01Aug2025 07:07:28.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[01Aug2025 07:07:47.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[01Aug2025 07:07:55.437] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1341224, l='ServerLevel[world]', x=766.50, y=73.00, z=753.50]
+[01Aug2025 07:08:05.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
+[01Aug2025 07:08:07.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 07:08:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tenkiu
+[01Aug2025 07:08:18.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1347423, l='ServerLevel[world]', x=741.50, y=75.00, z=751.50]
+[01Aug2025 07:08:24.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3459ms or 69 ticks behind
+[01Aug2025 07:08:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> finnel humanito
+[01Aug2025 07:08:42.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[01Aug2025 07:09:00.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1358511, l='ServerLevel[world]', x=699.50, y=73.00, z=-428.50]
+[01Aug2025 07:09:01.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3791ms or 75 ticks behind
+[01Aug2025 07:09:21.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4779ms or 95 ticks behind
+[01Aug2025 07:09:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> puedes hacer tumbas
+[01Aug2025 07:09:30.013] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 07:09:32.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> para coleccionar almas
+[01Aug2025 07:09:34.893] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=767, y=-39, z=-685}
+[01Aug2025 07:09:34.893] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=767, y=-39, z=-685}
+[01Aug2025 07:09:34.894] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=767, y=-39, z=-685}
+[01Aug2025 07:09:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que te ayudan
+[01Aug2025 07:09:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> wasmec: wooot
+[01Aug2025 07:09:40.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[01Aug2025 07:09:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> noon son diferentes
+[01Aug2025 07:09:42.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
+[01Aug2025 07:09:45.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> luego te explico
+[01Aug2025 07:09:46.488] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.489] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.489] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.489] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.532] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.533] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.533] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.534] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:46.534] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:09:47.614] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[01Aug2025 07:09:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> meeh
+[01Aug2025 07:09:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> no tanto
+[01Aug2025 07:09:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [It Belongs in a Museum]
+[01Aug2025 07:10:01.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> si tienes poco espacio no
+[01Aug2025 07:10:03.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[01Aug2025 07:10:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ah entonces si
+[01Aug2025 07:10:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> LE DISPARABA AL AGUA
+[01Aug2025 07:10:23.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
+[01Aug2025 07:10:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Knowledge of Death]
+[01Aug2025 07:10:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Ambush]
+[01Aug2025 07:10:40.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Ambush]
+[01Aug2025 07:10:43.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5060ms or 101 ticks behind
+[01Aug2025 07:11:03.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[01Aug2025 07:11:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> mio Bv
+[01Aug2025 07:11:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Ol' Betsy]
+[01Aug2025 07:11:22.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
+[01Aug2025 07:11:42.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[01Aug2025 07:12:01.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[01Aug2025 07:12:09.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> gamer
+[01Aug2025 07:12:22.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5605ms or 112 ticks behind
+[01Aug2025 07:12:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Bypassing the Expiration Date]
+[01Aug2025 07:12:32.390] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[01Aug2025 07:12:34.199] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.200] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.200] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.201] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.259] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.260] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:34.260] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:39.989] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[01Aug2025 07:12:44.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7023ms or 140 ticks behind
+[01Aug2025 07:12:45.343] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:45.461] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:45.461] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:45.462] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:12:45.611] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[01Aug2025 07:13:05.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5911ms or 118 ticks behind
+[01Aug2025 07:13:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Take Aim]
+[01Aug2025 07:13:13.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1421513, l='ServerLevel[world]', x=535.50, y=69.00, z=592.50]
+[01Aug2025 07:13:20.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> si JAJA
+[01Aug2025 07:13:25.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5301ms or 106 ticks behind
+[01Aug2025 07:13:37.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> no
+[01Aug2025 07:13:41.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> creo que estamos volviendo
+[01Aug2025 07:13:46.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5667ms or 113 ticks behind
+[01Aug2025 07:14:06.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5321ms or 106 ticks behind
+[01Aug2025 07:14:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> meconfundi
+[01Aug2025 07:14:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Dark Metallurgy]
+[01Aug2025 07:14:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> despues de eso es nuevo creo
+[01Aug2025 07:14:26.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4720ms or 94 ticks behind
+[01Aug2025 07:14:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> osea con valen
+[01Aug2025 07:14:28.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> JAJA
+[01Aug2025 07:14:32.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 07:14:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> mm
+[01Aug2025 07:14:45.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> quieren que meta el voice chat?
+[01Aug2025 07:14:48.634] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[01Aug2025 07:14:49.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1035, y=58, z=-888} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:49.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1035, y=58, z=-888}
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1013, y=57, z=-895} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1013, y=57, z=-895}
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1020, y=58, z=-894} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1020, y=58, z=-894}
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1021, y=58, z=-888} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:49.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1021, y=58, z=-888}
+[01Aug2025 07:14:49.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8884ms or 177 ticks behind
+[01Aug2025 07:14:51.911] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=998, y=57, z=-907} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:51.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=998, y=57, z=-907}
+[01Aug2025 07:14:52.026] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1012, y=57, z=-902} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:52.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1012, y=57, z=-902}
+[01Aug2025 07:14:52.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1021, y=59, z=-900} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:52.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1021, y=59, z=-900}
+[01Aug2025 07:14:52.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1022, y=59, z=-900} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:52.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1022, y=59, z=-900}
+[01Aug2025 07:14:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> sis
+[01Aug2025 07:14:52.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1027, y=58, z=-897} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Aug2025 07:14:52.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1027, y=58, z=-897}
+[01Aug2025 07:14:52.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1035, y=58, z=-899} but found not block entity block Block{minecraft:water}[level=0] at location
+[01Aug2025 07:14:52.502] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1035, y=58, z=-899}
+[01Aug2025 07:14:53.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:53.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:53.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:53.425] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:53.512] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> si es
+[01Aug2025 07:14:58.039] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:58.040] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:58.040] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:14:58.040] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:15:06.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> true
+[01Aug2025 07:15:11.638] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1449302, l='ServerLevel[world]', x=767.50, y=73.00, z=755.50]
+[01Aug2025 07:15:14.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9740ms or 194 ticks behind
+[01Aug2025 07:15:19.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Close Quarters]
+[01Aug2025 07:15:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> pense que habias entrado a los backrooms
+[01Aug2025 07:15:40.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10606ms or 212 ticks behind
+[01Aug2025 07:16:06.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10987ms or 219 ticks behind
+[01Aug2025 07:16:09.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[01Aug2025 07:16:10.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> yo creo que es suerte
+[01Aug2025 07:16:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> asi como freddy kruger al dormir
+[01Aug2025 07:16:34.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13593ms or 271 ticks behind
+[01Aug2025 07:16:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ESTE YA ESTA EXPLORADO QUE
+[01Aug2025 07:16:51.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> es una cosa de mario
+[01Aug2025 07:16:52.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:16:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> con bloques
+[01Aug2025 07:16:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> watajei
+[01Aug2025 07:16:58.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8432ms or 168 ticks behind
+[01Aug2025 07:17:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> wateheli
+[01Aug2025 07:17:09.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 07:17:12.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 07:17:12.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 07:17:12.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 07:17:19.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 07:17:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 07:17:20.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7363ms or 147 ticks behind
+[01Aug2025 07:17:20.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 07:17:20.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 07:17:21.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 07:17:22.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 07:17:23.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 07:17:23.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:23.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:26.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 07:17:26.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 07:17:26.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:26.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:26.839] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.839] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.839] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.840] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.876] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.876] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.876] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:26.876] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:17:27.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 07:17:27.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 07:17:27.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:27.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 07:17:27.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 07:17:28.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 07:17:29.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 07:17:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 07:17:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> amiga
+[01Aug2025 07:17:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> patos
+[01Aug2025 07:17:42.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7222ms or 144 ticks behind
+[01Aug2025 07:18:02.000] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 07:18:02.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5183ms or 103 ticks behind
+[01Aug2025 07:18:03.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> a mimi
+[01Aug2025 07:18:04.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Sweet Dreams]
+[01Aug2025 07:18:06.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 07:18:06.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 07:18:06.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 07:18:07.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 07:18:08.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 07:18:15.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1488896, l='ServerLevel[world]', x=890.50, y=72.00, z=-419.50]
+[01Aug2025 07:18:16.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has reached the goal [Quaint Scribe]
+[01Aug2025 07:18:18.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> whaat
+[01Aug2025 07:18:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Glow Sticks]
+[01Aug2025 07:18:23.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5810ms or 116 ticks behind
+[01Aug2025 07:18:28.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> es para
+[01Aug2025 07:18:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> poner echizos en los libros
+[01Aug2025 07:18:44.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[01Aug2025 07:18:45.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> no amiga...
+[01Aug2025 07:18:45.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1496134, l='ServerLevel[world]', x=830.50, y=74.00, z=778.50]
+[01Aug2025 07:18:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Another Kind of Slime]
+[01Aug2025 07:19:04.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5196ms or 103 ticks behind
+[01Aug2025 07:19:10.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> bruja!!!!!!
+[01Aug2025 07:19:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> del 71
+[01Aug2025 07:19:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> mi angelinis adorada
+[01Aug2025 07:19:24.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1505456, l='ServerLevel[world]', x=916.50, y=71.00, z=744.50]
+[01Aug2025 07:19:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> JAJAJAJA
+[01Aug2025 07:19:25.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
+[01Aug2025 07:19:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Deviled Eggs]
+[01Aug2025 07:19:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> a
+[01Aug2025 07:19:45.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
+[01Aug2025 07:19:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> en el nether???
+[01Aug2025 07:19:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> se re bugeo el logro entonces JAJA
+[01Aug2025 07:20:04.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[01Aug2025 07:20:23.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
+[01Aug2025 07:20:32.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> watejeli
+[01Aug2025 07:20:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> whaaa
+[01Aug2025 07:20:42.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[01Aug2025 07:20:45.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que pena
+[01Aug2025 07:21:03.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[01Aug2025 07:21:07.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUE
+[01Aug2025 07:21:19.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUEEE
+[01Aug2025 07:21:21.832] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 07:21:22.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> Y ESTE GORE
+[01Aug2025 07:21:23.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[01Aug2025 07:21:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ewwwwwwww
+[01Aug2025 07:21:44.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5592ms or 111 ticks behind
+[01Aug2025 07:21:53.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Ashes 'n Bones]
+[01Aug2025 07:22:05.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1546919, l='ServerLevel[world]', x=921.50, y=73.00, z=-407.50]
+[01Aug2025 07:22:05.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[01Aug2025 07:22:07.776] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 07:22:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> los cuerpos muertos: chudai <3
+[01Aug2025 07:22:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUE
+[01Aug2025 07:22:26.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6383ms or 127 ticks behind
+[01Aug2025 07:22:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> amiga
+[01Aug2025 07:22:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> AMIGA
+[01Aug2025 07:22:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> PAGINA DE SLENDERMAN
+[01Aug2025 07:22:48.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6115ms or 122 ticks behind
+[01Aug2025 07:22:52.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has reached the goal [Grimm Start]
+[01Aug2025 07:23:09.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6229ms or 124 ticks behind
+[01Aug2025 07:23:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que empieze el juego JAJAJAJA
+[01Aug2025 07:23:16.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> BLUEBY INKA GAMES
+[01Aug2025 07:23:30.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+[01Aug2025 07:23:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> COMO RACISTA
+[01Aug2025 07:23:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> jajaja
+[01Aug2025 07:23:37.588] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1570361, l='ServerLevel[world]', x=921.50, y=73.00, z=-405.50]
+[01Aug2025 07:23:50.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4830ms or 96 ticks behind
+[01Aug2025 07:23:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> deja de gastarte los echizos
+[01Aug2025 07:23:56.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Your First Receptacle]
+[01Aug2025 07:24:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> mira
+[01Aug2025 07:24:09.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[01Aug2025 07:24:29.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
+[01Aug2025 07:24:37.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Where Is The Stone Pen?]
+[01Aug2025 07:24:48.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> LOST MEDIA
+[01Aug2025 07:24:49.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
+[01Aug2025 07:25:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> GARFY
+[01Aug2025 07:25:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> jajaj
+[01Aug2025 07:25:03.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> JAJAJA
+[01Aug2025 07:25:09.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[01Aug2025 07:25:25.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[01Aug2025 07:25:25.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[01Aug2025 07:25:31.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6189ms or 123 ticks behind
+[01Aug2025 07:25:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ewwwwwwwwwwww
+[01Aug2025 07:25:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> qdep
+[01Aug2025 07:25:52.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
+[01Aug2025 07:26:13.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
+[01Aug2025 07:26:15.977] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1612139, l='ServerLevel[world]', x=932.50, y=69.00, z=-412.50]
+[01Aug2025 07:26:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> whaaat
+[01Aug2025 07:26:34.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
+[01Aug2025 07:26:48.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> estan lindos estos bloques igual
