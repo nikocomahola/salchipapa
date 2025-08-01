@@ -5084,3 +5084,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 08:17:49.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> para magos experimentados
 [01Aug2025 08:17:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> nosotros somos nubs
 [01Aug2025 08:17:56.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 08:18:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> zzz
+[01Aug2025 08:18:49.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> hermana era support
+[01Aug2025 08:19:10.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> PORQUE ATACAS A MIZ HIJOS
+[01Aug2025 08:19:48.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ay
+[01Aug2025 08:19:53.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tienes extra?
+[01Aug2025 08:19:56.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> y eso
+[01Aug2025 08:20:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que camino tomaste}
+[01Aug2025 08:20:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> yo de pura defensa tome JAAJA
+[01Aug2025 08:20:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> aver voy a reiniciar el mc que cambie algo que no debia y me explota todo
+[01Aug2025 08:20:56.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 lost connection: Disconnected
+[01Aug2025 08:20:56.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 left the game
+[01Aug2025 08:21:16.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 08:21:24.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made wasmec a server operator
+[01Aug2025 08:21:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sickaric a server operator
+[01Aug2025 08:26:13.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueby87[/172.29.105.64:60565] logged in with entity id 2682023 at (505.43957980837354, 63.0, -171.64677772911247)
+[01Aug2025 08:26:13.385] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player blueby87
+[01Aug2025 08:26:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 joined the game
+[01Aug2025 08:26:13.460] [Server thread/INFO] [Jade/]: Syncing config to blueby87 (372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70)

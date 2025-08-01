@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "29e06cf1-e4ac-337b-8a48-40115b9f089f",
+    "name": "Sickaric",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70",
     "name": "blueby87",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fb372778-8abd-3f84-a00e-a7642287edcf",
+    "name": "wasmec",
     "level": 4,
     "bypassesPlayerLimit": false
   },
