@@ -5406,6 +5406,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -5415,6 +5421,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-01 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5460,6 +5472,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5487,6 +5505,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-08-01 19:27:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5523,6 +5547,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5586,6 +5622,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5601,6 +5643,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5700,6 +5748,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5715,6 +5769,18 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5754,6 +5820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -5772,9 +5844,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5808,6 +5892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/quiver_compartment": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -5838,6 +5928,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-08-01 20:22:30 +0000"
@@ -5853,6 +5955,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-01 20:22:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -5910,6 +6018,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5958,6 +6078,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5967,6 +6099,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6006,9 +6144,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6078,6 +6234,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
@@ -6090,6 +6252,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -6099,6 +6267,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6138,6 +6312,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
@@ -6153,6 +6333,12 @@
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6180,9 +6366,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-01 20:22:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6216,6 +6420,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -6237,6 +6447,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6312,9 +6528,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
@@ -6327,6 +6561,24 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-08-01 20:35:15 +0000"
     },
     "done": true
   },
