@@ -2859,6 +2859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-01 07:42:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-08-01 05:30:44 +0000"
@@ -3690,6 +3696,12 @@
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-08-01 07:43:46 +0000"
     },
     "done": true
   },
@@ -4964,6 +4976,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-08-01 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-01 07:42:36 +0000"
     },
     "done": true
   },
