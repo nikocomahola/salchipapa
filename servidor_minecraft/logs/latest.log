@@ -3576,3 +3576,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 22:27:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> z
 [01Aug2025 22:27:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> z
 [01Aug2025 22:27:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Double Trouble]
+[01Aug2025 22:33:23.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2614894, l='ServerLevel[world]', x=1151.50, y=72.00, z=222.50]
+[01Aug2025 22:33:33.998] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 192.8 μs. 182/208 recipes are parallelized.
+[01Aug2025 22:37:43.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 22:37:46.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:37:46.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 22:37:46.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 22:37:51.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:37:51.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 22:37:52.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:37:52.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:37:54.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:37:54.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 22:37:54.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:43:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Disgusting Lootbox]
+[01Aug2025 22:48:28.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:48:31.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:human_1 but it was marked as removed already
