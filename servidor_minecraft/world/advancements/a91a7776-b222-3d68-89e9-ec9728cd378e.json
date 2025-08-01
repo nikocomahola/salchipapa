@@ -464,11 +464,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-01 04:39:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-01 04:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-08-01 04:40:11 +0000"
+    },
+    "done": false
   },
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
@@ -479,6 +497,12 @@
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-08-01 04:52:21 +0000"
     },
     "done": true
   },
@@ -515,6 +539,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 04:52:21 +0000"
     },
     "done": true
   },
@@ -602,6 +632,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2025-08-01 04:52:21 +0000"
+    },
+    "done": true
+  },
   "species:recipes/bone_spike": {
     "criteria": {
       "has_item": "2025-08-01 04:35:34 +0000"
@@ -656,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-01 04:52:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
@@ -683,6 +725,12 @@
   "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-08-01 04:52:21 +0000"
     },
     "done": true
   },

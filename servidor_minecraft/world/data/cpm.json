@@ -28,7 +28,18 @@
       "mob_vis": 1.0,
       "kbr": 1.0
     },
-    "29e06cf1-e4ac-337b-8a48-40115b9f089f": {}
+    "29e06cf1-e4ac-337b-8a48-40115b9f089f": {
+      "mob_vis": 1.0,
+      "motion": 1.0,
+      "defense": 1.0,
+      "reach": 1.0,
+      "attack": 1.0,
+      "akb": 1.0,
+      "health": 1.0,
+      "kbr": 1.0,
+      "stepHeight": 1.0,
+      "asp": 1.0
+    }
   },
   "player_scaling_settings": {},
   "scaling_settings": {

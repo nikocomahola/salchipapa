@@ -2663,3 +2663,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 04:38:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Klade250: Gave 30 [Apple] to Klade250]
 [01Aug2025 04:39:41.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [01Aug2025 04:39:41.043] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[01Aug2025 04:43:05.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wasmec[/172.29.189.77:62572] logged in with entity id 3864 at (80.7338692763982, 64.0, -14.119323652222205)
+[01Aug2025 04:43:05.152] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player wasmec
+[01Aug2025 04:43:05.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec joined the game
+[01Aug2025 04:43:05.241] [Server thread/INFO] [Jade/]: Syncing config to wasmec (fb372778-8abd-3f84-a00e-a7642287edcf)
+[01Aug2025 04:43:55.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 04:43:56.571] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 04:44:01.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 04:44:01.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 04:44:09.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 04:44:09.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 04:44:09.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 04:44:09.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 04:44:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Klade250: Set the time to 1000]
+[01Aug2025 04:46:18.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sickaric lost connection: Disconnected
+[01Aug2025 04:46:18.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric left the game
+[01Aug2025 04:46:43.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sickaric[/172.29.46.126:55547] logged in with entity id 4406 at (94.08259053429997, 67.0, -17.365552267890763)
+[01Aug2025 04:46:43.261] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sickaric
+[01Aug2025 04:46:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric joined the game
+[01Aug2025 04:46:43.323] [Server thread/INFO] [Jade/]: Syncing config to Sickaric (29e06cf1-e4ac-337b-8a48-40115b9f089f)
+[01Aug2025 04:48:47.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sickaric lost connection: Disconnected
+[01Aug2025 04:48:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric left the game
+[01Aug2025 04:52:37.292] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.391 ms. 5838/6007 recipes are parallelized.
+[01Aug2025 04:52:43.625] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[01Aug2025 04:53:12.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=67, z=-18} BlockPos{x=102, y=67, z=-50}
+[01Aug2025 04:53:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Klade250: Set the time to 1000]
