@@ -2234,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-01 08:09:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 06:57:37 +0000"
@@ -2537,6 +2543,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-08-01 06:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 08:09:28 +0000"
     },
     "done": true
   },
@@ -3191,6 +3203,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 08:09:28 +0000"
     },
     "done": true
   },
@@ -4034,6 +4052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-01 08:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 06:26:23 +0000"
@@ -4097,6 +4121,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-08-01 05:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-01 08:09:28 +0000"
     },
     "done": true
   },
@@ -4355,6 +4385,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 06:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-01 08:09:28 +0000"
     },
     "done": true
   },
