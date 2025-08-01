@@ -2759,3 +2759,77 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 05:13:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement ['X' Marks the Spot]
 [01Aug2025 05:13:55.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [01Aug2025 05:13:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Sweet Dreams]
+[01Aug2025 05:14:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blueby87: Gamerule playersSleepingPercentage is now set to: 20]
+[01Aug2025 05:14:20.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[01Aug2025 05:14:45.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [A Strange Grave Dust]
+[01Aug2025 05:14:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Monster Hunter]
+[01Aug2025 05:15:24.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Aug2025 05:15:35.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13768, l='ServerLevel[world]', x=216.50, y=74.00, z=253.50]
+[01Aug2025 05:15:42.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[01Aug2025 05:15:47.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Valengarf[/172.29.52.121:63225] logged in with entity id 13815 at (115.5, 67.0, -41.5)
+[01Aug2025 05:15:47.145] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Valengarf
+[01Aug2025 05:15:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf joined the game
+[01Aug2025 05:15:47.207] [Server thread/INFO] [Jade/]: Syncing config to Valengarf (9611244b-0a3e-3b75-a3fb-85fcecc0ed8e)
+[01Aug2025 05:15:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Plenty of Golems]
+[01Aug2025 05:15:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Terramity]
+[01Aug2025 05:15:47.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Barrel Booty]
+[01Aug2025 05:16:00.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[01Aug2025 05:16:18.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[01Aug2025 05:16:36.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[01Aug2025 05:16:54.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[01Aug2025 05:17:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Ghostly Anomaly Detected]
+[01Aug2025 05:17:13.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3555ms or 71 ticks behind
+[01Aug2025 05:17:31.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[01Aug2025 05:17:31.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[01Aug2025 05:17:32.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[01Aug2025 05:17:51.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4725ms or 94 ticks behind
+[01Aug2025 05:18:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Monster Hunter]
+[01Aug2025 05:18:10.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[01Aug2025 05:18:28.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[01Aug2025 05:18:47.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[01Aug2025 05:19:05.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[01Aug2025 05:19:22.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[01Aug2025 05:19:41.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[01Aug2025 05:19:59.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[01Aug2025 05:20:05.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [A Fool's Folly]
+[01Aug2025 05:20:05.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:20:17.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[01Aug2025 05:20:19.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Into Fire]
+[01Aug2025 05:20:25.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Tools of the Trade]
+[01Aug2025 05:20:35.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[01Aug2025 05:20:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Ice Bucket Challenge]
+[01Aug2025 05:20:54.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[01Aug2025 05:21:13.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4724ms or 94 ticks behind
+[01Aug2025 05:21:32.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4125ms or 82 ticks behind
+[01Aug2025 05:21:52.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[01Aug2025 05:22:10.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
+[01Aug2025 05:22:19.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:22:23.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:22:29.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20316, l='ServerLevel[world]', x=16.50, y=70.00, z=250.50]
+[01Aug2025 05:22:30.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:22:30.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
+[01Aug2025 05:22:34.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:22:34.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:22:34.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:22:44.253] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[01Aug2025 05:22:44.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:22:44.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:22:46.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:22:47.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 05:22:49.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[01Aug2025 05:22:50.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:23:01.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:23:01.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:23:01.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:23:03.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:23:07.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[01Aug2025 05:23:10.102] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:23:15.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 05:23:21.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:23:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Stone Age]
+[01Aug2025 05:23:26.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[01Aug2025 05:23:27.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:23:27.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:23:43.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[01Aug2025 05:23:52.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[01Aug2025 05:24:05.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
