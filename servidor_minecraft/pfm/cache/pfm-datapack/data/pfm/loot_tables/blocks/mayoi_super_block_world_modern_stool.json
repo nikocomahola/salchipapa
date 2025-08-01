@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "mayoi_super_block_world_modern_stool",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mayoi_super_block_world_modern_stool"
+        }
+      ]
+    }
+  ]
+}

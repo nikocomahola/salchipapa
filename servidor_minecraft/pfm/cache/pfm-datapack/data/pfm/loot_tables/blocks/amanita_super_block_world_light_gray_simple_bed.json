@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "name": "amanita_super_block_world_light_gray_simple_bed",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "pfm:amanita_super_block_world_light_gray_simple_bed",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:amanita_super_block_world_light_gray_simple_bed"
+        }
+      ]
+    }
+  ]
+}

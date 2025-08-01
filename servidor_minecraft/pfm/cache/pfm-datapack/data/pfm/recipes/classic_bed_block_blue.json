@@ -1,0 +1,50 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "bedroom",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "ecologics:flowering_azalea",
+    "ecologics:azalea",
+    "ecologics:coconut",
+    "ecologics:walnut",
+    "quark:azalea",
+    "quark:ancient",
+    "quark:blossom",
+    "born_in_chaos_v1:scorched",
+    "cataclysm:chorus",
+    "super_block_world:amanita",
+    "super_block_world:mayoi",
+    "boh:black_walnut",
+    "boh:dogwood",
+    "boh:sassafras",
+    "alexscaves:pewen",
+    "alexscaves:thornwood"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:blue_bed"
+      }
+    ],
+    "variantChildren": {
+      "fence": 2,
+      "base": 3
+    }
+  },
+  "result": {
+    "outputClass": "ClassicBedBlock",
+    "tag": {
+      "color": "blue"
+    }
+  }
+}
