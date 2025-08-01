@@ -2669,3 +2669,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 10:10:40.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/46882, l='ServerLevel[world]', x=1021.70, y=57.00, z=-885.74] died: Unlicensed Alchemist was slain by wasmec
 [01Aug2025 10:11:03.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/1335, l='ServerLevel[world]', x=1014.54, y=57.00, z=-882.24] died: Unlicensed Alchemist was slain by wasmec
 [01Aug2025 10:11:11.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/1339, l='ServerLevel[world]', x=1014.54, y=57.00, z=-882.24] died: Unlicensed Alchemist was slain by wasmec
+[01Aug2025 10:12:31.245] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[01Aug2025 10:12:52.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 10:12:57.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 10:12:57.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 10:12:58.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:12:59.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 10:13:20.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:13:29.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[01Aug2025 10:13:31.159] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 10:13:39.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:13:46.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1376, l='ServerLevel[world]', x=972.51, y=65.00, z=-905.35] died, message: 'Unemployed was slain by Door Knight'
+[01Aug2025 10:14:00.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:14:06.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:14:06.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:14:12.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:14:12.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:14:12.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:14:29.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 10:14:29.264] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 10:14:30.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1369, l='ServerLevel[world]', x=996.30, y=73.00, z=-879.34] died, message: 'Fisherman was slain by Zombie'
+[01Aug2025 10:14:31.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 10:14:41.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 10:14:42.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 10:15:12.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:15:52.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1383, l='ServerLevel[world]', x=1003.53, y=57.00, z=-889.50] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:15:54.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1382, l='ServerLevel[world]', x=1003.54, y=57.00, z=-888.63] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:15:56.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:15:58.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 10:15:58.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1384, l='ServerLevel[world]', x=1003.17, y=57.35, z=-888.51] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:16:00.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1385, l='ServerLevel[world]', x=1003.75, y=57.00, z=-888.84] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:16:04.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1381, l='ServerLevel[world]', x=1003.67, y=57.00, z=-888.51] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:16:05.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 10:16:05.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/1388, l='ServerLevel[world]', x=1003.20, y=57.00, z=-888.22] died: Drunken Villager was slain by wasmec
+[01Aug2025 10:16:07.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 10:16:09.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:16:09.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:16:42.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 10:16:45.356] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 10:19:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has reached the goal [Gold Digger]
+[01Aug2025 10:22:24.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[01Aug2025 10:22:47.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1322, l='ServerLevel[world]', x=1013.45, y=70.00, z=-879.35] died, message: 'Unemployed was slain by Zombie'
+[01Aug2025 10:22:58.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wasmec lost connection: Disconnected
+[01Aug2025 10:22:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec left the game
+[01Aug2025 10:23:10.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wasmec[/172.29.189.77:55116] logged in with entity id 98928 at (1043.699999988079, 61.635050693824844, -884.6999999880791)
+[01Aug2025 10:23:10.965] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player wasmec
+[01Aug2025 10:23:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec joined the game
+[01Aug2025 10:23:11.022] [Server thread/INFO] [Jade/]: Syncing config to wasmec (fb372778-8abd-3f84-a00e-a7642287edcf)
+[01Aug2025 10:23:40.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[01Aug2025 10:23:45.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/98989, l='ServerLevel[world]', x=1041.67, y=87.00, z=-868.55] died, message: 'Fisherman was slain by Zombie Bruiser'
+[01Aug2025 10:23:48.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/98936, l='ServerLevel[world]', x=1042.26, y=87.00, z=-867.39] died, message: 'Fisherman was slain by Zombie Bruiser'
+[01Aug2025 10:29:17.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[01Aug2025 10:31:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has reached the goal [Horror Under the Mantle]

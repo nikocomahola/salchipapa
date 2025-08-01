@@ -7080,5 +7080,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-01 10:14:09 +0000"
+    },
+    "done": true
+  },
+  "species:species/v1/break_limpet": {
+    "criteria": {
+      "break_limpet": "2025-08-01 10:19:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
