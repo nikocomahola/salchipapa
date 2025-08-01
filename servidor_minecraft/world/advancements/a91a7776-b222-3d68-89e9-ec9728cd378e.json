@@ -5364,6 +5364,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5379,6 +5385,18 @@
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5430,6 +5448,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-01 20:20:21 +0000"
@@ -5439,6 +5463,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5454,9 +5484,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -5478,9 +5520,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-01 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5520,9 +5574,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5574,6 +5640,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5604,6 +5676,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-08-01 20:22:58 +0000"
@@ -5613,6 +5691,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5676,6 +5760,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5688,9 +5778,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5724,6 +5826,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
@@ -5739,6 +5847,12 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -5760,9 +5874,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5793,6 +5925,18 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5838,6 +5982,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5862,6 +6018,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5871,6 +6033,12 @@
   "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -5889,6 +6057,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -5931,6 +6105,18 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6000,9 +6186,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-08-01 20:22:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6024,6 +6222,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -6039,6 +6243,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-01 20:20:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -6102,6 +6312,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -6126,6 +6342,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2025-08-01 19:29:55 +0000"
@@ -6141,6 +6363,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2025-08-01 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6204,6 +6432,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-01 19:27:21 +0000"
@@ -6213,6 +6453,12 @@
   "creepingwoods:lets_start_a_video": {
     "criteria": {
       "lets_start_a_video": "2025-08-01 20:18:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6264,6 +6510,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
@@ -6276,15 +6528,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6318,9 +6588,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -6342,9 +6630,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6354,9 +6654,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6396,6 +6708,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-08-01 20:35:15 +0000"
@@ -6405,6 +6729,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6462,6 +6792,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-01 20:22:13 +0000"
@@ -6504,6 +6840,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
@@ -6528,15 +6870,39 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -6549,6 +6915,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6588,6 +6960,42 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/basic_shower_head": {
     "criteria": {
       "has_water_bucket": "2025-08-01 19:30:09 +0000"
@@ -6606,6 +7014,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -6621,6 +7041,12 @@
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6678,6 +7104,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
@@ -6702,9 +7134,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },
@@ -6714,9 +7158,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-01 20:56:22 +0000"
     },
     "done": true
   },
@@ -6729,6 +7191,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-01 20:22:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-01 20:47:21 +0000"
     },
     "done": true
   },

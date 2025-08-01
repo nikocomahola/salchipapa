@@ -8163,15 +8163,27 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-01 09:56:19 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-08-01 19:28:23 +0000"
+    },
+    "done": true
+  },
   "vanilla_refresh:player/hurt": {
     "criteria": {
       "requirement": "2025-08-01 19:39:39 +0000"
     },
     "done": true
   },
-  "lootr:100loot": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "loot_stat": "2025-08-01 09:56:19 +0000"
+      "has_furnace": "2025-08-01 19:45:04 +0000"
     },
     "done": true
   },
@@ -8211,12 +8223,6 @@
     },
     "done": true
   },
-  "vintagedelight:main/harvest_salt": {
-    "criteria": {
-      "harvest_salt": "2025-08-01 19:28:23 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-08-01 19:45:56 +0000"
@@ -8226,12 +8232,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-01 19:45:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-08-01 19:45:04 +0000"
     },
     "done": true
   },
@@ -8325,12 +8325,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-08-01 19:59:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-08-01 19:45:56 +0000"
@@ -8403,12 +8397,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/lush_caves": {
-    "criteria": {
-      "requirement": "2025-08-01 20:05:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-01 19:45:56 +0000"
@@ -8433,12 +8421,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-08-01 19:59:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 19:45:56 +0000"
@@ -8454,6 +8436,24 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-08-01 19:45:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-01 19:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-01 19:59:44 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/lush_caves": {
+    "criteria": {
+      "requirement": "2025-08-01 20:05:27 +0000"
     },
     "done": true
   },

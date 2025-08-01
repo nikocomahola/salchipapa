@@ -1,0 +1,148 @@
+{
+  "creepingwoods:hes_watching": {
+    "criteria": {
+      "hes_watching": "2025-08-01 20:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-01 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "species:species/v1/v1": {
+    "criteria": {
+      "picked_up_any_item": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/dark_forest": {
+    "criteria": {
+      "requirement": "2025-08-01 20:47:10 +0000"
+    },
+    "done": true
+  },
+  "species:species/root": {
+    "criteria": {
+      "picked_up_any_item": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-08-01 20:46:55 +0000"
+    },
+    "done": false
+  },
+  "vintagedelight:main/root": {
+    "criteria": {
+      "salt": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-08-01 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-08-01 20:55:55 +0000"
+    },
+    "done": true
+  },
+  "species:species/v3/v3": {
+    "criteria": {
+      "picked_up_any_item": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-08-01 20:47:29 +0000",
+      "minecraft:dark_forest": "2025-08-01 20:46:56 +0000"
+    },
+    "done": false
+  },
+  "species:species/v2/v2": {
+    "criteria": {
+      "picked_up_any_item": "2025-08-01 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
