@@ -3425,3 +3425,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 21:39:54.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
 [01Aug2025 21:39:54.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 21:39:55.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 21:39:55.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 21:39:55.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 21:39:56.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:56.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:56.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 21:39:56.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:56.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 21:39:56.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:56.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:56.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:39:57.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[01Aug2025 21:39:57.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:40:01.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 21:40:01.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 21:42:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has reached the goal [Greed may lead to loss]
+[01Aug2025 21:42:17.901] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:17.902] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:17.902] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:17.902] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:18.294] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:18.294] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:18.294] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:18.295] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:42:18.295] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 21:43:56.041] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[01Aug2025 21:44:03.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueby87[/172.29.105.64:52780] logged in with entity id 1808350 at (978.3309767592546, 67.0, -1103.149436832257)
+[01Aug2025 21:44:03.870] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player blueby87
+[01Aug2025 21:44:03.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 joined the game
+[01Aug2025 21:44:03.899] [Server thread/INFO] [Jade/]: Syncing config to blueby87 (372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70)
+[01Aug2025 21:44:24.423] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1814598, l='ServerLevel[world]', x=1038.50, y=70.00, z=-1152.50]
+[01Aug2025 21:44:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Stone Free]
+[01Aug2025 21:45:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Alex's Caves]
+[01Aug2025 21:47:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Deceived Hopes]
