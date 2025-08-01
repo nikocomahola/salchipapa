@@ -2977,6 +2977,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-01 09:24:24 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-08-01 05:32:33 +0000"
@@ -7819,6 +7825,12 @@
     },
     "done": true
   },
+  "creepingwoods:ghostly_anomaly_detected": {
+    "criteria": {
+      "ghostly_anomaly_detected": "2025-08-01 09:23:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7855,6 +7867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-01 09:26:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7873,9 +7891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-01 09:26:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-01 09:26:46 +0000"
     },
     "done": true
   },
