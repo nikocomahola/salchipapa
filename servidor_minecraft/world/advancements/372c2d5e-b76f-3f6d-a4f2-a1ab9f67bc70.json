@@ -8615,15 +8615,45 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-01 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-08-01 23:07:20 +0000"
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-08-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-08-01 23:33:27 +0000"
     },
     "done": true
   },
@@ -8636,6 +8666,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-08-01 23:33:27 +0000"
     },
     "done": true
   },
@@ -8660,6 +8696,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:33:27 +0000"
     },
     "done": true
   },
