@@ -140,7 +140,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-01 06:03:15 +0000"
+      "requirement": "2025-08-01 07:28:10 +0000"
     },
     "done": true
   },
@@ -894,6 +894,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-01 07:31:28 +0000"
     },
     "done": true
   },
@@ -1899,6 +1905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-01 07:23:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:10:57 +0000"
@@ -2787,6 +2799,12 @@
     },
     "done": true
   },
+  "species:recipes/monster_mask": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-01 07:17:49 +0000"
@@ -2877,6 +2895,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-08-01 07:23:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
@@ -2904,6 +2928,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-08-01 07:23:42 +0000"
     },
     "done": true
   },
@@ -3210,6 +3240,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_dope": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
     },
     "done": true
   },
@@ -3705,6 +3741,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-01 07:23:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-08-01 05:32:43 +0000"
@@ -4113,6 +4155,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-01 07:23:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
@@ -4419,6 +4467,12 @@
     },
     "done": true
   },
+  "species:recipes/monster_meal": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:33:50 +0000"
@@ -4656,7 +4710,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-01 05:15:47 +0000",
-      "opened_chest": "2025-08-01 05:20:05 +0000"
+      "opened_chest": "2025-08-01 05:20:05 +0000",
+      "opened_cart": "2025-08-01 07:31:28 +0000"
     },
     "done": false
   },
@@ -5185,6 +5240,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 06:07:36 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_treat": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
     },
     "done": true
   },
@@ -5956,6 +6017,12 @@
     },
     "done": true
   },
+  "species:recipes/smoke_bomb": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-08-01 05:14:46 +0000"
@@ -6037,6 +6104,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-08-01 07:24:37 +0000"
     },
     "done": true
   },
@@ -6406,6 +6479,12 @@
     },
     "done": true
   },
+  "species:recipes/wicked_swapper": {
+    "criteria": {
+      "has_item": "2025-08-01 07:23:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-01 05:00:53 +0000"
@@ -6757,6 +6836,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-08-01 05:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-01 07:23:42 +0000"
     },
     "done": true
   },

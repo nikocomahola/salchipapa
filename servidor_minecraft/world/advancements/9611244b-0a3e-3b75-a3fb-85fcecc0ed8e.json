@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-08-01 07:32:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -452,6 +458,12 @@
   "pfm:recipes/furniture/magenta_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-01 07:33:23 +0000"
     },
     "done": true
   },
@@ -947,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-01 07:32:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-08-01 05:50:20 +0000"
@@ -1013,6 +1031,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_light_gray": {
+    "criteria": {
+      "oak_chair_classic_light_gray": "2025-08-01 07:32:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-08-01 05:50:20 +0000"
@@ -1040,6 +1064,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-01 07:32:03 +0000"
     },
     "done": true
   },
@@ -1346,6 +1376,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-08-01 05:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-01 07:32:03 +0000"
     },
     "done": true
   },
@@ -1769,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 07:29:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_iron_nugget": "2025-08-01 05:50:25 +0000"
@@ -2054,6 +2096,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-01 05:50:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-08-01 07:32:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_gray_shower_towel": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-01 07:32:03 +0000"
     },
     "done": true
   },
@@ -2885,6 +2939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-01 07:32:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -2990,6 +3050,12 @@
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-01 06:36:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-01 07:27:38 +0000"
     },
     "done": true
   },
@@ -3488,6 +3554,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 07:29:27 +0000"
     },
     "done": true
   },
