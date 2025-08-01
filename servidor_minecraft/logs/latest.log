@@ -2673,3 +2673,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 19:25:55.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
 [01Aug2025 19:26:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> si sirve de algo, las estatuas reciben mas daño de picos
 [01Aug2025 19:26:39.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[01Aug2025 19:27:01.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[01Aug2025 19:27:26.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tiene sentido
+[01Aug2025 19:27:35.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104501, l='ServerLevel[world]', x=856.50, y=70.00, z=-1058.50]
+[01Aug2025 19:27:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> lo mismo dije JAJAJ
+[01Aug2025 19:27:50.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[01Aug2025 19:28:20.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[01Aug2025 19:28:50.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[01Aug2025 19:28:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [You Spin Me Right Round Baby]
+[01Aug2025 19:29:00.921] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/125762, l='ServerLevel[world]', x=827.50, y=76.00, z=-1045.50]
+[01Aug2025 19:29:13.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> Va todo muy fluido me gusta
+[01Aug2025 19:29:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> heh, lo se
+[01Aug2025 19:29:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> soy lo mejor
+[01Aug2025 19:29:33.073] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/133746, l='ServerLevel[world]', x=899.50, y=73.00, z=-1072.50]
+[01Aug2025 19:29:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> (no se como no le a crasheado a nadie aun)
+[01Aug2025 19:29:58.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/140020, l='ServerLevel[world]', x=900.50, y=73.00, z=-1070.50]
+[01Aug2025 19:30:02.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 19:30:02.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:02.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:04.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 19:30:05.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:05.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 19:30:08.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:11.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:11.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 19:30:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ay
+[01Aug2025 19:30:16.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 19:30:16.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 19:30:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tienes cama?
+[01Aug2025 19:30:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> yes
+[01Aug2025 19:30:26.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> deje la mia en una dungeon....
+[01Aug2025 19:30:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> dia 22.
+[01Aug2025 19:30:42.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Not Today, Thank You]
+[01Aug2025 19:30:50.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[01Aug2025 19:30:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Voluntary Exile]
+[01Aug2025 19:31:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> necesito una ocarina
+[01Aug2025 19:31:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> esta dificil de craftear
+[01Aug2025 19:31:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tengo muchisimas canciones para la ocarina JJDJASD
+[01Aug2025 19:31:37.758] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[01Aug2025 19:32:02.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/170706, l='ServerLevel[world]', x=827.50, y=76.00, z=-1047.50]
+[01Aug2025 19:33:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> ya viste el crafteo................
+[01Aug2025 19:34:15.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/203600, l='ServerLevel[world]', x=900.50, y=73.00, z=-1072.50]
+[01Aug2025 19:34:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> el diavloooo
+[01Aug2025 19:35:34.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01Aug2025 19:35:39.612] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/223573, l='ServerLevel[world]', x=838.50, y=78.00, z=-1056.50]
+[01Aug2025 19:36:34.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/237628, l='ServerLevel[world]', x=826.50, y=76.00, z=-1047.50]
+[01Aug2025 19:36:46.522] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/240968, l='ServerLevel[world]', x=846.50, y=75.00, z=-1048.50]
+[01Aug2025 19:36:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> casi me cae un coco en la cabeza
+[01Aug2025 19:37:03.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> poñoñoin

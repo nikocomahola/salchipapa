@@ -122,6 +122,7 @@
       "minecraft:beach": "2025-08-01 03:34:22 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:36 +0000",
       "minecraft:river": "2025-08-01 05:17:51 +0000",
+      "minecraft:stony_shore": "2025-08-01 19:26:13 +0000",
       "minecraft:forest": "2025-08-01 05:40:12 +0000",
       "minecraft:ocean": "2025-08-01 06:27:21 +0000",
       "minecraft:flower_forest": "2025-08-01 06:57:14 +0000",
@@ -8161,15 +8162,15 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-01 09:51:48 +0000"
-    },
-    "done": true
-  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-08-01 09:56:19 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-08-01 19:28:23 +0000"
     },
     "done": true
   },
