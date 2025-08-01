@@ -2979,7 +2979,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-01 09:24:24 +0000"
+      "requirement": "2025-08-01 09:44:07 +0000"
     },
     "done": true
   },
@@ -7747,6 +7747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7771,9 +7777,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-08-01 09:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-01 09:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-08-01 09:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
     },
     "done": true
   },
@@ -7789,6 +7819,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-01 09:39:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-08-01 09:16:06 +0000"
@@ -7798,6 +7840,12 @@
   "skilltree:recipes/misc/copper_nugget": {
     "criteria": {
       "has_ingots_copper": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 09:31:30 +0000"
     },
     "done": true
   },
@@ -7825,6 +7873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-01 09:44:46 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:ghostly_anomaly_detected": {
     "criteria": {
       "ghostly_anomaly_detected": "2025-08-01 09:23:13 +0000"
@@ -7849,6 +7903,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-08-01 09:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_halberd": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7864,6 +7930,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_handle": {
+    "criteria": {
+      "has_lever": "2025-08-01 09:43:46 +0000"
     },
     "done": true
   },
@@ -7927,9 +7999,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 09:37:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-08-01 09:36:36 +0000"
     },
     "done": true
   },
@@ -7957,6 +8041,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-08-01 09:39:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7975,6 +8065,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-01 09:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-01 09:39:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -7990,6 +8098,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 09:44:55 +0000"
     },
     "done": true
   },
@@ -8023,6 +8137,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-01 09:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
@@ -8032,6 +8152,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 09:14:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-01 09:44:46 +0000"
     },
     "done": true
   },
