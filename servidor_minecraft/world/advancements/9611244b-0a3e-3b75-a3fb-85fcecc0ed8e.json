@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/toadstone_brick_slab": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 05:36:32 +0000"
@@ -590,6 +596,12 @@
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-08-01 06:06:53 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/food/yoshi_cookie": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:15:44 +0000"
     },
     "done": true
   },
@@ -1091,6 +1103,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-08-01 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_yoshi_fruit": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:15:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-01 05:34:31 +0000"
@@ -1589,6 +1613,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 06:21:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 06:01:00 +0000"
@@ -1703,6 +1733,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-01 06:18:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -1718,6 +1754,12 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/music_disc_dial": {
+    "criteria": {
+      "has_item": "2025-08-01 06:18:43 +0000"
     },
     "done": true
   },
@@ -2699,6 +2741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_toadstone_bricks_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-08-01 05:50:20 +0000"
@@ -2708,6 +2756,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-08-01 06:21:51 +0000"
     },
     "done": true
   },
@@ -2780,6 +2834,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/golden_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:14:44 +0000"
     },
     "done": true
   },
@@ -2975,6 +3035,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 06:21:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/arm_chair_leather": {
     "criteria": {
       "has_wool": "2025-08-01 05:49:36 +0000"
@@ -3008,6 +3074,12 @@
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 05:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
     },
     "done": true
   },
@@ -3135,6 +3207,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/toadstone_brick_wall": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
     },
     "done": true
   },
@@ -3732,6 +3810,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/crystal_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
@@ -3771,6 +3855,12 @@
   "spartanweaponry:recipes/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_slab_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
     },
     "done": true
   },
@@ -4266,6 +4356,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2025-08-01 06:16:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_wheat": "2025-08-01 05:34:31 +0000"
@@ -4607,6 +4703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-01 05:49:36 +0000"
@@ -4658,6 +4760,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_brick_stairs": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:14:44 +0000"
     },
     "done": true
   },

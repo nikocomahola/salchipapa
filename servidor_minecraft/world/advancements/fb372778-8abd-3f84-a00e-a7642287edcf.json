@@ -121,7 +121,9 @@
       "minecraft:river": "2025-08-01 04:57:25 +0000",
       "minecraft:forest": "2025-08-01 05:29:52 +0000",
       "minecraft:ocean": "2025-08-01 04:33:12 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-01 05:25:26 +0000"
+      "minecraft:flower_forest": "2025-08-01 06:20:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-01 05:25:26 +0000",
+      "minecraft:plains": "2025-08-01 06:20:53 +0000"
     },
     "done": false
   },
@@ -2221,6 +2223,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-01 06:21:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:41:37 +0000"
@@ -2257,9 +2265,21 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/toadstone_brick_slab": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:41:37 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/coarse_toadstool_soil": {
+    "criteria": {
+      "has_material": "2025-08-01 06:13:41 +0000"
     },
     "done": true
   },
@@ -2302,6 +2322,12 @@
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-08-01 05:46:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/food/yoshi_cookie": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:17:26 +0000"
     },
     "done": true
   },
@@ -2440,6 +2466,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_yoshi_fruit": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:17:26 +0000"
     },
     "done": true
   },
@@ -2641,6 +2673,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-08-01 06:20:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
@@ -2656,6 +2694,12 @@
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-08-01 05:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-01 06:21:52 +0000"
     },
     "done": true
   },
@@ -2752,6 +2796,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-01 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone": {
+    "criteria": {
+      "has_toadstool_soil": "2025-08-01 06:13:41 +0000"
     },
     "done": true
   },
@@ -2893,6 +2943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_toadstone_bricks_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:11:00 +0000"
@@ -2914,6 +2970,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/golden_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:20:01 +0000"
     },
     "done": true
   },
@@ -2953,9 +3015,21 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/flower_forest": {
+    "criteria": {
+      "requirement": "2025-08-01 06:21:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
     },
     "done": true
   },
@@ -2999,6 +3073,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/toadstone_brick_wall": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
     },
     "done": true
   },
@@ -3182,9 +3262,21 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/crystal_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-01 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_slab_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
     },
     "done": true
   },
@@ -3374,6 +3466,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/vanillate": {
+    "criteria": {
+      "has_vanillate_crumble": "2025-08-01 06:14:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:11:00 +0000"
@@ -3446,6 +3544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
@@ -3455,6 +3559,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_brick_stairs": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:20:01 +0000"
     },
     "done": true
   },

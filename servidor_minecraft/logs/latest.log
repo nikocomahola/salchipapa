@@ -3925,3 +3925,121 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 06:14:37.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/556243, l='ServerLevel[world]', x=230.50, y=75.00, z=-407.50]
 [01Aug2025 06:14:50.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9904ms or 198 ticks behind
 [01Aug2025 06:14:52.616] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/560167, l='ServerLevel[world]', x=343.50, y=73.00, z=-388.50]
+[01Aug2025 06:15:12.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/565143, l='ServerLevel[world]', x=287.50, y=72.00, z=-354.50]
+[01Aug2025 06:15:16.180] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/565829, l='ServerLevel[world]', x=297.50, y=75.00, z=-374.50]
+[01Aug2025 06:15:16.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11183ms or 223 ticks behind
+[01Aug2025 06:15:31.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/569596, l='ServerLevel[world]', x=285.50, y=71.00, z=-362.50]
+[01Aug2025 06:15:35.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/570538, l='ServerLevel[world]', x=338.50, y=72.00, z=-412.50]
+[01Aug2025 06:15:42.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10639ms or 212 ticks behind
+[01Aug2025 06:15:45.385] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/573037, l='ServerLevel[world]', x=304.50, y=71.00, z=-350.50]
+[01Aug2025 06:16:07.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10313ms or 206 ticks behind
+[01Aug2025 06:16:26.436] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/583917, l='ServerLevel[world]', x=332.50, y=70.00, z=-386.50]
+[01Aug2025 06:16:31.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
+[01Aug2025 06:16:32.502] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/585593, l='ServerLevel[world]', x=224.50, y=75.00, z=-437.50]
+[01Aug2025 06:16:56.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9577ms or 191 ticks behind
+[01Aug2025 06:17:22.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/598411, l='ServerLevel[world]', x=497.50, y=73.00, z=-172.50]
+[01Aug2025 06:17:22.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11588ms or 231 ticks behind
+[01Aug2025 06:17:46.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/604804, l='ServerLevel[world]', x=266.50, y=75.00, z=-408.50]
+[01Aug2025 06:17:48.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10566ms or 211 ticks behind
+[01Aug2025 06:17:55.654] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/607225, l='ServerLevel[world]', x=498.50, y=73.00, z=-174.50]
+[01Aug2025 06:17:55.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/607312, l='ServerLevel[world]', x=312.50, y=72.00, z=-388.50]
+[01Aug2025 06:18:02.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/608883, l='ServerLevel[world]', x=493.50, y=73.00, z=-220.50]
+[01Aug2025 06:18:08.531] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/610485, l='ServerLevel[world]', x=266.50, y=75.00, z=-409.50]
+[01Aug2025 06:18:13.093] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/611673, l='ServerLevel[world]', x=342.50, y=73.00, z=-389.50]
+[01Aug2025 06:18:13.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10578ms or 211 ticks behind
+[01Aug2025 06:18:27.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/615238, l='ServerLevel[world]', x=217.50, y=78.00, z=-380.50]
+[01Aug2025 06:18:28.176] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.177] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.177] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.177] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.903] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.903] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:28.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:41.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12517ms or 250 ticks behind
+[01Aug2025 06:18:43.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/619128, l='ServerLevel[world]', x=315.50, y=72.00, z=-406.50]
+[01Aug2025 06:18:52.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.127] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.163] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.163] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.163] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.164] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:52.164] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:59.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:59.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:59.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[01Aug2025 06:18:59.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[01Aug2025 06:18:59.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[01Aug2025 06:18:59.467] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[01Aug2025 06:18:59.573] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:18:59.573] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:19:03.790] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:19:03.791] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:19:03.791] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:19:03.791] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:19:09.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13474ms or 269 ticks behind
+[01Aug2025 06:19:40.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15629ms or 312 ticks behind
+[01Aug2025 06:19:48.926] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[01Aug2025 06:19:56.671] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:07.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12410ms or 248 ticks behind
+[01Aug2025 06:20:27.503] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:27.503] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:27.652] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:27.652] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:30.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Valengarf moved too quickly! 3.8964394916383753,-0.2522033402537289,9.743849750202152
+[01Aug2025 06:20:35.737] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 06:20:39.595] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:39.595] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:41.916] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:41.917] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:41.917] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:41.917] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:41.917] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:20:48.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25920ms or 518 ticks behind
+[01Aug2025 06:21:01.701] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.703] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.703] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.703] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.704] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.815] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.815] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.815] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:01.816] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 06:21:07.465] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[01Aug2025 06:21:20.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16291ms or 325 ticks behind
+[01Aug2025 06:21:48.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13958ms or 279 ticks behind
+[01Aug2025 06:21:56.972] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/661040, l='ServerLevel[world]', x=499.50, y=73.00, z=-174.50]
+[01Aug2025 06:22:17.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13587ms or 271 ticks behind
+[01Aug2025 06:22:31.591] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/668985, l='ServerLevel[world]', x=495.50, y=73.00, z=-221.50]
+[01Aug2025 06:22:40.377] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 06:22:48.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15541ms or 310 ticks behind
+[01Aug2025 06:23:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Safe Haven]
+[01Aug2025 06:23:12.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Knowledge of Death]
+[01Aug2025 06:23:12.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has reached the goal [Greed may lead to loss]
+[01Aug2025 06:23:16.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13591ms or 271 ticks behind
+[01Aug2025 06:23:42.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11365ms or 227 ticks behind
+[01Aug2025 06:23:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Call For Adventure]
+[01Aug2025 06:23:44.039] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/686065, l='ServerLevel[world]', x=484.50, y=72.00, z=-235.50]
+[01Aug2025 06:23:52.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/688062, l='ServerLevel[world]', x=583.50, y=74.00, z=-415.50]
+[01Aug2025 06:24:04.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [The Power of light]
+[01Aug2025 06:24:09.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11839ms or 236 ticks behind
+[01Aug2025 06:24:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [The Power of light]
+[01Aug2025 06:24:36.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11868ms or 237 ticks behind
+[01Aug2025 06:24:42.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/699697, l='ServerLevel[world]', x=482.50, y=72.00, z=-234.50]
+[01Aug2025 06:24:59.611] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/703522, l='ServerLevel[world]', x=548.50, y=74.00, z=-315.50]
+[01Aug2025 06:25:02.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 06:25:03.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 06:25:05.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14120ms or 282 ticks behind
+[01Aug2025 06:25:12.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 06:25:16.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 06:25:17.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/707078, l='ServerLevel[world]', x=574.50, y=71.00, z=-470.50]
+[01Aug2025 06:25:20.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:25:20.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/707744, l='ServerLevel[world]', x=484.50, y=72.00, z=-233.50]
+[01Aug2025 06:25:22.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 06:25:23.605] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:25:23.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 06:25:23.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:25:23.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 06:25:25.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:25:28.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already

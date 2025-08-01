@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-01 06:19:12 +0000",
       "minecraft:birch_forest": "2025-08-01 03:52:45 +0000",
       "minecraft:beach": "2025-08-01 03:32:23 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:04 +0000",
@@ -953,6 +954,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/food/yoshi_cookie": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:16:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 04:55:14 +0000"
@@ -1439,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_yoshi_fruit": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:16:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-01 05:33:22 +0000"
@@ -1718,6 +1731,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-01 04:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 06:15:05 +0000"
     },
     "done": true
   },
@@ -2309,6 +2328,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-01 06:13:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-08-01 04:55:14 +0000"
@@ -2342,6 +2367,12 @@
   "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 04:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-01 06:13:49 +0000"
     },
     "done": true
   },
@@ -2855,6 +2886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 06:15:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/orange_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-01 04:56:03 +0000"
@@ -2966,6 +3003,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 04:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 06:15:05 +0000"
     },
     "done": true
   },
@@ -3350,6 +3393,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 06:15:10 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_slab": {
     "criteria": {
       "has_planks": "2025-08-01 04:58:52 +0000"
@@ -3365,6 +3414,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-08-01 05:48:19 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2025-08-01 06:19:11 +0000"
     },
     "done": true
   },
@@ -3900,6 +3955,12 @@
   "super_block_world:mushroom_kingdom/root": {
     "criteria": {
       "has_power_star": "2025-08-01 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 06:15:10 +0000"
     },
     "done": true
   },
