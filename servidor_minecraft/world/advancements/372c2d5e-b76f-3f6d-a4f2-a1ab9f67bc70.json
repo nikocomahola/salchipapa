@@ -1192,6 +1192,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 06:09:23 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-08-01 05:32:33 +0000"
@@ -1636,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-01 06:05:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-08-01 05:11:00 +0000"
@@ -1717,6 +1729,12 @@
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 06:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-01 06:06:15 +0000"
     },
     "done": true
   },
@@ -2071,6 +2089,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-08-01 05:11:03 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/armor_stand": {
+    "criteria": {
+      "requirement": "2025-08-01 06:05:52 +0000"
     },
     "done": true
   },
@@ -2638,6 +2662,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-01 06:06:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-01 05:11:03 +0000"
@@ -3028,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-01 06:06:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:11:00 +0000"
@@ -3132,7 +3168,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-08-01 05:18:09 +0000"
+      "minecraft:creeper": "2025-08-01 05:18:09 +0000",
+      "minecraft:zombie": "2025-08-01 06:10:24 +0000"
     },
     "done": false
   },
@@ -3410,6 +3447,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-08-01 05:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-01 06:09:23 +0000"
     },
     "done": true
   },
@@ -3854,6 +3897,12 @@
   "pfm:recipes/furniture/cyan_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-01 06:09:23 +0000"
     },
     "done": true
   },
@@ -4397,6 +4446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-01 06:04:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:31:17 +0000"
@@ -4610,6 +4665,12 @@
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 06:09:23 +0000"
     },
     "done": true
   },
@@ -4913,6 +4974,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-01 06:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-01 05:16:23 +0000"
@@ -5030,6 +5097,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 06:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-01 06:09:23 +0000"
     },
     "done": true
   },

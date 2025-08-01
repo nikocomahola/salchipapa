@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/toadstone_brick_slab": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:30:26 +0000"
@@ -3005,6 +3011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_toadstone_bricks_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-08-01 04:59:37 +0000"
@@ -3107,6 +3119,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-01 05:48:19 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/golden_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:07:26 +0000"
     },
     "done": true
   },
@@ -3296,6 +3314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-08-01 04:55:14 +0000"
@@ -3396,6 +3420,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-08-01 05:30:26 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/toadstone_brick_wall": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
     },
     "done": true
   },
@@ -4005,6 +4035,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/crystal_bricks": {
+    "criteria": {
+      "has_material": "2025-08-01 06:07:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-01 04:55:14 +0000"
@@ -4062,6 +4098,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-01 05:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_slab_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
     },
     "done": true
   },
@@ -4941,6 +4983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_bricks_stonecutting": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-01 04:56:03 +0000"
@@ -4998,6 +5046,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 04:55:14 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_brick_stairs": {
+    "criteria": {
+      "has_toadstone_bricks": "2025-08-01 06:07:26 +0000"
     },
     "done": true
   },

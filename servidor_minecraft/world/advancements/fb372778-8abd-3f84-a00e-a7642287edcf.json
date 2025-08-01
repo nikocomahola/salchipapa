@@ -2245,6 +2245,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-01 06:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-01 05:13:55 +0000"
@@ -2449,6 +2455,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-01 06:06:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:41:37 +0000"
@@ -2569,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-01 06:08:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:11:00 +0000"
@@ -2602,6 +2620,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_string": "2025-08-01 05:30:43 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-01 06:04:44 +0000"
     },
     "done": true
   },

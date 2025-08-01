@@ -3833,3 +3833,95 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 06:04:51.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 06:04:51.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 06:04:53.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 06:04:57.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 06:04:58.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 06:04:58.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15320ms or 306 ticks behind
+[01Aug2025 06:05:00.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 06:05:04.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:08.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 06:05:08.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 06:05:10.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:10.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 06:05:10.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:14.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 06:05:15.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 06:05:15.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 06:05:17.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 06:05:18.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:05:18.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 06:05:18.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:05:21.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:21.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 06:05:26.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:26.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:26.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 06:05:26.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[01Aug2025 06:05:26.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:26.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:27.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 06:05:27.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 06:05:27.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13482ms or 269 ticks behind
+[01Aug2025 06:05:27.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:27.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:27.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:28.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:28.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 06:05:30.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:34.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Suit Up]
+[01Aug2025 06:05:35.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Suit Up]
+[01Aug2025 06:05:39.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:39.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:39.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:39.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 06:05:40.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 06:05:41.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 06:05:41.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> duerman no me puedo ni mover de aqui
+[01Aug2025 06:05:44.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 06:05:45.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 06:05:55.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12853ms or 257 ticks behind
+[01Aug2025 06:06:21.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11618ms or 232 ticks behind
+[01Aug2025 06:06:37.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Magic Writing]
+[01Aug2025 06:06:46.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/442727, l='ServerLevel[world]', x=514.50, y=71.00, z=-142.50]
+[01Aug2025 06:06:47.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10929ms or 218 ticks behind
+[01Aug2025 06:06:54.015] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/444570, l='ServerLevel[world]', x=27.50, y=70.00, z=289.50]
+[01Aug2025 06:07:02.410] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/446532, l='ServerLevel[world]', x=510.50, y=69.00, z=-149.50]
+[01Aug2025 06:07:14.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11842ms or 236 ticks behind
+[01Aug2025 06:07:32.648] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/454096, l='ServerLevel[world]', x=497.50, y=73.00, z=-173.50]
+[01Aug2025 06:07:40.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11229ms or 224 ticks behind
+[01Aug2025 06:08:00.786] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/461152, l='ServerLevel[world]', x=575.50, y=71.00, z=-470.50]
+[01Aug2025 06:08:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Valengarf moved too quickly! 0.5047754470717791,-10.484915545003645,-1.245005606301902
+[01Aug2025 06:08:06.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11180ms or 223 ticks behind
+[01Aug2025 06:08:08.253] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/462991, l='ServerLevel[world]', x=594.50, y=72.00, z=-402.50]
+[01Aug2025 06:08:32.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11183ms or 223 ticks behind
+[01Aug2025 06:08:34.031] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/469412, l='ServerLevel[world]', x=593.50, y=72.00, z=-404.50]
+[01Aug2025 06:08:36.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/470067, l='ServerLevel[world]', x=568.50, y=80.00, z=-543.50]
+[01Aug2025 06:08:49.644] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 125.9 μs. 244/247 recipes are parallelized.
+[01Aug2025 06:09:01.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13157ms or 263 ticks behind
+[01Aug2025 06:09:30.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14313ms or 286 ticks behind
+[01Aug2025 06:09:48.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 06:10:00.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15372ms or 307 ticks behind
+[01Aug2025 06:10:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> era una cosa negra
+[01Aug2025 06:10:27.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11572ms or 231 ticks behind
+[01Aug2025 06:10:53.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11456ms or 229 ticks behind
+[01Aug2025 06:11:19.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10354ms or 207 ticks behind
+[01Aug2025 06:11:26.553] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/510146, l='ServerLevel[world]', x=539.50, y=75.00, z=308.50]
+[01Aug2025 06:11:44.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10758ms or 215 ticks behind
+[01Aug2025 06:11:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> :eyes:
+[01Aug2025 06:11:46.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/515333, l='ServerLevel[world]', x=522.50, y=72.00, z=298.50]
+[01Aug2025 06:12:11.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11638ms or 232 ticks behind
+[01Aug2025 06:12:12.959] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/522037, l='ServerLevel[world]', x=287.50, y=71.00, z=-361.50]
+[01Aug2025 06:12:21.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/524020, l='ServerLevel[world]', x=226.50, y=75.00, z=-437.50]
+[01Aug2025 06:12:23.793] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/524585, l='ServerLevel[world]', x=497.50, y=73.00, z=-174.50]
+[01Aug2025 06:12:33.431] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 06:12:39.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12725ms or 254 ticks behind
+[01Aug2025 06:13:06.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12423ms or 248 ticks behind
+[01Aug2025 06:13:14.638] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/536203, l='ServerLevel[world]', x=314.50, y=72.00, z=-407.50]
+[01Aug2025 06:13:34.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12880ms or 257 ticks behind
+[01Aug2025 06:13:45.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/543173, l='ServerLevel[world]', x=219.50, y=78.00, z=-389.50]
+[01Aug2025 06:14:00.704] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/546844, l='ServerLevel[world]', x=337.50, y=72.00, z=-412.50]
+[01Aug2025 06:14:00.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11543ms or 230 ticks behind
+[01Aug2025 06:14:25.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9686ms or 193 ticks behind
+[01Aug2025 06:14:37.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/556243, l='ServerLevel[world]', x=230.50, y=75.00, z=-407.50]
+[01Aug2025 06:14:50.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9904ms or 198 ticks behind
+[01Aug2025 06:14:52.616] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/560167, l='ServerLevel[world]', x=343.50, y=73.00, z=-388.50]
