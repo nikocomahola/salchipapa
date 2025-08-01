@@ -247,7 +247,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-01 06:46:28 +0000",
       "minecraft:skeleton": "2025-08-01 05:14:45 +0000",
+      "minecraft:vindicator": "2025-08-01 06:43:43 +0000",
       "minecraft:spider": "2025-08-01 04:34:24 +0000"
     },
     "done": false
@@ -498,6 +500,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-01 06:51:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:10:57 +0000"
@@ -564,15 +572,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 06:25:01 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -621,6 +653,18 @@
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -726,6 +770,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 05:15:53 +0000"
@@ -741,6 +791,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -771,6 +827,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-08-01 05:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-01 06:49:25 +0000"
     },
     "done": true
   },
@@ -831,6 +893,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-08-01 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -1068,6 +1136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
@@ -1092,6 +1166,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/food/yoshi_cookie": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:50:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:00:42 +0000"
@@ -1107,6 +1187,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -1176,9 +1262,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/misc/power_shard": {
+    "criteria": {
+      "has_power_star": "2025-08-01 06:49:41 +0000"
     },
     "done": true
   },
@@ -1314,6 +1412,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
@@ -1341,6 +1445,12 @@
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -1401,6 +1511,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-01 06:51:17 +0000"
     },
     "done": true
   },
@@ -1578,6 +1694,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2025-08-01 06:51:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-01 06:25:01 +0000"
@@ -1668,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
@@ -1704,6 +1832,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 06:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-01 05:10:57 +0000"
@@ -1719,6 +1853,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_yoshi_fruit": {
+    "criteria": {
+      "has_yoshi_fruit": "2025-08-01 06:50:38 +0000"
     },
     "done": true
   },
@@ -1743,6 +1883,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -1893,6 +2039,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-08-01 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 06:51:13 +0000"
     },
     "done": true
   },
@@ -2196,6 +2348,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
@@ -2265,6 +2429,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 06:44:12 +0000"
     },
     "done": true
   },
@@ -2346,6 +2516,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 05:33:50 +0000"
@@ -2406,6 +2582,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-08-01 05:07:56 +0000"
@@ -2415,6 +2597,12 @@
   "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-08-01 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-08-01 06:51:10 +0000"
     },
     "done": true
   },
@@ -2634,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:06:28 +0000"
@@ -2754,6 +2948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-01 06:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-01 06:25:01 +0000"
@@ -2829,6 +3029,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 06:43:43 +0000"
     },
     "done": true
   },
@@ -3072,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-01 06:51:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-08-01 05:00:53 +0000"
@@ -3105,6 +3317,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -3159,6 +3377,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-01 06:51:13 +0000"
     },
     "done": true
   },
@@ -3468,6 +3692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-01 06:51:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-08-01 05:00:42 +0000"
@@ -3540,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_slimeball": "2025-08-01 05:26:19 +0000"
@@ -3582,6 +3818,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 06:47:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
@@ -3615,6 +3857,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-01 05:48:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -3696,6 +3944,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-08-01 05:33:50 +0000"
@@ -3747,6 +4001,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-08-01 05:07:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -3972,9 +4232,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-01 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 06:43:43 +0000"
     },
     "done": true
   },
@@ -4125,6 +4397,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -4363,6 +4641,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-08-01 05:00:42 +0000"
@@ -4405,6 +4695,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-08-01 05:00:42 +0000"
@@ -4414,6 +4710,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-08-01 05:07:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -4456,6 +4758,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-08-01 05:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 06:47:11 +0000"
     },
     "done": true
   },
@@ -4522,6 +4830,18 @@
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-08-01 05:07:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -4603,6 +4923,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-08-01 05:33:50 +0000"
@@ -4645,6 +4971,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-08-01 05:27:25 +0000"
@@ -4681,6 +5013,12 @@
     },
     "done": true
   },
+  "super_block_world:mushroom_kingdom/root": {
+    "criteria": {
+      "has_power_star": "2025-08-01 06:49:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 05:33:50 +0000"
@@ -4702,6 +5040,12 @@
   "largemeals:recipes/cooking/pufferfish_broth": {
     "criteria": {
       "has_any_ingredient": "2025-08-01 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -4756,6 +5100,24 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 06:51:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -4999,6 +5361,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-01 06:51:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-08-01 06:55:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-08-01 05:07:49 +0000"
@@ -5122,6 +5496,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:00:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -5317,6 +5697,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 06:47:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-01 06:47:11 +0000"
+    },
+    "done": true
+  },
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2025-08-01 05:00:53 +0000"
@@ -5449,6 +5841,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 05:00:53 +0000"
@@ -5530,6 +5928,18 @@
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-08-01 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 06:47:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
@@ -5968,6 +6378,12 @@
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-08-01 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-01 06:55:24 +0000"
     },
     "done": true
   },
