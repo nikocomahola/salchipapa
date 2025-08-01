@@ -5102,3 +5102,70 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 08:26:13.385] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player blueby87
 [01Aug2025 08:26:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 joined the game
 [01Aug2025 08:26:13.460] [Server thread/INFO] [Jade/]: Syncing config to blueby87 (372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70)
+[01Aug2025 08:29:17.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 08:29:21.385] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 08:29:21.386] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 08:29:26.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 08:29:27.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[01Aug2025 08:29:27.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 08:29:27.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 08:29:27.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 08:29:28.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 08:29:29.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 08:29:31.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 08:29:31.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 08:29:31.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 08:29:31.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 08:29:31.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 08:29:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 08:29:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 08:29:35.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 08:29:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ola volvi
+[01Aug2025 08:29:46.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> y pq yo
+[01Aug2025 08:29:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> no yo no grrr
+[01Aug2025 08:30:03.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 08:30:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> yo igual con was
+[01Aug2025 08:30:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> salvaje hoy
+[01Aug2025 08:30:31.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> nomas es lindo
+[01Aug2025 08:30:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> para dar tension
+[01Aug2025 08:30:36.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> dia 13.
+[01Aug2025 08:30:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUE ES ESO SICK
+[01Aug2025 08:30:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> SI?
+[01Aug2025 08:31:02.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que epico
+[01Aug2025 08:31:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> aver
+[01Aug2025 08:31:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> usalo conmigo
+[01Aug2025 08:31:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUE DEICA
+[01Aug2025 08:31:24.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> SE CREIA GOKU
+[01Aug2025 08:31:29.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> te dare suave...para no matarte
+[01Aug2025 08:31:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> toma
+[01Aug2025 08:31:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> usa el de creeper contra mi
+[01Aug2025 08:31:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> quiero ver
+[01Aug2025 08:32:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> omg es verdad
+[01Aug2025 08:32:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> epico
+[01Aug2025 08:32:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> Bv
+[01Aug2025 08:32:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> eso es nuevo para mi tambien
+[01Aug2025 08:32:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tengo que ver
+[01Aug2025 08:34:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> el de las gemitas esas es del arbol de habilidades
+[01Aug2025 08:34:46.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 08:35:03.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> QUEE
+[01Aug2025 08:35:05.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> feo
+[01Aug2025 08:35:21.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wasmec lost connection: Disconnected
+[01Aug2025 08:35:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec left the game
+[01Aug2025 08:36:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> JAAJAJ
+[01Aug2025 08:36:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> expandir
+[01Aug2025 08:37:13.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wasmec[/172.29.189.77:63649] logged in with entity id 2901081 at (357.0830879710795, -47.0, -33.70265644769506)
+[01Aug2025 08:37:13.941] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player wasmec
+[01Aug2025 08:37:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec joined the game
+[01Aug2025 08:37:14.007] [Server thread/INFO] [Jade/]: Syncing config to wasmec (fb372778-8abd-3f84-a00e-a7642287edcf)
+[01Aug2025 08:37:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> me imagino que cuando lo vuelvas a abrir
+[01Aug2025 08:37:16.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> sis
+[01Aug2025 08:37:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> SICK
+[01Aug2025 08:37:36.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> PORQUE TE ATACO QUE?
+[01Aug2025 08:37:47.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ohh creo que fue porque
+[01Aug2025 08:37:50.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> recientemente me atacaste
+[01Aug2025 08:37:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> si
+[01Aug2025 08:37:56.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sickaric lost connection: Disconnected
+[01Aug2025 08:37:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric left the game
+[01Aug2025 08:38:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que malos
+[01Aug2025 08:38:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> no perdonan
+[01Aug2025 08:38:24.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ando pensando en que voy a hacer esta ves
