@@ -3538,3 +3538,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 22:14:26.038] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 2
 [01Aug2025 22:15:50.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2327970, l='ServerLevel[world]', x=1141.50, y=75.00, z=164.50]
 [01Aug2025 22:17:37.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2356644, l='ServerLevel[world]', x=1150.50, y=72.00, z=222.50]
+[01Aug2025 22:25:42.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:25:46.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:25:53.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:25:55.553] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:25:56.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:25:57.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:25:58.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:25:58.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:25:59.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:26:01.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 22:26:01.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 22:26:04.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Klade250 moved too quickly! 0.4568664247326524,0.0,10.057105167476053
+[01Aug2025 22:26:04.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[01Aug2025 22:26:06.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:10.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 22:26:10.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:10.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:10.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:10.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:14.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 22:26:15.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:26:15.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 22:26:18.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:25.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 22:26:27.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:29.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 22:26:29.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 22:26:29.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 22:26:30.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:26:32.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 22:26:34.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 22:26:34.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 22:26:34.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 22:27:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> zzzzzzz
+[01Aug2025 22:27:13.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> z
+[01Aug2025 22:27:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> z
+[01Aug2025 22:27:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> z
+[01Aug2025 22:27:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Double Trouble]
