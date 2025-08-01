@@ -3640,3 +3640,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 23:22:11.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 23:22:12.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
 [01Aug2025 23:22:12.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 23:22:16.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 23:22:16.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 23:22:16.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 23:22:16.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 23:22:20.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 23:24:03.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3437865, l='ServerLevel[world]', x=28.50, y=70.00, z=289.50]
+[01Aug2025 23:27:20.472] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3491189, l='ServerLevel[world]', x=-6.50, y=73.00, z=243.50]
+[01Aug2025 23:31:39.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[01Aug2025 23:31:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Fishy Business]
