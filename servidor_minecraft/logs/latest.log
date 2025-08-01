@@ -3458,3 +3458,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 21:44:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Stone Free]
 [01Aug2025 21:45:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Alex's Caves]
 [01Aug2025 21:47:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Deceived Hopes]
+[01Aug2025 21:50:48.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 21:50:51.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 21:50:51.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 21:51:00.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 21:51:02.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 21:51:06.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 21:51:06.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 21:51:13.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 21:55:55.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2002032, l='ServerLevel[world]', x=1150.50, y=72.00, z=191.50]
+[01Aug2025 21:56:10.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[01Aug2025 21:57:15.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2023600, l='ServerLevel[world]', x=1122.50, y=74.00, z=205.50]
+[01Aug2025 21:57:32.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Cover Me with Diamonds]
+[01Aug2025 21:57:37.975] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2029756, l='ServerLevel[world]', x=1150.50, y=72.00, z=220.50]
+[01Aug2025 21:58:14.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2039404, l='ServerLevel[world]', x=1166.50, y=74.00, z=155.50]
+[01Aug2025 21:58:24.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2042254, l='ServerLevel[world]', x=1125.50, y=70.00, z=189.50]
+[01Aug2025 21:59:32.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2060453, l='ServerLevel[world]', x=1127.50, y=70.00, z=191.50]
+[01Aug2025 21:59:39.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2062238, l='ServerLevel[world]', x=1144.50, y=72.00, z=226.50]
+[01Aug2025 21:59:51.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2065706, l='ServerLevel[world]', x=1150.50, y=72.00, z=190.50]
+[01Aug2025 22:00:18.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
