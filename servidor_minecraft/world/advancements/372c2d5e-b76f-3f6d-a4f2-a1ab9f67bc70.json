@@ -2210,6 +2210,7 @@
       "minecraft:spider": "2025-08-01 08:43:33 +0000",
       "minecraft:creeper": "2025-08-01 05:18:09 +0000",
       "minecraft:cave_spider": "2025-08-01 06:36:34 +0000",
+      "minecraft:enderman": "2025-08-01 23:47:06 +0000",
       "minecraft:zombie": "2025-08-01 06:10:24 +0000",
       "minecraft:drowned": "2025-08-01 09:14:24 +0000"
     },
@@ -8630,6 +8631,12 @@
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-08-01 23:47:53 +0000"
     },
     "done": true
   },

@@ -3708,3 +3708,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 23:42:31.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 23:42:31.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [01Aug2025 23:42:33.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 23:47:56.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3832739, l='ServerLevel[world]', x=287.50, y=71.00, z=-360.50]
+[01Aug2025 23:48:32.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3842514, l='ServerLevel[world]', x=996.50, y=78.00, z=-730.50]
+[01Aug2025 23:50:13.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 moved too quickly! -4.822190905847265,3.1661092609382138,-8.486454847089703
+[01Aug2025 23:50:13.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[01Aug2025 23:52:47.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 moved too quickly! 5.937308429598261,-1.6345941796417094,8.051252931475233

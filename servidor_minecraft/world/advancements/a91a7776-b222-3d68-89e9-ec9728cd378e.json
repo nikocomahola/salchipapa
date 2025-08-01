@@ -3097,6 +3097,8 @@
       "minecraft:vindicator": "2025-08-01 06:42:00 +0000",
       "minecraft:spider": "2025-08-01 05:21:14 +0000",
       "minecraft:creeper": "2025-08-01 05:16:22 +0000",
+      "minecraft:cave_spider": "2025-08-01 23:47:53 +0000",
+      "minecraft:stray": "2025-08-01 23:49:29 +0000",
       "minecraft:zombie": "2025-08-01 05:14:56 +0000",
       "minecraft:zombie_villager": "2025-08-01 23:40:29 +0000"
     },
@@ -5647,6 +5649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-01 23:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-08-01 21:57:32 +0000"
@@ -6796,6 +6804,12 @@
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-08-01 21:46:40 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/tomato_egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:46:34 +0000"
     },
     "done": true
   },
@@ -8347,6 +8361,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-01 23:46:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-01 21:19:45 +0000"
@@ -8362,6 +8382,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-08-01 23:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-01 23:46:34 +0000"
     },
     "done": true
   },
@@ -8683,6 +8709,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-01 23:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 20:45:26 +0000"
@@ -8740,6 +8772,12 @@
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-08-01 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 23:46:34 +0000"
     },
     "done": true
   },
@@ -9250,6 +9288,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-08-01 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-01 23:46:34 +0000"
     },
     "done": true
   },
