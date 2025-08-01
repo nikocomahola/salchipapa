@@ -5358,6 +5358,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5412,6 +5418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -5442,6 +5454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5451,6 +5469,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
     },
     "done": true
   },
@@ -5484,6 +5508,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/transportation/amanita_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
@@ -5493,6 +5523,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
     },
     "done": true
   },
@@ -5670,6 +5706,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5790,6 +5832,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -5799,6 +5847,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-01 19:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-01 20:42:50 +0000"
     },
     "done": true
   },
@@ -5853,6 +5907,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
     },
     "done": true
   },
@@ -6024,6 +6084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-01 20:42:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
@@ -6126,6 +6192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:recording_night": {
     "criteria": {
       "recording_night": "2025-08-01 19:18:45 +0000"
@@ -6210,6 +6282,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-08-01 19:29:55 +0000"
@@ -6225,6 +6303,12 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
     },
     "done": true
   },
@@ -6414,6 +6498,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/transportation/mayoi_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-01 20:21:59 +0000"
@@ -6429,6 +6519,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
     },
     "done": true
   },
@@ -6456,6 +6552,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -6465,6 +6573,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-01 20:42:50 +0000"
     },
     "done": true
   },

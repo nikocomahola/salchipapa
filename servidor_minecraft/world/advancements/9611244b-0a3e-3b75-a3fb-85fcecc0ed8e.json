@@ -137,12 +137,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-01 20:02:57 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/transportation/mayoi_boat": {
     "criteria": {
       "in_water": "2025-08-01 05:20:01 +0000"
@@ -6441,15 +6435,21 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
     "criteria": {
-      "has_spruce_counter": "2025-08-01 20:10:42 +0000"
+      "has_mangrove_roots": "2025-08-01 19:52:56 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
-      "has_spruce_planks": "2025-08-01 20:10:42 +0000"
+      "has_mangrove_roots": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-01 20:02:57 +0000"
     },
     "done": true
   },
@@ -6465,18 +6465,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_spruce_planks": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-08-01 20:08:39 +0000"
@@ -6486,18 +6474,6 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:10:42 +0000"
     },
     "done": true
   },
@@ -6513,18 +6489,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-08-01 20:08:39 +0000"
@@ -6537,6 +6501,144 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-08-01 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 20:10:42 +0000"
@@ -6546,12 +6648,6 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
     },
     "done": true
   },
@@ -6585,12 +6681,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 20:10:42 +0000"
@@ -6609,18 +6699,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-08-01 19:52:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 20:10:42 +0000"
@@ -6630,30 +6708,6 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-08-01 20:08:39 +0000"
     },
     "done": true
   },
@@ -6681,24 +6735,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-08-01 20:10:42 +0000"
@@ -6717,12 +6753,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-08-01 20:10:42 +0000"
@@ -6735,18 +6765,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-08-01 19:52:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-08-01 20:10:42 +0000"
@@ -6756,18 +6774,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-01 20:10:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
     },
     "done": true
   },
@@ -6789,12 +6795,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-08-01 20:08:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-01 20:10:42 +0000"
@@ -6810,6 +6810,12 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-08-01 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-01 20:42:04 +0000"
     },
     "done": true
   },
