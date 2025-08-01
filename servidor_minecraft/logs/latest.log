@@ -2833,3 +2833,739 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 05:23:43.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
 [01Aug2025 05:23:52.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [01Aug2025 05:24:05.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[01Aug2025 05:24:13.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/popcraft/chunky/util/TaskLoader$TaskProperty
+[01Aug2025 05:24:13.302] [IO-Worker-53/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 339 chunks (8.02%), ETA: 0:00:01, Rate: 2825.0 cps, Current: 1, 29
+[01Aug2025 05:24:14.395] [IO-Worker-50/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1879 chunks (44.47%), ETA: 0:00:01, Rate: 1541.4 cps, Current: 30, -24
+[01Aug2025 05:24:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3050 chunks (72.19%), ETA: 0:00:00, Rate: 1319.2 cps, Current: -16, -31
+[01Aug2025 05:24:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3743 chunks (88.59%), ETA: 0:00:00, Rate: 1129.5 cps, Current: -5, 24
+[01Aug2025 05:24:16.765] [IO-Worker-55/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:00:03
+[01Aug2025 05:24:26.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5866ms or 117 ticks behind
+[01Aug2025 05:24:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blueby87: Set the world border to 1500.0 block(s) wide]
+[01Aug2025 05:24:29.942] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:00:00
+[01Aug2025 05:24:36.755] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[01Aug2025 05:24:46.792] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[01Aug2025 05:24:47.206] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[01Aug2025 05:24:52.339] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[01Aug2025 05:24:53.252] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[01Aug2025 05:24:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1058 chunks (11.72%), ETA: 0:07:54, Rate: 16.8 cps, Current: 33, 2
+[01Aug2025 05:24:55.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1065 chunks (11.80%), ETA: 0:20:37, Rate: 6.4 cps, Current: 33, 9
+[01Aug2025 05:24:56.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14926ms or 298 ticks behind
+[01Aug2025 05:24:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1068 chunks (11.83%), ETA: 0:32:04, Rate: 4.1 cps, Current: 33, 13
+[01Aug2025 05:24:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1082 chunks (11.99%), ETA: 0:20:39, Rate: 6.4 cps, Current: 33, 27
+[01Aug2025 05:24:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1088 chunks (12.06%), ETA: 0:21:54, Rate: 6.0 cps, Current: 33, 31
+[01Aug2025 05:25:00.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1094 chunks (12.12%), ETA: 0:22:03, Rate: 6.0 cps, Current: 34, 6
+[01Aug2025 05:25:01.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1101 chunks (12.20%), ETA: 0:22:26, Rate: 5.9 cps, Current: 34, 12
+[01Aug2025 05:25:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1107 chunks (12.27%), ETA: 0:22:52, Rate: 5.8 cps, Current: 34, 18
+[01Aug2025 05:25:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1111 chunks (12.31%), ETA: 0:23:45, Rate: 5.6 cps, Current: 34, 22
+[01Aug2025 05:25:04.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1122 chunks (12.43%), ETA: 0:21:52, Rate: 6.0 cps, Current: 35, 2
+[01Aug2025 05:25:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1126 chunks (12.48%), ETA: 0:22:34, Rate: 5.8 cps, Current: 35, 6
+[01Aug2025 05:25:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1136 chunks (12.59%), ETA: 0:23:50, Rate: 5.5 cps, Current: 35, 0
+[01Aug2025 05:25:09.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1153 chunks (12.78%), ETA: 0:21:03, Rate: 6.2 cps, Current: 36, 1
+[01Aug2025 05:25:09.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[01Aug2025 05:25:09.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[01Aug2025 05:25:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1163 chunks (12.89%), ETA: 0:20:18, Rate: 6.5 cps, Current: 36, 11
+[01Aug2025 05:25:11.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1170 chunks (12.96%), ETA: 0:20:15, Rate: 6.5 cps, Current: 36, 16
+[01Aug2025 05:25:13.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1179 chunks (13.06%), ETA: 0:20:32, Rate: 6.4 cps, Current: 36, 26
+[01Aug2025 05:25:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Barrel Booty]
+[01Aug2025 05:25:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1184 chunks (13.12%), ETA: 0:21:00, Rate: 6.2 cps, Current: 37, 1
+[01Aug2025 05:25:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1200 chunks (13.30%), ETA: 0:19:43, Rate: 6.6 cps, Current: 37, 16
+[01Aug2025 05:25:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1207 chunks (13.37%), ETA: 0:19:53, Rate: 6.6 cps, Current: 37, 22
+[01Aug2025 05:25:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1216 chunks (13.47%), ETA: 0:20:22, Rate: 6.4 cps, Current: 38, 1
+[01Aug2025 05:25:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1223 chunks (13.55%), ETA: 0:21:20, Rate: 6.1 cps, Current: 38, 7
+[01Aug2025 05:25:22.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1245 chunks (13.80%), ETA: 0:19:30, Rate: 6.6 cps, Current: 38, 28
+[01Aug2025 05:25:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1249 chunks (13.84%), ETA: 0:19:56, Rate: 6.5 cps, Current: 39, 1
+[01Aug2025 05:25:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1257 chunks (13.93%), ETA: 0:19:33, Rate: 6.6 cps, Current: 39, 9
+[01Aug2025 05:25:25.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14347ms or 286 ticks behind
+[01Aug2025 05:25:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1279 chunks (14.17%), ETA: 0:18:08, Rate: 7.1 cps, Current: 39, 30
+[01Aug2025 05:25:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1280 chunks (14.18%), ETA: 0:19:45, Rate: 6.5 cps, Current: 39, 31
+[01Aug2025 05:25:29.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Getting an Upgrade]
+[01Aug2025 05:25:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1296 chunks (14.36%), ETA: 0:18:44, Rate: 6.9 cps, Current: 40, 16
+[01Aug2025 05:25:30.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1309 chunks (14.50%), ETA: 0:18:02, Rate: 7.1 cps, Current: 40, 29
+[01Aug2025 05:25:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1313 chunks (14.55%), ETA: 0:18:37, Rate: 6.9 cps, Current: 41, 1
+[01Aug2025 05:25:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1318 chunks (14.60%), ETA: 0:18:31, Rate: 6.9 cps, Current: 41, 7
+[01Aug2025 05:25:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Getting an Upgrade]
+[01Aug2025 05:25:34.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1336 chunks (14.80%), ETA: 0:17:35, Rate: 7.3 cps, Current: 41, 24
+[01Aug2025 05:25:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1339 chunks (14.84%), ETA: 0:17:16, Rate: 7.4 cps, Current: 41, 27
+[01Aug2025 05:25:37.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1348 chunks (14.94%), ETA: 0:17:13, Rate: 7.4 cps, Current: 42, 5
+[01Aug2025 05:25:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1360 chunks (15.07%), ETA: 0:16:55, Rate: 7.6 cps, Current: 42, 17
+[01Aug2025 05:25:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1373 chunks (15.21%), ETA: 0:17:36, Rate: 7.2 cps, Current: 42, 28
+[01Aug2025 05:25:41.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1376 chunks (15.25%), ETA: 0:18:22, Rate: 6.9 cps, Current: 42, 31
+[01Aug2025 05:25:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1382 chunks (15.31%), ETA: 0:18:12, Rate: 7.0 cps, Current: 43, 6
+[01Aug2025 05:25:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1392 chunks (15.42%), ETA: 0:17:44, Rate: 7.2 cps, Current: 43, 16
+[01Aug2025 05:25:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1403 chunks (15.55%), ETA: 0:18:02, Rate: 7.0 cps, Current: 43, 28
+[01Aug2025 05:25:44.983] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Aug2025 05:25:45.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1409 chunks (15.61%), ETA: 0:18:03, Rate: 7.0 cps, Current: 44, 1
+[01Aug2025 05:25:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1417 chunks (15.70%), ETA: 0:17:57, Rate: 7.1 cps, Current: 44, 9
+[01Aug2025 05:25:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1427 chunks (15.81%), ETA: 0:17:21, Rate: 7.3 cps, Current: 44, 19
+[01Aug2025 05:25:48.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1439 chunks (15.94%), ETA: 0:16:09, Rate: 7.8 cps, Current: 44, 30
+[01Aug2025 05:25:49.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8529ms or 170 ticks behind
+[01Aug2025 05:25:49.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.993] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.993] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.994] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:49.994] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:25:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1441 chunks (15.97%), ETA: 0:16:49, Rate: 7.5 cps, Current: 45, 1
+[01Aug2025 05:25:51.193] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 05:25:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1446 chunks (16.02%), ETA: 0:18:29, Rate: 6.8 cps, Current: 45, 5
+[01Aug2025 05:25:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1473 chunks (16.32%), ETA: 0:16:46, Rate: 7.5 cps, Current: 46, 1
+[01Aug2025 05:25:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1482 chunks (16.42%), ETA: 0:16:10, Rate: 7.8 cps, Current: 46, 9
+[01Aug2025 05:25:55.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1523 chunks (16.88%), ETA: 0:17:11, Rate: 7.3 cps, Current: 46, 18
+[01Aug2025 05:25:56.713] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=126, z=-751}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-745}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-748}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-750}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-751}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-747}
+[01Aug2025 05:25:56.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-748}
+[01Aug2025 05:25:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1536 chunks (17.02%), ETA: 0:15:52, Rate: 7.9 cps, Current: 46, 31
+[01Aug2025 05:26:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1546 chunks (17.13%), ETA: 0:17:22, Rate: 7.2 cps, Current: 47, 9
+[01Aug2025 05:26:01.902] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[01Aug2025 05:26:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1562 chunks (17.31%), ETA: 0:18:49, Rate: 6.6 cps, Current: 47, 25
+[01Aug2025 05:26:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1566 chunks (17.35%), ETA: 0:20:40, Rate: 6.0 cps, Current: 33, -31
+[01Aug2025 05:26:10.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1583 chunks (17.54%), ETA: 0:20:16, Rate: 6.1 cps, Current: 33, -2
+[01Aug2025 05:26:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1625 chunks (18.01%), ETA: 0:17:17, Rate: 7.1 cps, Current: 34, -1
+[01Aug2025 05:26:12.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8607ms or 172 ticks behind
+[01Aug2025 05:26:13.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1633 chunks (18.09%), ETA: 0:18:03, Rate: 6.8 cps, Current: 35, -31
+[01Aug2025 05:26:14.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1658 chunks (18.37%), ETA: 0:16:21, Rate: 7.5 cps, Current: 35, -14
+[01Aug2025 05:26:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1665 chunks (18.45%), ETA: 0:16:31, Rate: 7.4 cps, Current: 36, -30
+[01Aug2025 05:26:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1689 chunks (18.71%), ETA: 0:15:25, Rate: 7.9 cps, Current: 36, -8
+[01Aug2025 05:26:18.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1700 chunks (18.84%), ETA: 0:15:27, Rate: 7.9 cps, Current: 37, -28
+[01Aug2025 05:26:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1710 chunks (18.95%), ETA: 0:14:47, Rate: 8.2 cps, Current: 37, -21
+[01Aug2025 05:26:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Getting an Upgrade]
+[01Aug2025 05:26:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1729 chunks (19.16%), ETA: 0:13:53, Rate: 8.8 cps, Current: 38, -31
+[01Aug2025 05:26:22.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1745 chunks (19.34%), ETA: 0:14:39, Rate: 8.3 cps, Current: 38, -14
+[01Aug2025 05:26:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1761 chunks (19.51%), ETA: 0:14:15, Rate: 8.5 cps, Current: 39, -31
+[01Aug2025 05:26:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1762 chunks (19.52%), ETA: 0:14:50, Rate: 8.2 cps, Current: 39, -30
+[01Aug2025 05:26:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1793 chunks (19.87%), ETA: 0:13:46, Rate: 8.8 cps, Current: 40, -31
+[01Aug2025 05:26:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1800 chunks (19.94%), ETA: 0:12:46, Rate: 9.4 cps, Current: 40, -22
+[01Aug2025 05:26:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1814 chunks (20.10%), ETA: 0:12:34, Rate: 9.6 cps, Current: 40, -12
+[01Aug2025 05:26:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1825 chunks (20.22%), ETA: 0:12:42, Rate: 9.4 cps, Current: 41, -31
+[01Aug2025 05:26:32.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1842 chunks (20.41%), ETA: 0:11:52, Rate: 10.1 cps, Current: 41, -13
+[01Aug2025 05:26:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1858 chunks (20.59%), ETA: 0:11:40, Rate: 10.2 cps, Current: 42, -30
+[01Aug2025 05:26:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1874 chunks (20.76%), ETA: 0:10:33, Rate: 11.3 cps, Current: 42, -15
+[01Aug2025 05:26:35.373] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 05:26:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1878 chunks (20.81%), ETA: 0:10:49, Rate: 11.0 cps, Current: 42, -12
+[01Aug2025 05:26:36.364] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.364] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.365] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.365] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.417] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.418] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.418] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.418] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.419] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:26:36.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1898 chunks (21.03%), ETA: 0:10:35, Rate: 11.2 cps, Current: 43, -23
+[01Aug2025 05:26:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1918 chunks (21.25%), ETA: 0:09:51, Rate: 12.0 cps, Current: 43, -1
+[01Aug2025 05:26:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1924 chunks (21.32%), ETA: 0:10:02, Rate: 11.8 cps, Current: 44, -28
+[01Aug2025 05:26:39.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12185ms or 243 ticks behind
+[01Aug2025 05:26:40.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1936 chunks (21.45%), ETA: 0:10:38, Rate: 11.1 cps, Current: 44, -15
+[01Aug2025 05:26:41.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1940 chunks (21.50%), ETA: 0:11:04, Rate: 10.7 cps, Current: 44, -13
+[01Aug2025 05:26:42.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1957 chunks (21.68%), ETA: 0:10:34, Rate: 11.1 cps, Current: 45, -26
+[01Aug2025 05:26:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1971 chunks (21.84%), ETA: 0:10:55, Rate: 10.8 cps, Current: 45, -9
+[01Aug2025 05:26:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1988 chunks (22.03%), ETA: 0:10:32, Rate: 11.1 cps, Current: 46, -28
+[01Aug2025 05:26:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5075 chunks (56.23%), ETA: 0:06:09, Rate: 10.7 cps, Current: 46, -1
+[01Aug2025 05:26:53.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5091 chunks (56.41%), ETA: 0:07:28, Rate: 8.8 cps, Current: 47, -32
+[01Aug2025 05:26:54.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5100 chunks (56.51%), ETA: 0:07:10, Rate: 9.1 cps, Current: 47, -2
+[01Aug2025 05:26:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5120 chunks (56.73%), ETA: 0:07:26, Rate: 8.8 cps, Current: 47, -18
+[01Aug2025 05:26:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5125 chunks (56.79%), ETA: 0:07:42, Rate: 8.4 cps, Current: -31, 33
+[01Aug2025 05:26:58.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5134 chunks (56.89%), ETA: 0:07:49, Rate: 8.3 cps, Current: -31, 42
+[01Aug2025 05:26:59.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5143 chunks (56.99%), ETA: 0:07:50, Rate: 8.2 cps, Current: -30, 37
+[01Aug2025 05:27:00.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5153 chunks (57.10%), ETA: 0:07:56, Rate: 8.1 cps, Current: -32, 38
+[01Aug2025 05:27:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5170 chunks (57.29%), ETA: 0:08:01, Rate: 8.0 cps, Current: -29, 35
+[01Aug2025 05:27:03.609] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5182 chunks (57.42%), ETA: 0:07:54, Rate: 8.1 cps, Current: -25, 32
+[01Aug2025 05:27:04.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5195 chunks (57.56%), ETA: 0:07:51, Rate: 8.1 cps, Current: -28, 42
+[01Aug2025 05:27:05.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10450ms or 209 ticks behind
+[01Aug2025 05:27:06.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5212 chunks (57.75%), ETA: 0:07:54, Rate: 8.0 cps, Current: -28, 46
+[01Aug2025 05:27:07.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5223 chunks (57.87%), ETA: 0:08:17, Rate: 7.6 cps, Current: -26, 39
+[01Aug2025 05:27:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5237 chunks (58.03%), ETA: 0:08:00, Rate: 7.9 cps, Current: -25, 37
+[01Aug2025 05:27:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5243 chunks (58.09%), ETA: 0:08:11, Rate: 7.7 cps, Current: -25, 42
+[01Aug2025 05:27:10.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5257 chunks (58.25%), ETA: 0:07:43, Rate: 8.1 cps, Current: -24, 40
+[01Aug2025 05:27:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5268 chunks (58.37%), ETA: 0:07:56, Rate: 7.9 cps, Current: -23, 37
+[01Aug2025 05:27:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5283 chunks (58.54%), ETA: 0:07:42, Rate: 8.1 cps, Current: -23, 46
+[01Aug2025 05:27:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5290 chunks (58.61%), ETA: 0:08:18, Rate: 7.5 cps, Current: -22, 40
+[01Aug2025 05:27:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5313 chunks (58.87%), ETA: 0:07:56, Rate: 7.8 cps, Current: -20, 34
+[01Aug2025 05:27:16.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5318 chunks (58.93%), ETA: 0:08:05, Rate: 7.6 cps, Current: -20, 35
+[01Aug2025 05:27:16.937] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:16.937] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:16.938] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:16.938] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:16.938] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:17.167] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:17.168] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:17.168] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:17.168] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5335 chunks (59.11%), ETA: 0:06:32, Rate: 9.4 cps, Current: -19, 37
+[01Aug2025 05:27:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5346 chunks (59.24%), ETA: 0:06:30, Rate: 9.4 cps, Current: -19, 44
+[01Aug2025 05:27:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5361 chunks (59.40%), ETA: 0:06:22, Rate: 9.6 cps, Current: -18, 45
+[01Aug2025 05:27:20.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5369 chunks (59.49%), ETA: 0:06:25, Rate: 9.5 cps, Current: -16, 33
+[01Aug2025 05:27:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5382 chunks (59.63%), ETA: 0:06:20, Rate: 9.6 cps, Current: -16, 38
+[01Aug2025 05:27:22.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5397 chunks (59.80%), ETA: 0:06:14, Rate: 9.7 cps, Current: -15, 36
+[01Aug2025 05:27:24.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5413 chunks (59.98%), ETA: 0:06:08, Rate: 9.8 cps, Current: -14, 35
+[01Aug2025 05:27:25.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5431 chunks (60.18%), ETA: 0:05:53, Rate: 10.2 cps, Current: -13, 36
+[01Aug2025 05:27:26.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5448 chunks (60.37%), ETA: 0:05:46, Rate: 10.3 cps, Current: -12, 38
+[01Aug2025 05:27:28.130] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/37146, l='ServerLevel[world]', x=27.50, y=70.00, z=291.50]
+[01Aug2025 05:27:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5469 chunks (60.60%), ETA: 0:05:35, Rate: 10.6 cps, Current: -11, 41
+[01Aug2025 05:27:28.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8598ms or 171 ticks behind
+[01Aug2025 05:27:29.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5480 chunks (60.72%), ETA: 0:05:31, Rate: 10.7 cps, Current: -10, 38
+[01Aug2025 05:27:31.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5497 chunks (60.91%), ETA: 0:05:27, Rate: 10.8 cps, Current: -9, 41
+[01Aug2025 05:27:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5513 chunks (61.09%), ETA: 0:05:22, Rate: 10.9 cps, Current: -7, 35
+[01Aug2025 05:27:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5517 chunks (61.13%), ETA: 0:05:31, Rate: 10.6 cps, Current: -8, 40
+[01Aug2025 05:27:35.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5530 chunks (61.27%), ETA: 0:05:41, Rate: 10.2 cps, Current: -7, 40
+[01Aug2025 05:27:36.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5556 chunks (61.56%), ETA: 0:05:21, Rate: 10.8 cps, Current: -6, 41
+[01Aug2025 05:27:37.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5575 chunks (61.77%), ETA: 0:05:15, Rate: 10.9 cps, Current: -5, 43
+[01Aug2025 05:27:38.869] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 05:27:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5592 chunks (61.96%), ETA: 0:05:11, Rate: 11.0 cps, Current: -4, 43
+[01Aug2025 05:27:40.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5611 chunks (62.17%), ETA: 0:05:05, Rate: 11.2 cps, Current: -1, 35
+[01Aug2025 05:27:41.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5626 chunks (62.34%), ETA: 0:04:59, Rate: 11.4 cps, Current: -1, 37
+[01Aug2025 05:27:42.434] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5630 chunks (62.38%), ETA: 0:05:06, Rate: 11.1 cps, Current: 3, 32
+[01Aug2025 05:27:43.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5653 chunks (62.64%), ETA: 0:04:51, Rate: 11.6 cps, Current: 0, 43
+[01Aug2025 05:27:44.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5672 chunks (62.85%), ETA: 0:04:51, Rate: 11.5 cps, Current: 1, 44
+[01Aug2025 05:27:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5689 chunks (63.04%), ETA: 0:04:41, Rate: 11.9 cps, Current: 3, 36
+[01Aug2025 05:27:47.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5696 chunks (63.11%), ETA: 0:04:52, Rate: 11.4 cps, Current: 3, 41
+[01Aug2025 05:27:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5720 chunks (63.38%), ETA: 0:04:41, Rate: 11.7 cps, Current: 4, 44
+[01Aug2025 05:27:49.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5749 chunks (63.70%), ETA: 0:04:28, Rate: 12.2 cps, Current: 6, 42
+[01Aug2025 05:27:50.562] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:50.562] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:50.563] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:50.563] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.115] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.115] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.115] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.116] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.116] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:27:51.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5765 chunks (63.88%), ETA: 0:04:35, Rate: 11.8 cps, Current: 6, 46
+[01Aug2025 05:27:52.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8642ms or 172 ticks behind
+[01Aug2025 05:27:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5798 chunks (64.24%), ETA: 0:04:17, Rate: 12.6 cps, Current: 9, 42
+[01Aug2025 05:27:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5813 chunks (64.41%), ETA: 0:04:15, Rate: 12.6 cps, Current: 10, 43
+[01Aug2025 05:27:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5830 chunks (64.60%), ETA: 0:04:12, Rate: 12.7 cps, Current: 12, 36
+[01Aug2025 05:27:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5848 chunks (64.80%), ETA: 0:04:12, Rate: 12.6 cps, Current: 11, 46
+[01Aug2025 05:27:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5866 chunks (65.00%), ETA: 0:04:11, Rate: 12.6 cps, Current: 14, 37
+[01Aug2025 05:27:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5883 chunks (65.19%), ETA: 0:04:06, Rate: 12.7 cps, Current: 15, 39
+[01Aug2025 05:28:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5900 chunks (65.37%), ETA: 0:03:59, Rate: 13.0 cps, Current: 16, 37
+[01Aug2025 05:28:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5913 chunks (65.52%), ETA: 0:04:01, Rate: 12.9 cps, Current: 15, 46
+[01Aug2025 05:28:02.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5927 chunks (65.67%), ETA: 0:03:53, Rate: 13.3 cps, Current: 19, 35
+[01Aug2025 05:28:03.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5943 chunks (65.85%), ETA: 0:03:48, Rate: 13.5 cps, Current: 20, 34
+[01Aug2025 05:28:04.669] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:04.669] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:04.669] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:04.670] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:05.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5958 chunks (66.02%), ETA: 0:03:47, Rate: 13.5 cps, Current: 20, 38
+[01Aug2025 05:28:06.054] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:06.054] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:06.055] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:06.055] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:06.055] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5969 chunks (66.14%), ETA: 0:03:54, Rate: 13.0 cps, Current: 21, 33
+[01Aug2025 05:28:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5985 chunks (66.32%), ETA: 0:03:55, Rate: 12.9 cps, Current: 21, 46
+[01Aug2025 05:28:09.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6001 chunks (66.49%), ETA: 0:04:01, Rate: 12.5 cps, Current: 23, 33
+[01Aug2025 05:28:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6017 chunks (66.67%), ETA: 0:04:00, Rate: 12.5 cps, Current: 21, 47
+[01Aug2025 05:28:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6030 chunks (66.81%), ETA: 0:03:56, Rate: 12.7 cps, Current: 24, 45
+[01Aug2025 05:28:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6046 chunks (66.99%), ETA: 0:04:05, Rate: 12.1 cps, Current: 25, 44
+[01Aug2025 05:28:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6065 chunks (67.20%), ETA: 0:04:07, Rate: 12.0 cps, Current: 27, 33
+[01Aug2025 05:28:15.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8206ms or 164 ticks behind
+[01Aug2025 05:28:16.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6066 chunks (67.21%), ETA: 0:04:12, Rate: 11.7 cps, Current: 26, 45
+[01Aug2025 05:28:17.888] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[01Aug2025 05:28:18.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6081 chunks (67.38%), ETA: 0:04:35, Rate: 10.7 cps, Current: 28, 35
+[01Aug2025 05:28:20.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6106 chunks (67.66%), ETA: 0:04:15, Rate: 11.4 cps, Current: 29, 42
+[01Aug2025 05:28:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6115 chunks (67.76%), ETA: 0:04:18, Rate: 11.3 cps, Current: 29, 46
+[01Aug2025 05:28:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6127 chunks (67.89%), ETA: 0:04:37, Rate: 10.5 cps, Current: 30, 45
+[01Aug2025 05:28:24.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6144 chunks (68.08%), ETA: 0:04:38, Rate: 10.3 cps, Current: 32, 34
+[01Aug2025 05:28:25.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6159 chunks (68.24%), ETA: 0:04:39, Rate: 10.2 cps, Current: 33, 34
+[01Aug2025 05:28:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6177 chunks (68.44%), ETA: 0:04:37, Rate: 10.3 cps, Current: 34, 34
+[01Aug2025 05:28:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6193 chunks (68.62%), ETA: 0:04:31, Rate: 10.4 cps, Current: 36, 32
+[01Aug2025 05:28:29.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6210 chunks (68.81%), ETA: 0:04:28, Rate: 10.5 cps, Current: 35, 46
+[01Aug2025 05:28:30.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6218 chunks (68.90%), ETA: 0:04:34, Rate: 10.2 cps, Current: 37, 32
+[01Aug2025 05:28:31.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6231 chunks (69.04%), ETA: 0:04:30, Rate: 10.3 cps, Current: 37, 39
+[01Aug2025 05:28:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6242 chunks (69.16%), ETA: 0:04:32, Rate: 10.2 cps, Current: 38, 35
+[01Aug2025 05:28:33.794] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[01Aug2025 05:28:33.794] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[01Aug2025 05:28:34.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6258 chunks (69.34%), ETA: 0:04:36, Rate: 10.0 cps, Current: 39, 35
+[01Aug2025 05:28:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6278 chunks (69.56%), ETA: 0:04:27, Rate: 10.3 cps, Current: 40, 38
+[01Aug2025 05:28:36.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[01Aug2025 05:28:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6293 chunks (69.73%), ETA: 0:04:23, Rate: 10.4 cps, Current: 41, 37
+[01Aug2025 05:28:37.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6304 chunks (69.85%), ETA: 0:04:19, Rate: 10.5 cps, Current: 42, 35
+[01Aug2025 05:28:37.959] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:37.959] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:37.959] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:37.960] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:37.960] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:38.056] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:38.056] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:38.057] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:38.057] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:28:38.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7995ms or 159 ticks behind
+[01Aug2025 05:28:38.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6321 chunks (70.04%), ETA: 0:04:12, Rate: 10.7 cps, Current: 44, 32
+[01Aug2025 05:28:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6335 chunks (70.19%), ETA: 0:04:12, Rate: 10.7 cps, Current: 44, 33
+[01Aug2025 05:28:41.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6345 chunks (70.30%), ETA: 0:04:11, Rate: 10.7 cps, Current: 44, 42
+[01Aug2025 05:28:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6355 chunks (70.42%), ETA: 0:04:10, Rate: 10.7 cps, Current: 45, 36
+[01Aug2025 05:28:43.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44135, l='ServerLevel[world]', x=217.50, y=74.00, z=252.50]
+[01Aug2025 05:28:43.507] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Aug2025 05:28:43.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6368 chunks (70.56%), ETA: 0:04:10, Rate: 10.6 cps, Current: 46, 34
+[01Aug2025 05:28:46.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6374 chunks (70.63%), ETA: 0:04:12, Rate: 10.5 cps, Current: 46, 37
+[01Aug2025 05:28:49.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6384 chunks (70.74%), ETA: 0:04:40, Rate: 9.4 cps, Current: 33, -46
+[01Aug2025 05:28:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6391 chunks (70.81%), ETA: 0:04:40, Rate: 9.4 cps, Current: 33, -45
+[01Aug2025 05:28:51.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6405 chunks (70.97%), ETA: 0:04:32, Rate: 9.6 cps, Current: 47, 37
+[01Aug2025 05:28:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6417 chunks (71.10%), ETA: 0:04:34, Rate: 9.5 cps, Current: 34, -46
+[01Aug2025 05:28:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6430 chunks (71.25%), ETA: 0:04:30, Rate: 9.6 cps, Current: 34, -39
+[01Aug2025 05:28:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6431 chunks (71.26%), ETA: 0:04:53, Rate: 8.8 cps, Current: 35, -33
+[01Aug2025 05:28:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6449 chunks (71.46%), ETA: 0:04:51, Rate: 8.8 cps, Current: 32, -39
+[01Aug2025 05:28:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6469 chunks (71.68%), ETA: 0:04:47, Rate: 8.9 cps, Current: 37, -45
+[01Aug2025 05:29:00.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6481 chunks (71.81%), ETA: 0:04:48, Rate: 8.8 cps, Current: 37, -40
+[01Aug2025 05:29:01.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6506 chunks (72.09%), ETA: 0:04:36, Rate: 9.1 cps, Current: 39, -34
+[01Aug2025 05:29:02.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9131ms or 182 ticks behind
+[01Aug2025 05:29:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6521 chunks (72.25%), ETA: 0:04:35, Rate: 9.1 cps, Current: 40, -44
+[01Aug2025 05:29:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6536 chunks (72.42%), ETA: 0:04:39, Rate: 8.9 cps, Current: 41, -34
+[01Aug2025 05:29:05.268] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:05.269] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:05.269] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:05.269] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6550 chunks (72.58%), ETA: 0:04:37, Rate: 8.9 cps, Current: 42, -45
+[01Aug2025 05:29:06.595] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:06.596] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:06.596] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:06.596] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:06.597] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6564 chunks (72.73%), ETA: 0:04:36, Rate: 8.9 cps, Current: 43, -33
+[01Aug2025 05:29:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6580 chunks (72.91%), ETA: 0:04:37, Rate: 8.8 cps, Current: 44, -45
+[01Aug2025 05:29:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6594 chunks (73.06%), ETA: 0:04:36, Rate: 8.8 cps, Current: 45, -44
+[01Aug2025 05:29:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6610 chunks (73.24%), ETA: 0:04:28, Rate: 9.0 cps, Current: 44, -47
+[01Aug2025 05:29:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6611 chunks (73.25%), ETA: 0:04:53, Rate: 8.2 cps, Current: 46, -37
+[01Aug2025 05:29:14.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6626 chunks (73.42%), ETA: 0:04:29, Rate: 8.9 cps, Current: 46, -47
+[01Aug2025 05:29:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6628 chunks (73.44%), ETA: 0:04:48, Rate: 8.3 cps, Current: 47, -35
+[01Aug2025 05:29:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6639 chunks (73.56%), ETA: 0:04:46, Rate: 8.3 cps, Current: 47, -46
+[01Aug2025 05:29:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6645 chunks (73.63%), ETA: 0:05:27, Rate: 7.3 cps, Current: 1, -44
+[01Aug2025 05:29:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6682 chunks (74.04%), ETA: 0:04:38, Rate: 8.4 cps, Current: 2, -35
+[01Aug2025 05:29:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6700 chunks (74.24%), ETA: 0:04:34, Rate: 8.5 cps, Current: 4, -45
+[01Aug2025 05:29:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6702 chunks (74.26%), ETA: 0:04:55, Rate: 7.9 cps, Current: 4, -43
+[01Aug2025 05:29:28.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10720ms or 214 ticks behind
+[01Aug2025 05:29:28.514] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:28.515] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:28.515] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:28.515] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6720 chunks (74.46%), ETA: 0:04:38, Rate: 8.3 cps, Current: 5, -35
+[01Aug2025 05:29:29.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:29.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:29.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:29.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:29.358] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:30.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6732 chunks (74.59%), ETA: 0:04:49, Rate: 7.9 cps, Current: 6, -41
+[01Aug2025 05:29:31.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6745 chunks (74.74%), ETA: 0:04:48, Rate: 7.9 cps, Current: 7, -45
+[01Aug2025 05:29:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [A Fool's Folly]
+[01Aug2025 05:29:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:29:34.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6752 chunks (74.81%), ETA: 0:05:25, Rate: 7.0 cps, Current: 7, -38
+[01Aug2025 05:29:37.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6760 chunks (74.90%), ETA: 0:06:00, Rate: 6.3 cps, Current: 8, -45
+[01Aug2025 05:29:38.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6811 chunks (75.47%), ETA: 0:04:45, Rate: 7.7 cps, Current: 11, -42
+[01Aug2025 05:29:39.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6821 chunks (75.58%), ETA: 0:04:49, Rate: 7.6 cps, Current: 12, -45
+[01Aug2025 05:29:40.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6835 chunks (75.73%), ETA: 0:04:26, Rate: 8.2 cps, Current: 13, -45
+[01Aug2025 05:29:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6846 chunks (75.86%), ETA: 0:04:22, Rate: 8.3 cps, Current: 13, -36
+[01Aug2025 05:29:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6852 chunks (75.92%), ETA: 0:04:38, Rate: 7.8 cps, Current: 14, -42
+[01Aug2025 05:29:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6878 chunks (76.21%), ETA: 0:03:40, Rate: 9.7 cps, Current: 16, -45
+[01Aug2025 05:29:46.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6889 chunks (76.33%), ETA: 0:03:40, Rate: 9.7 cps, Current: 16, -34
+[01Aug2025 05:29:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6900 chunks (76.45%), ETA: 0:03:38, Rate: 9.7 cps, Current: 17, -40
+[01Aug2025 05:29:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6915 chunks (76.62%), ETA: 0:03:35, Rate: 9.8 cps, Current: 18, -39
+[01Aug2025 05:29:49.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[01Aug2025 05:29:50.678] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.679] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.829] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.830] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.830] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.830] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.830] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.831] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.831] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.831] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.831] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.832] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:50.832] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6925 chunks (76.73%), ETA: 0:03:25, Rate: 10.2 cps, Current: 19, -43
+[01Aug2025 05:29:51.909] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.446] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.447] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.447] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.447] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.448] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.449] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.449] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.449] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.450] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.450] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.450] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.451] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.535] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.536] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.536] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.537] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.537] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.537] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.537] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.538] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.538] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.538] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:52.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6938 chunks (76.88%), ETA: 0:03:26, Rate: 10.1 cps, Current: 20, -46
+[01Aug2025 05:29:53.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10068ms or 201 ticks behind
+[01Aug2025 05:29:54.288] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:54.382] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:54.382] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:55.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 was engulfed by Pyromancer's blazing fires
+[01Aug2025 05:29:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Your First Grave]
+[01Aug2025 05:29:55.925] [Server thread/INFO] [tombstone/]: The player blueby87 has successfully been saved
+[01Aug2025 05:29:56.387] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:56.387] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:56.388] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:56.388] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6970 chunks (77.23%), ETA: 0:03:47, Rate: 9.0 cps, Current: 22, -45
+[01Aug2025 05:29:57.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7001 chunks (77.57%), ETA: 0:03:20, Rate: 10.1 cps, Current: 24, -46
+[01Aug2025 05:29:58.223] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:58.223] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:58.224] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:58.224] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:29:58.224] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7002 chunks (77.58%), ETA: 0:05:31, Rate: 6.1 cps, Current: 24, -43
+[01Aug2025 05:30:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7052 chunks (78.14%), ETA: 0:04:39, Rate: 7.1 cps, Current: 28, -46
+[01Aug2025 05:30:17.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9448ms or 188 ticks behind
+[01Aug2025 05:30:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7121 chunks (78.90%), ETA: 0:04:30, Rate: 7.0 cps, Current: -31, -45
+[01Aug2025 05:30:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7128 chunks (78.98%), ETA: 0:04:19, Rate: 7.3 cps, Current: -31, -37
+[01Aug2025 05:30:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7140 chunks (79.11%), ETA: 0:04:15, Rate: 7.4 cps, Current: -30, -41
+[01Aug2025 05:30:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7149 chunks (79.21%), ETA: 0:04:15, Rate: 7.3 cps, Current: -29, -46
+[01Aug2025 05:30:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7170 chunks (79.45%), ETA: 0:04:01, Rate: 7.7 cps, Current: -32, -41
+[01Aug2025 05:30:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7176 chunks (79.51%), ETA: 0:04:05, Rate: 7.5 cps, Current: -28, -43
+[01Aug2025 05:30:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7194 chunks (79.71%), ETA: 0:03:55, Rate: 7.8 cps, Current: -29, -47
+[01Aug2025 05:30:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Acquire Hardware]
+[01Aug2025 05:30:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Arachnophobia]
+[01Aug2025 05:30:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7210 chunks (79.89%), ETA: 0:04:13, Rate: 7.2 cps, Current: -26, -45
+[01Aug2025 05:30:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7224 chunks (80.04%), ETA: 0:02:32, Rate: 11.8 cps, Current: -25, -45
+[01Aug2025 05:30:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7240 chunks (80.22%), ETA: 0:02:35, Rate: 11.5 cps, Current: -24, -45
+[01Aug2025 05:30:31.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7254 chunks (80.38%), ETA: 0:02:35, Rate: 11.4 cps, Current: -25, -47
+[01Aug2025 05:30:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7270 chunks (80.55%), ETA: 0:02:33, Rate: 11.4 cps, Current: -22, -44
+[01Aug2025 05:30:34.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7285 chunks (80.72%), ETA: 0:02:31, Rate: 11.5 cps, Current: -21, -44
+[01Aug2025 05:30:35.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7298 chunks (80.86%), ETA: 0:02:32, Rate: 11.3 cps, Current: -20, -44
+[01Aug2025 05:30:36.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:36.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:36.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:36.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:36.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:37.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7312 chunks (81.02%), ETA: 0:02:31, Rate: 11.3 cps, Current: -19, -45
+[01Aug2025 05:30:37.050] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:37.050] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:37.050] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:37.050] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:30:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7328 chunks (81.20%), ETA: 0:02:28, Rate: 11.4 cps, Current: -19, -35
+[01Aug2025 05:30:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7340 chunks (81.33%), ETA: 0:02:26, Rate: 11.5 cps, Current: -18, -34
+[01Aug2025 05:30:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7347 chunks (81.41%), ETA: 0:02:43, Rate: 10.2 cps, Current: -17, -43
+[01Aug2025 05:30:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7359 chunks (81.54%), ETA: 0:02:42, Rate: 10.2 cps, Current: -16, -46
+[01Aug2025 05:30:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7378 chunks (81.75%), ETA: 0:02:36, Rate: 10.5 cps, Current: -15, -41
+[01Aug2025 05:30:43.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10369ms or 207 ticks behind
+[01Aug2025 05:30:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7387 chunks (81.85%), ETA: 0:02:37, Rate: 10.4 cps, Current: -14, -46
+[01Aug2025 05:30:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7403 chunks (82.03%), ETA: 0:02:34, Rate: 10.5 cps, Current: -16, -47
+[01Aug2025 05:30:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7419 chunks (82.20%), ETA: 0:02:34, Rate: 10.4 cps, Current: -12, -46
+[01Aug2025 05:30:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7433 chunks (82.36%), ETA: 0:02:30, Rate: 10.6 cps, Current: -11, -46
+[01Aug2025 05:30:48.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Isn't It Iron Pick]
+[01Aug2025 05:30:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7444 chunks (82.48%), ETA: 0:02:29, Rate: 10.6 cps, Current: -11, -37
+[01Aug2025 05:30:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7463 chunks (82.69%), ETA: 0:02:23, Rate: 10.9 cps, Current: -12, -47
+[01Aug2025 05:30:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7479 chunks (82.87%), ETA: 0:02:25, Rate: 10.6 cps, Current: -8, -45
+[01Aug2025 05:30:53.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7493 chunks (83.02%), ETA: 0:02:22, Rate: 10.8 cps, Current: -7, -44
+[01Aug2025 05:30:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7503 chunks (83.14%), ETA: 0:02:22, Rate: 10.7 cps, Current: -6, -44
+[01Aug2025 05:30:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7509 chunks (83.20%), ETA: 0:02:24, Rate: 10.5 cps, Current: -7, -34
+[01Aug2025 05:30:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7522 chunks (83.35%), ETA: 0:02:23, Rate: 10.5 cps, Current: -4, -46
+[01Aug2025 05:30:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7557 chunks (83.73%), ETA: 0:02:10, Rate: 11.2 cps, Current: -1, -45
+[01Aug2025 05:31:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7594 chunks (84.14%), ETA: 0:02:10, Rate: 11.0 cps, Current: -1, -47
+[01Aug2025 05:31:06.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8393ms or 167 ticks behind
+[01Aug2025 05:31:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7601 chunks (84.22%), ETA: 0:02:32, Rate: 9.3 cps, Current: -44, -44
+[01Aug2025 05:31:08.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7605 chunks (84.27%), ETA: 0:02:36, Rate: 9.1 cps, Current: -45, -43
+[01Aug2025 05:31:09.507] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7608 chunks (84.30%), ETA: 0:02:44, Rate: 8.6 cps, Current: -45, -39
+[01Aug2025 05:31:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7632 chunks (84.57%), ETA: 0:02:37, Rate: 8.8 cps, Current: -45, -34
+[01Aug2025 05:31:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7640 chunks (84.65%), ETA: 0:02:47, Rate: 8.3 cps, Current: -43, -46
+[01Aug2025 05:31:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7661 chunks (84.89%), ETA: 0:02:37, Rate: 8.7 cps, Current: -42, -43
+[01Aug2025 05:31:16.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7667 chunks (84.95%), ETA: 0:02:40, Rate: 8.5 cps, Current: -42, -37
+[01Aug2025 05:31:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7679 chunks (85.09%), ETA: 0:02:38, Rate: 8.5 cps, Current: -47, -42
+[01Aug2025 05:31:18.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7684 chunks (85.14%), ETA: 0:02:41, Rate: 8.3 cps, Current: -41, -38
+[01Aug2025 05:31:19.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7700 chunks (85.32%), ETA: 0:02:41, Rate: 8.2 cps, Current: -40, -43
+[01Aug2025 05:31:21.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7712 chunks (85.45%), ETA: 0:02:43, Rate: 8.0 cps, Current: -39, -45
+[01Aug2025 05:31:22.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7723 chunks (85.57%), ETA: 0:02:40, Rate: 8.1 cps, Current: -38, -43
+[01Aug2025 05:31:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7733 chunks (85.68%), ETA: 0:02:38, Rate: 8.2 cps, Current: -38, -38
+[01Aug2025 05:31:24.053] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.054] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.054] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.054] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.150] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.151] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.151] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.151] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.284] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:24.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7744 chunks (85.81%), ETA: 0:02:37, Rate: 8.1 cps, Current: -36, -43
+[01Aug2025 05:31:25.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7771 chunks (86.11%), ETA: 0:02:21, Rate: 8.8 cps, Current: -34, -41
+[01Aug2025 05:31:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7801 chunks (86.44%), ETA: 0:02:25, Rate: 8.4 cps, Current: -41, -47
+[01Aug2025 05:31:29.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7929ms or 158 ticks behind
+[01Aug2025 05:31:30.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Into Fire]
+[01Aug2025 05:31:31.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Tools of the Trade]
+[01Aug2025 05:31:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7826 chunks (86.71%), ETA: 0:02:27, Rate: 8.2 cps, Current: -47, -32
+[01Aug2025 05:31:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7828 chunks (86.74%), ETA: 0:02:34, Rate: 7.7 cps, Current: -47, -30
+[01Aug2025 05:31:38.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7846 chunks (86.94%), ETA: 0:02:18, Rate: 8.5 cps, Current: -47, -13
+[01Aug2025 05:31:39.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7855 chunks (87.04%), ETA: 0:02:19, Rate: 8.4 cps, Current: -47, -9
+[01Aug2025 05:31:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7868 chunks (87.18%), ETA: 0:02:24, Rate: 8.0 cps, Current: -46, -20
+[01Aug2025 05:31:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7880 chunks (87.31%), ETA: 0:02:14, Rate: 8.5 cps, Current: -46, -9
+[01Aug2025 05:31:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7891 chunks (87.43%), ETA: 0:02:13, Rate: 8.5 cps, Current: -45, -27
+[01Aug2025 05:31:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7901 chunks (87.55%), ETA: 0:02:19, Rate: 8.1 cps, Current: -46, -2
+[01Aug2025 05:31:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7916 chunks (87.71%), ETA: 0:02:12, Rate: 8.4 cps, Current: -45, -5
+[01Aug2025 05:31:47.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7927 chunks (87.83%), ETA: 0:02:11, Rate: 8.4 cps, Current: -44, -26
+[01Aug2025 05:31:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7940 chunks (87.98%), ETA: 0:02:06, Rate: 8.6 cps, Current: -44, -14
+[01Aug2025 05:31:49.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7956 chunks (88.16%), ETA: 0:02:04, Rate: 8.6 cps, Current: -43, -28
+[01Aug2025 05:31:50.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
+[01Aug2025 05:31:50.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7963 chunks (88.23%), ETA: 0:02:04, Rate: 8.6 cps, Current: -44, -1
+[01Aug2025 05:31:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7974 chunks (88.35%), ETA: 0:02:04, Rate: 8.5 cps, Current: -43, -12
+[01Aug2025 05:31:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7994 chunks (88.58%), ETA: 0:01:57, Rate: 8.8 cps, Current: -42, -23
+[01Aug2025 05:31:53.171] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.171] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.172] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.172] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.548] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.548] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.548] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:53.549] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8000 chunks (88.64%), ETA: 0:01:58, Rate: 8.6 cps, Current: -42, -18
+[01Aug2025 05:31:55.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8016 chunks (88.82%), ETA: 0:02:02, Rate: 8.3 cps, Current: -42, -3
+[01Aug2025 05:31:56.334] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:31:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8027 chunks (88.94%), ETA: 0:02:09, Rate: 7.7 cps, Current: -41, -22
+[01Aug2025 05:31:57.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8041 chunks (89.10%), ETA: 0:01:42, Rate: 9.6 cps, Current: -41, -9
+[01Aug2025 05:31:58.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8050 chunks (89.20%), ETA: 0:01:41, Rate: 9.6 cps, Current: -41, -2
+[01Aug2025 05:31:59.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8061 chunks (89.32%), ETA: 0:01:40, Rate: 9.6 cps, Current: -40, -20
+[01Aug2025 05:32:01.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8074 chunks (89.46%), ETA: 0:01:39, Rate: 9.5 cps, Current: -40, -8
+[01Aug2025 05:32:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8094 chunks (89.68%), ETA: 0:01:35, Rate: 9.8 cps, Current: -39, -20
+[01Aug2025 05:32:03.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8098 chunks (89.73%), ETA: 0:01:36, Rate: 9.6 cps, Current: -39, -16
+[01Aug2025 05:32:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8118 chunks (89.95%), ETA: 0:01:31, Rate: 9.9 cps, Current: -38, -27
+[01Aug2025 05:32:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8126 chunks (90.04%), ETA: 0:01:28, Rate: 10.1 cps, Current: -38, -20
+[01Aug2025 05:32:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8148 chunks (90.28%), ETA: 0:01:23, Rate: 10.5 cps, Current: -37, -29
+[01Aug2025 05:32:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8160 chunks (90.42%), ETA: 0:01:22, Rate: 10.5 cps, Current: -37, -19
+[01Aug2025 05:32:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8173 chunks (90.56%), ETA: 0:01:19, Rate: 10.8 cps, Current: -37, -5
+[01Aug2025 05:32:10.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4968ms or 99 ticks behind
+[01Aug2025 05:32:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8179 chunks (90.63%), ETA: 0:01:20, Rate: 10.5 cps, Current: -36, -31
+[01Aug2025 05:32:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8192 chunks (90.77%), ETA: 0:01:18, Rate: 10.6 cps, Current: -36, -19
+[01Aug2025 05:32:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has reached the goal [Quaint Scribe]
+[01Aug2025 05:32:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8203 chunks (90.89%), ETA: 0:01:17, Rate: 10.6 cps, Current: -35, -29
+[01Aug2025 05:32:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8220 chunks (91.08%), ETA: 0:01:13, Rate: 11.0 cps, Current: -34, -27
+[01Aug2025 05:32:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8242 chunks (91.32%), ETA: 0:01:09, Rate: 11.3 cps, Current: -33, -23
+[01Aug2025 05:32:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8258 chunks (91.50%), ETA: 0:01:06, Rate: 11.5 cps, Current: -33, -15
+[01Aug2025 05:32:17.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8282 chunks (91.77%), ETA: 0:01:03, Rate: 11.7 cps, Current: -34, -7
+[01Aug2025 05:32:23.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8306 chunks (92.03%), ETA: 0:01:09, Rate: 10.4 cps, Current: -47, 0
+[01Aug2025 05:32:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8308 chunks (92.06%), ETA: 0:01:20, Rate: 9.0 cps, Current: -47, 1
+[01Aug2025 05:32:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8325 chunks (92.24%), ETA: 0:01:16, Rate: 9.1 cps, Current: -46, 2
+[01Aug2025 05:32:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8327 chunks (92.27%), ETA: 0:01:18, Rate: 8.9 cps, Current: -47, 18
+[01Aug2025 05:32:30.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
+[01Aug2025 05:32:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8328 chunks (92.28%), ETA: 0:01:21, Rate: 8.6 cps, Current: -47, 19
+[01Aug2025 05:32:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8354 chunks (92.57%), ETA: 0:01:16, Rate: 8.8 cps, Current: -46, 20
+[01Aug2025 05:32:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Barrel Booty]
+[01Aug2025 05:32:33.240] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[01Aug2025 05:32:33.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8374 chunks (92.79%), ETA: 0:01:13, Rate: 8.9 cps, Current: -45, 4
+[01Aug2025 05:32:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8388 chunks (92.94%), ETA: 0:01:08, Rate: 9.2 cps, Current: -45, 18
+[01Aug2025 05:32:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8404 chunks (93.12%), ETA: 0:01:05, Rate: 9.5 cps, Current: -44, 2
+[01Aug2025 05:32:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8414 chunks (93.23%), ETA: 0:01:07, Rate: 9.0 cps, Current: -44, 11
+[01Aug2025 05:32:38.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8421 chunks (93.31%), ETA: 0:01:09, Rate: 8.7 cps, Current: -44, 19
+[01Aug2025 05:32:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8445 chunks (93.57%), ETA: 0:01:03, Rate: 9.2 cps, Current: -43, 11
+[01Aug2025 05:32:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8455 chunks (93.68%), ETA: 0:01:02, Rate: 9.1 cps, Current: -43, 21
+[01Aug2025 05:32:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Monster Hunter]
+[01Aug2025 05:32:42.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8470 chunks (93.85%), ETA: 0:01:00, Rate: 9.2 cps, Current: -42, 6
+[01Aug2025 05:32:43.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8487 chunks (94.04%), ETA: 0:00:59, Rate: 9.1 cps, Current: -42, 21
+[01Aug2025 05:32:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8502 chunks (94.20%), ETA: 0:00:59, Rate: 8.8 cps, Current: -41, 5
+[01Aug2025 05:32:45.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8516 chunks (94.36%), ETA: 0:00:58, Rate: 8.8 cps, Current: -41, 18
+[01Aug2025 05:32:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8531 chunks (94.53%), ETA: 0:00:58, Rate: 8.5 cps, Current: -40, 2
+[01Aug2025 05:32:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8543 chunks (94.66%), ETA: 0:00:49, Rate: 9.7 cps, Current: -40, 15
+[01Aug2025 05:32:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8559 chunks (94.84%), ETA: 0:00:47, Rate: 9.9 cps, Current: -39, 0
+[01Aug2025 05:32:51.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8574 chunks (95.00%), ETA: 0:00:45, Rate: 9.9 cps, Current: -39, 12
+[01Aug2025 05:32:51.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6423ms or 128 ticks behind
+[01Aug2025 05:32:51.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [A Fool's Folly]
+[01Aug2025 05:32:51.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Barrel Booty]
+[01Aug2025 05:32:52.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8590 chunks (95.18%), ETA: 0:00:43, Rate: 10.1 cps, Current: -39, 27
+[01Aug2025 05:32:52.264] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:52.313] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:52.314] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:52.314] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:52.314] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:53.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8600 chunks (95.29%), ETA: 0:00:42, Rate: 10.0 cps, Current: -39, 31
+[01Aug2025 05:32:54.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8614 chunks (95.45%), ETA: 0:00:35, Rate: 11.4 cps, Current: -38, 21
+[01Aug2025 05:32:55.123] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:55.124] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:55.124] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:55.125] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:32:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8629 chunks (95.61%), ETA: 0:00:34, Rate: 11.4 cps, Current: -37, 3
+[01Aug2025 05:32:56.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8639 chunks (95.72%), ETA: 0:00:34, Rate: 11.3 cps, Current: -37, 15
+[01Aug2025 05:32:58.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8660 chunks (95.96%), ETA: 0:00:31, Rate: 11.4 cps, Current: -36, 2
+[01Aug2025 05:32:59.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8671 chunks (96.08%), ETA: 0:00:30, Rate: 11.8 cps, Current: -36, 13
+[01Aug2025 05:33:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8683 chunks (96.21%), ETA: 0:00:28, Rate: 12.2 cps, Current: -34, 0
+[01Aug2025 05:33:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Disme A Dozen]
+[01Aug2025 05:33:01.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8702 chunks (96.42%), ETA: 0:00:26, Rate: 12.0 cps, Current: -35, 13
+[01Aug2025 05:33:01.819] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:01.819] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:01.819] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:01.820] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:02.204] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:02.204] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:02.205] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:02.205] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8724 chunks (96.66%), ETA: 0:00:24, Rate: 12.2 cps, Current: -34, 16
+[01Aug2025 05:33:03.367] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8752 chunks (96.98%), ETA: 0:00:22, Rate: 12.4 cps, Current: -34, 19
+[01Aug2025 05:33:07.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8786 chunks (97.35%), ETA: 0:00:18, Rate: 12.6 cps, Current: -46, 32
+[01Aug2025 05:33:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8791 chunks (97.41%), ETA: 0:00:19, Rate: 11.8 cps, Current: -46, 36
+[01Aug2025 05:33:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8800 chunks (97.51%), ETA: 0:00:19, Rate: 11.7 cps, Current: -46, 45
+[01Aug2025 05:33:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8819 chunks (97.72%), ETA: 0:00:17, Rate: 11.9 cps, Current: -44, 34
+[01Aug2025 05:33:12.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8831 chunks (97.85%), ETA: 0:00:16, Rate: 11.9 cps, Current: -44, 46
+[01Aug2025 05:33:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8844 chunks (97.99%), ETA: 0:00:15, Rate: 11.8 cps, Current: -43, 38
+[01Aug2025 05:33:13.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7032ms or 140 ticks behind
+[01Aug2025 05:33:15.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8849 chunks (98.05%), ETA: 0:00:15, Rate: 11.3 cps, Current: -43, 43
+[01Aug2025 05:33:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Disme A Dozen]
+[01Aug2025 05:33:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8851 chunks (98.07%), ETA: 0:00:16, Rate: 10.4 cps, Current: -43, 45
+[01Aug2025 05:33:18.336] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.336] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.336] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.336] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.337] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.523] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.524] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.524] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:18.524] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Aug2025 05:33:19.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8901 chunks (98.63%), ETA: 0:00:10, Rate: 11.5 cps, Current: -40, 35
+[01Aug2025 05:33:20.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8914 chunks (98.77%), ETA: 0:00:09, Rate: 11.4 cps, Current: -39, 34
+[01Aug2025 05:33:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8924 chunks (98.88%), ETA: 0:00:09, Rate: 10.5 cps, Current: -38, 33
+[01Aug2025 05:33:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8946 chunks (99.12%), ETA: 0:00:08, Rate: 9.4 cps, Current: -38, 45
+[01Aug2025 05:33:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 9025 chunks (100.00%), Total time: 0:08:52
+[01Aug2025 05:33:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Ice Bucket Challenge]
+[01Aug2025 05:33:33.935] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/71954, l='ServerLevel[world]', x=26.50, y=70.00, z=289.50]
+[01Aug2025 05:33:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:33:36.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
+[01Aug2025 05:33:42.712] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/72933, l='ServerLevel[world]', x=107.50, y=104.00, z=357.50]
+[01Aug2025 05:33:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Into Fire]
+[01Aug2025 05:33:49.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Ice Bucket Challenge]
+[01Aug2025 05:33:50.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Magic Writing]
+[01Aug2025 05:33:50.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Acquire Hardware]
+[01Aug2025 05:33:57.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6079ms or 121 ticks behind
+[01Aug2025 05:34:18.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6666ms or 133 ticks behind
+[01Aug2025 05:34:39.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5995ms or 119 ticks behind
+[01Aug2025 05:34:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Close Quarters]
+[01Aug2025 05:34:44.257] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/82292, l='ServerLevel[world]', x=215.50, y=74.00, z=252.50]
+[01Aug2025 05:35:01.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6362ms or 127 ticks behind
+[01Aug2025 05:35:21.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5691ms or 113 ticks behind
+[01Aug2025 05:35:43.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6526ms or 130 ticks behind
+[01Aug2025 05:35:43.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/91514, l='ServerLevel[world]', x=15.50, y=70.00, z=250.50]
+[01Aug2025 05:36:04.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6399ms or 127 ticks behind
+[01Aug2025 05:36:05.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/94761, l='ServerLevel[world]', x=344.50, y=72.00, z=231.50]
+[01Aug2025 05:36:26.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7098ms or 141 ticks behind
+[01Aug2025 05:36:27.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:36:32.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Stone Age]
+[01Aug2025 05:36:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Close Quarters]
+[01Aug2025 05:36:49.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
+[01Aug2025 05:37:07.517] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104199, l='ServerLevel[world]', x=332.50, y=73.00, z=248.50]
+[01Aug2025 05:37:09.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104464, l='ServerLevel[world]', x=332.50, y=73.00, z=247.50]
+[01Aug2025 05:37:14.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9946ms or 198 ticks behind
+[01Aug2025 05:37:17.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has reached the goal [Quaint Scribe]
+[01Aug2025 05:37:38.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[01Aug2025 05:38:02.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9006ms or 180 ticks behind
+[01Aug2025 05:38:26.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8891ms or 177 ticks behind
+[01Aug2025 05:38:42.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 05:38:49.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8286ms or 165 ticks behind
+[01Aug2025 05:39:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Disme A Dozen]
+[01Aug2025 05:39:12.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7831ms or 156 ticks behind
+[01Aug2025 05:39:33.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/127542, l='ServerLevel[world]', x=564.50, y=72.00, z=311.50]
+[01Aug2025 05:39:34.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7281ms or 145 ticks behind
+[01Aug2025 05:39:57.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7438ms or 148 ticks behind
+[01Aug2025 05:40:10.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:10.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:12.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:12.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:40:12.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:40:12.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:40:15.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:40:21.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9184ms or 183 ticks behind
+[01Aug2025 05:40:22.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:40:22.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:24.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:24.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:40:24.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:26.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 05:40:28.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:40:28.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:28.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:30.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:30.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:30.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:31.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:31.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:36.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:40:37.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:40:37.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:40:38.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:40:38.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:38.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:40.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 05:40:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Creeping Woods]
+[01Aug2025 05:40:42.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:40:42.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:40:42.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:42.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 05:40:44.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:40:44.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:40:45.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8967ms or 179 ticks behind
+[01Aug2025 05:40:51.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Aug2025 05:40:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> Hay un esqueleto con sniper
+[01Aug2025 05:40:54.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 05:40:54.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:54.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:40:54.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:40:54.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:40:59.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:40:59.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:00.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:00.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:00.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:41:03.307] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:03.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:41:03.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:03.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:03.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:03.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:03.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:41:04.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 05:41:05.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:41:05.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:41:06.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:06.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:06.922] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:08.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:08.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:08.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:41:08.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:41:09.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9580ms or 191 ticks behind
+[01Aug2025 05:41:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Barrel Booty]
+[01Aug2025 05:41:12.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 05:41:16.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:41:17.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:41:18.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:41:18.516] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/145120, l='ServerLevel[world]', x=524.50, y=72.00, z=297.50]
+[01Aug2025 05:41:18.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:41:20.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:41:23.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[01Aug2025 05:41:24.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:24.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:41:34.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9714ms or 194 ticks behind
+[01Aug2025 05:41:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> TTTTT
+[01Aug2025 05:41:59.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10276ms or 205 ticks behind
+[01Aug2025 05:42:17.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/154035, l='ServerLevel[world]', x=216.50, y=74.00, z=251.50]
+[01Aug2025 05:42:25.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10239ms or 204 ticks behind
+[01Aug2025 05:42:32.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/156248, l='ServerLevel[world]', x=342.50, y=73.00, z=288.50]
+[01Aug2025 05:42:50.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10565ms or 211 ticks behind
+[01Aug2025 05:43:16.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10774ms or 215 ticks behind
+[01Aug2025 05:43:33.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/165397, l='ServerLevel[world]', x=342.50, y=74.00, z=216.50]
+[01Aug2025 05:43:37.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/166040, l='ServerLevel[world]', x=344.50, y=73.00, z=290.50]
+[01Aug2025 05:43:42.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11355ms or 227 ticks behind
+[01Aug2025 05:44:08.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11044ms or 220 ticks behind
+[01Aug2025 05:44:16.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/171667, l='ServerLevel[world]', x=562.50, y=72.00, z=311.50]
