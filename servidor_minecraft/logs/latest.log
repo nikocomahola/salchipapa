@@ -3592,3 +3592,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 22:43:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Disgusting Lootbox]
 [01Aug2025 22:48:28.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
 [01Aug2025 22:48:31.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:human_1 but it was marked as removed already
+[01Aug2025 22:53:51.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [The Power of light]
+[01Aug2025 22:54:38.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Klade250 moved too quickly! -4.04453187502196,-9.231523797587016,-0.24557682335155562
+[01Aug2025 22:54:40.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[01Aug2025 22:55:02.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/gametechbc/traveloptics/api/particle/ParticleDirection
+[01Aug2025 22:55:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.floodgate
+[01Aug2025 22:55:03.606] [Server thread/INFO] [tombstone/]: The player blueby87 has successfully been saved
+[01Aug2025 22:57:29.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 lost connection: Disconnected
+[01Aug2025 22:57:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 left the game
+[01Aug2025 22:57:45.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueby87[/172.29.105.64:53314] logged in with entity id 3008247 at (820.7323146050028, 70.0, -1047.879221135856)
+[01Aug2025 22:57:45.359] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player blueby87
+[01Aug2025 22:57:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 joined the game
+[01Aug2025 22:57:45.383] [Server thread/INFO] [Jade/]: Syncing config to blueby87 (372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70)
+[01Aug2025 22:59:33.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 22:59:39.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[01Aug2025 22:59:39.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[01Aug2025 22:59:52.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 23:07:38.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Aug2025 23:10:57.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already

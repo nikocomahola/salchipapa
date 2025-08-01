@@ -8175,12 +8175,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-01 19:39:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-01 19:45:04 +0000"
@@ -8457,23 +8451,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-01 22:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-01 22:02:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-08-01 22:03:02 +0000"
     },
     "done": false
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-08-01 22:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-08-01 22:43:28 +0000"
-    },
-    "done": true
   },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
@@ -8484,12 +8478,6 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-01 22:13:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-08-01 22:44:27 +0000"
     },
     "done": true
   },
@@ -8505,15 +8493,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "pfm:recipes/building_blocks/dark_oak_herringbone_planks": {
     "criteria": {
-      "has_reeds": "2025-08-01 22:02:58 +0000"
+      "has_wood_slabs": "2025-08-01 22:13:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "supplementaries:recipes/item_shelf": {
     "criteria": {
-      "has_slime_ball": "2025-08-01 22:43:28 +0000"
+      "minecraft:wooden_slabs": "2025-08-01 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-01 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-08-01 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-08-01 22:13:22 +0000"
     },
     "done": true
   },
@@ -8529,21 +8535,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "born_in_chaos_v1:disgusting_lootbox": {
     "criteria": {
-      "has_sugar_cane": "2025-08-01 22:02:58 +0000"
+      "disgusting_lootbox_0": "2025-08-01 22:43:27 +0000"
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/glow_ink_pasta": {
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
-      "has_glow_ink_sac": "2025-08-01 22:44:27 +0000"
+      "has_slime_ball": "2025-08-01 22:43:28 +0000"
     },
     "done": true
   },
-  "pfm:recipes/building_blocks/dark_oak_herringbone_planks": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_wood_slabs": "2025-08-01 22:13:22 +0000"
+      "has_slime_ball": "2025-08-01 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-01 22:43:28 +0000"
     },
     "done": true
   },
@@ -8565,9 +8577,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "minecraft:wooden_slabs": "2025-08-01 22:13:22 +0000"
+      "has_slime_ball": "2025-08-01 22:43:28 +0000"
     },
     "done": true
   },
@@ -8577,33 +8589,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_slime_ball": "2025-08-01 22:43:28 +0000"
+      "has_glow_ink_sac": "2025-08-01 22:44:27 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/jar": {
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
     "criteria": {
-      "minecraft:wooden_slabs": "2025-08-01 22:13:22 +0000"
+      "has_glow_ink_sac": "2025-08-01 22:44:27 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_wood_bowl": "2025-08-01 22:13:22 +0000"
+      "has_gold_backpack": "2025-08-01 22:52:58 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:disgusting_lootbox": {
+  "vanilla_refresh:player/hurt": {
     "criteria": {
-      "disgusting_lootbox_0": "2025-08-01 22:43:27 +0000"
+      "requirement": "2025-08-01 23:07:56 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
-      "has_wood_plate": "2025-08-01 22:13:22 +0000"
+      "has_ingredient": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 23:07:20 +0000"
     },
     "done": true
   },
