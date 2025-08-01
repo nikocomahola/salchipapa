@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "creepingwoods:hes_watching": {
+    "criteria": {
+      "hes_watching": "2025-08-01 05:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-01 05:38:32 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 05:47:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-08-01 05:26:31 +0000"
@@ -1001,6 +1013,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-01 05:47:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-08-01 05:26:31 +0000"
@@ -1112,6 +1130,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_wheat": "2025-08-01 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-01 05:47:51 +0000"
     },
     "done": true
   },
@@ -1656,6 +1680,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2025-08-01 05:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-08-01 05:38:32 +0000"
@@ -2183,6 +2213,7 @@
       "minecraft:beach": "2025-08-01 05:16:33 +0000",
       "minecraft:dark_forest": "2025-08-01 05:15:48 +0000",
       "minecraft:river": "2025-08-01 05:17:52 +0000",
+      "minecraft:forest": "2025-08-01 05:40:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 05:27:50 +0000"
     },
     "done": false

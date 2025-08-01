@@ -119,6 +119,7 @@
       "minecraft:beach": "2025-08-01 03:34:22 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:36 +0000",
       "minecraft:river": "2025-08-01 05:17:51 +0000",
+      "minecraft:forest": "2025-08-01 05:40:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 05:27:48 +0000"
     },
     "done": false
@@ -2341,6 +2342,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-08-01 05:10:55 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2025-08-01 05:40:12 +0000"
     },
     "done": true
   },

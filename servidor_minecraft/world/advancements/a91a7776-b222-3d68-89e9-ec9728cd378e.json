@@ -461,12 +461,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-01 05:01:37 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2025-08-01 04:59:37 +0000"
