@@ -2688,3 +2688,74 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Aug2025 04:52:43.625] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [01Aug2025 04:53:12.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=67, z=-18} BlockPos{x=102, y=67, z=-50}
 [01Aug2025 04:53:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Klade250: Set the time to 1000]
+[01Aug2025 04:55:00.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=67, z=-43}
+[01Aug2025 04:55:01.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=68, z=-43}
+[01Aug2025 04:55:01.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=67, z=-43}
+[01Aug2025 04:55:13.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=106, y=67, z=-43}
+[01Aug2025 04:55:14.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=67, z=-43}
+[01Aug2025 04:55:14.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=106, y=67, z=-43}
+[01Aug2025 04:55:15.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=67, z=-43}
+[01Aug2025 04:55:16.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=64, z=-27} BlockPos{x=105, y=67, z=-43}
+[01Aug2025 04:55:34.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[01Aug2025 04:56:12.402] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[01Aug2025 04:56:36.620] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6971, l='ServerLevel[world]', x=84.50, y=70.00, z=-16.50]
+[01Aug2025 04:56:47.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[01Aug2025 04:57:20.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sickaric[/172.29.46.126:56252] logged in with entity id 7373 at (95.09189747802412, 67.0, -17.58526660271983)
+[01Aug2025 04:57:20.366] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sickaric
+[01Aug2025 04:57:20.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric joined the game
+[01Aug2025 04:57:20.436] [Server thread/INFO] [Jade/]: Syncing config to Sickaric (29e06cf1-e4ac-337b-8a48-40115b9f089f)
+[01Aug2025 05:00:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Getting an Upgrade]
+[01Aug2025 05:03:10.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Klade250: Set the time to 1000]
+[01Aug2025 05:04:53.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wasmec lost connection: Disconnected
+[01Aug2025 05:04:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec left the game
+[01Aug2025 05:06:35.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wasmec[/172.29.189.77:64365] logged in with entity id 9763 at (115.22593453877448, 67.0, -37.141056644893006)
+[01Aug2025 05:06:36.017] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player wasmec
+[01Aug2025 05:06:36.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec joined the game
+[01Aug2025 05:06:36.087] [Server thread/INFO] [Jade/]: Syncing config to wasmec (fb372778-8abd-3f84-a00e-a7642287edcf)
+[01Aug2025 05:07:25.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blueby87[/172.29.105.64:49818] logged in with entity id 10010 at (102.95686372065659, 66.0, -33.437550315651045)
+[01Aug2025 05:07:25.463] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player blueby87
+[01Aug2025 05:07:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 joined the game
+[01Aug2025 05:07:25.550] [Server thread/INFO] [Jade/]: Syncing config to blueby87 (372c2d5e-b76f-3f6d-a4f2-a1ab9f67bc70)
+[01Aug2025 05:08:15.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=-16} BlockPos{x=114, y=66, z=-41}
+[01Aug2025 05:08:15.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=-16} BlockPos{x=114, y=66, z=-41}
+[01Aug2025 05:08:16.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=-16} BlockPos{x=114, y=66, z=-41}
+[01Aug2025 05:08:17.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=-16} BlockPos{x=114, y=66, z=-41}
+[01Aug2025 05:08:18.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=66, z=-16} BlockPos{x=113, y=67, z=-41}
+[01Aug2025 05:08:23.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=118, y=66, z=-39}
+[01Aug2025 05:08:25.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=67, z=-42}
+[01Aug2025 05:08:32.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=113, y=67, z=-42}
+[01Aug2025 05:09:09.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=65, z=-23} BlockPos{x=109, y=66, z=-36}
+[01Aug2025 05:10:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Stone Age]
+[01Aug2025 05:11:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Stone Age]
+[01Aug2025 05:11:31.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [Getting an Upgrade]
+[01Aug2025 05:12:48.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:12:50.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Creeping Woods]
+[01Aug2025 05:12:58.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[01Aug2025 05:13:00.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:13:01.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:13:01.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:13:01.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:13:06.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:13:06.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:13:11.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:13:12.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[01Aug2025 05:13:12.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:13:18.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:13:19.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:13:28.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[01Aug2025 05:13:29.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:13:30.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[01Aug2025 05:13:31.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:13:31.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[01Aug2025 05:13:31.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:13:32.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[01Aug2025 05:13:33.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[01Aug2025 05:13:37.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:13:38.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[01Aug2025 05:13:38.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[01Aug2025 05:13:40.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[01Aug2025 05:13:42.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[01Aug2025 05:13:42.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[01Aug2025 05:13:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement ['X' Marks the Spot]
+[01Aug2025 05:13:55.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[01Aug2025 05:13:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wasmec has made the advancement [Sweet Dreams]
