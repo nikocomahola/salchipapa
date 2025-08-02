@@ -2216,7 +2216,8 @@
       "minecraft:cave_spider": "2025-08-01 06:36:34 +0000",
       "minecraft:enderman": "2025-08-01 23:47:06 +0000",
       "minecraft:zombie": "2025-08-01 06:10:24 +0000",
-      "minecraft:drowned": "2025-08-01 09:14:24 +0000"
+      "minecraft:drowned": "2025-08-01 09:14:24 +0000",
+      "minecraft:zombie_villager": "2025-08-02 04:40:44 +0000"
     },
     "done": false
   },
@@ -9487,7 +9488,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-02 03:48:05 +0000"
+      "requirement": "2025-08-02 04:35:25 +0000"
     },
     "done": true
   },
@@ -9689,6 +9690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 04:32:48 +0000"
+    },
+    "done": true
+  },
   "species:recipes/monster_mask": {
     "criteria": {
       "has_item": "2025-08-02 03:52:31 +0000"
@@ -9776,6 +9783,12 @@
   "species:recipes/smoke_bomb": {
     "criteria": {
       "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-02 04:32:48 +0000"
     },
     "done": true
   },
