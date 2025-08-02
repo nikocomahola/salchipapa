@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-02 03:58:15 +0000",
       "minecraft:deep_ocean": "2025-08-01 07:12:06 +0000",
       "minecraft:birch_forest": "2025-08-01 05:06:04 +0000",
       "minecraft:beach": "2025-08-01 04:33:33 +0000",
@@ -125,6 +126,7 @@
       "minecraft:forest": "2025-08-01 05:29:34 +0000",
       "minecraft:ocean": "2025-08-01 04:34:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 05:15:07 +0000",
+      "minecraft:meadow": "2025-08-02 04:02:44 +0000",
       "minecraft:plains": "2025-08-02 02:03:23 +0000"
     },
     "done": false
@@ -7544,6 +7546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-08-02 03:50:56 +0000"
@@ -7556,9 +7564,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-08-02 03:52:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-08-02 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/meadows": {
+    "criteria": {
+      "requirement": "2025-08-02 03:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 03:58:40 +0000"
     },
     "done": true
   },

@@ -8472,6 +8472,7 @@
     "criteria": {
       "cabbage": "2025-08-02 02:53:44 +0000",
       "onion": "2025-08-01 23:17:56 +0000",
+      "rice": "2025-08-02 04:01:51 +0000",
       "cocoa": "2025-08-02 02:42:26 +0000",
       "sugar_cane": "2025-08-01 22:03:02 +0000",
       "potato": "2025-08-01 23:20:01 +0000",
@@ -9639,6 +9640,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
+    },
+    "done": true
+  },
   "species:species/v3/wicked_stop_haunting": {
     "criteria": {
       "wicked_stop_haunting": "2025-08-02 03:44:32 +0000"
@@ -9669,9 +9676,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
+    },
+    "done": true
+  },
   "species:recipes/wicked_treat": {
     "criteria": {
       "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-08-02 04:01:51 +0000"
     },
     "done": true
   },

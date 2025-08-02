@@ -122,6 +122,7 @@
       "minecraft:beach": "2025-08-01 03:32:23 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:04 +0000",
       "minecraft:river": "2025-08-01 05:17:52 +0000",
+      "minecraft:stony_shore": "2025-08-02 04:07:48 +0000",
       "minecraft:forest": "2025-08-01 05:29:42 +0000",
       "minecraft:ocean": "2025-08-01 04:33:42 +0000",
       "minecraft:flower_forest": "2025-08-02 02:34:27 +0000",
@@ -5298,6 +5299,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-08-02 04:02:02 +0000",
       "illager_camp": "2025-08-01 06:35:26 +0000"
     },
     "done": false
@@ -10075,6 +10077,12 @@
   "miners_delight:recipes/food/smoked_bat_wing": {
     "criteria": {
       "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 04:02:08 +0000"
     },
     "done": true
   },
