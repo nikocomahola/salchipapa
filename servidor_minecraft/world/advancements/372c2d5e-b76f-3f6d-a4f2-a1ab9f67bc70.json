@@ -9792,12 +9792,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 07:07:47 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:glaive": {
     "criteria": {
       "has_glaive": "2025-08-02 05:01:44 +0000"
@@ -10122,6 +10116,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-08-02 06:20:24 +0000"
@@ -10176,6 +10182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
     "criteria": {
       "has_jungle_planks": "2025-08-02 06:20:24 +0000"
@@ -10200,9 +10212,27 @@
     },
     "done": true
   },
+  "super_block_world:recipes/decorations/red_pipe_body": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10230,9 +10260,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/amanita_planks": {
     "criteria": {
       "has_logs": "2025-08-02 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10254,9 +10296,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10266,9 +10320,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10296,6 +10380,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_pillar_trim": {
     "criteria": {
       "has_jungle_pillar_trim": "2025-08-02 06:20:24 +0000"
@@ -10314,9 +10404,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10326,9 +10428,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/red_warp_pipe": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10338,15 +10464,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-08-02 06:20:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_cupboard": {
     "criteria": {
       "has_jungle_cupboard": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10362,15 +10512,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/redstone/amanita_door": {
     "criteria": {
       "has_amanita_planks": "2025-08-02 06:16:02 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },
@@ -10422,6 +10590,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 07:58:12 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/amanita_slab": {
     "criteria": {
       "has_amanita_planks": "2025-08-02 06:16:02 +0000"
@@ -10461,6 +10635,12 @@
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2025-08-02 06:28:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2025-08-02 07:58:12 +0000"
     },
     "done": true
   },

@@ -9276,6 +9276,12 @@
     },
     "done": true
   },
+  "creepingwoods:the_power_of_light": {
+    "criteria": {
+      "the_power_of_light": "2025-08-02 07:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-02 07:26:29 +0000"
