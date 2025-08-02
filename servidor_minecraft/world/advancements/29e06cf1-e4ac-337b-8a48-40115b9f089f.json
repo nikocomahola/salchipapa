@@ -7229,7 +7229,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-02 02:26:21 +0000"
+      "requirement": "2025-08-02 02:37:40 +0000"
     },
     "done": true
   },
@@ -7308,6 +7308,12 @@
   "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
     "criteria": {
       "has_beetroot": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/banners": {
+    "criteria": {
+      "requirement": "2025-08-02 02:35:59 +0000"
     },
     "done": true
   },
