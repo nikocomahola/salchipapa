@@ -9516,6 +9516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
@@ -9555,6 +9561,12 @@
   "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-08-02 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9606,6 +9618,12 @@
     },
     "done": true
   },
+  "species:species/v3/fall_for_hanger": {
+    "criteria": {
+      "fall_for_hanger": "2025-08-02 02:48:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
@@ -9621,6 +9639,18 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-02 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9642,15 +9672,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-02 02:02:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/harpoon": {
+    "criteria": {
+      "has_item": "2025-08-02 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9663,6 +9723,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-08-02 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9702,15 +9768,51 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-08-02 02:44:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-08-02 02:19:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/oak_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-08-02 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9729,6 +9831,12 @@
   "skilltree:recipes/misc/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2025-08-02 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9756,9 +9864,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9771,6 +9903,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },
@@ -9801,6 +9939,12 @@
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-08-02 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 02:47:32 +0000"
     },
     "done": true
   },

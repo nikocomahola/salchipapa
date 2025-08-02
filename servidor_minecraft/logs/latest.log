@@ -2959,3 +2959,64 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 02:48:22.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12270ms or 245 ticks behind
 [02Aug2025 02:48:45.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Klade250 moved too quickly! 6.607180416374604,-6.840827010491687,3.9169025480611026
 [02Aug2025 02:48:52.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14906ms or 298 ticks behind
+[02Aug2025 02:49:12.104] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Aug2025 02:49:12.104] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[02Aug2025 02:49:12.104] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[02Aug2025 02:49:12.104] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Aug2025 02:49:12.105] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[02Aug2025 02:49:12.576] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.577] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.577] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.577] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.577] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.626] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.627] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:12.783] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Aug2025 02:49:12.783] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[02Aug2025 02:49:12.783] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[02Aug2025 02:49:12.783] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Aug2025 02:49:12.783] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[02Aug2025 02:49:13.418] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.418] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.418] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.419] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.448] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.449] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.449] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.449] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:13.449] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 02:49:27.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19708ms or 394 ticks behind
+[02Aug2025 02:49:56.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13744ms or 274 ticks behind
+[02Aug2025 02:50:23.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11871ms or 237 ticks behind
+[02Aug2025 02:50:49.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11639ms or 232 ticks behind
+[02Aug2025 02:51:17.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12549ms or 250 ticks behind
+[02Aug2025 02:51:37.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NIKORREO lost connection: Disconnected
+[02Aug2025 02:51:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NIKORREO left the game
+[02Aug2025 02:51:43.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11562ms or 231 ticks behind
+[02Aug2025 02:51:59.942] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/803411, l='ServerLevel[world]', x=304.50, y=76.00, z=837.50]
+[02Aug2025 02:52:04.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5886ms or 117 ticks behind
+[02Aug2025 02:52:26.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6764ms or 135 ticks behind
+[02Aug2025 02:52:47.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5996ms or 119 ticks behind
+[02Aug2025 02:53:07.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
+[02Aug2025 02:53:26.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4821ms or 96 ticks behind
+[02Aug2025 02:53:47.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5936ms or 118 ticks behind
+[02Aug2025 02:54:08.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
+[02Aug2025 02:54:32.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8456ms or 169 ticks behind
+[02Aug2025 02:54:54.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
+[02Aug2025 02:55:16.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
+[02Aug2025 02:55:37.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6087ms or 121 ticks behind
+[02Aug2025 02:55:59.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7189ms or 143 ticks behind
+[02Aug2025 02:56:22.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7894ms or 157 ticks behind
+[02Aug2025 02:56:43.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6407ms or 128 ticks behind
+[02Aug2025 02:57:05.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6957ms or 139 ticks behind
+[02Aug2025 02:57:27.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[02Aug2025 02:57:37.928] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/916485, l='ServerLevel[world]', x=384.50, y=74.00, z=1098.50]
+[02Aug2025 02:57:49.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7880ms or 157 ticks behind
+[02Aug2025 02:58:11.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6940ms or 138 ticks behind
+[02Aug2025 02:58:13.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 02:58:33.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7061ms or 141 ticks behind
+[02Aug2025 02:58:37.690] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 02:58:37.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 02:58:56.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7332ms or 146 ticks behind
+[02Aug2025 02:59:04.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 02:59:07.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already

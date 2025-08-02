@@ -8470,10 +8470,13 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-08-02 02:53:44 +0000",
       "onion": "2025-08-01 23:17:56 +0000",
+      "cocoa": "2025-08-02 02:42:26 +0000",
       "sugar_cane": "2025-08-01 22:03:02 +0000",
       "potato": "2025-08-01 23:20:01 +0000",
-      "wheat": "2025-08-02 02:22:38 +0000"
+      "wheat": "2025-08-02 02:22:38 +0000",
+      "pumpkin": "2025-08-02 02:42:40 +0000"
     },
     "done": false
   },
@@ -9249,6 +9252,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-08-02 02:35:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-08-02 02:57:17 +0000"
     },
     "done": true
   },
