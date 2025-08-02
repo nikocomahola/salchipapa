@@ -131,3 +131,56 @@
 [02Aug2025 00:23:39.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [02Aug2025 00:23:43.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [02Aug2025 00:23:45.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:54.214] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:23:55.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5699ms or 113 ticks behind
+[02Aug2025 00:24:14.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
+[02Aug2025 00:24:30.713] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:24:35.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5254ms or 105 ticks behind
+[02Aug2025 00:24:56.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
+[02Aug2025 00:25:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Blunt-force Trauma]
+[02Aug2025 00:25:08.507] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:25:18.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
+[02Aug2025 00:25:39.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[02Aug2025 00:25:47.525] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:26:00.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
+[02Aug2025 00:26:21.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6090ms or 121 ticks behind
+[02Aug2025 00:26:27.003] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:26:42.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5281ms or 105 ticks behind
+[02Aug2025 00:27:02.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind
+[02Aug2025 00:27:23.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5428ms or 108 ticks behind
+[02Aug2025 00:27:43.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
+[02Aug2025 00:27:44.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4503655, l='ServerLevel[world]', x=342.50, y=74.00, z=214.50]
+[02Aug2025 00:27:52.518] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:27:59.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4508098, l='ServerLevel[world]', x=447.50, y=71.00, z=285.50]
+[02Aug2025 00:28:03.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[02Aug2025 00:28:24.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[02Aug2025 00:28:27.859] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:28:44.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5505ms or 110 ticks behind
+[02Aug2025 00:29:05.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6219ms or 124 ticks behind
+[02Aug2025 00:29:24.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[02Aug2025 00:29:26.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
+[02Aug2025 00:29:41.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:29:41.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:29:41.142] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:29:41.142] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:29:41.142] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:29:48.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6535ms or 130 ticks behind
+[02Aug2025 00:30:09.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5845ms or 116 ticks behind
+[02Aug2025 00:30:26.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4553263, l='ServerLevel[world]', x=316.50, y=72.00, z=-406.50]
+[02Aug2025 00:30:30.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
+[02Aug2025 00:30:51.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6200ms or 124 ticks behind
+[02Aug2025 00:30:53.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4561402, l='ServerLevel[world]', x=321.50, y=74.00, z=-374.50]
+[02Aug2025 00:31:12.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5780ms or 115 ticks behind
+[02Aug2025 00:31:24.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4570826, l='ServerLevel[world]', x=337.50, y=69.00, z=-367.50]
+[02Aug2025 00:31:33.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6325ms or 126 ticks behind
+[02Aug2025 00:31:36.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4574212, l='ServerLevel[world]', x=80.50, y=77.00, z=-165.50]
+[02Aug2025 00:31:55.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7054ms or 141 ticks behind
+[02Aug2025 00:32:18.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7952ms or 159 ticks behind
+[02Aug2025 00:32:40.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6597ms or 131 ticks behind
+[02Aug2025 00:32:48.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4594733, l='ServerLevel[world]', x=311.50, y=72.00, z=-388.50]
+[02Aug2025 00:33:00.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5911ms or 118 ticks behind
+[02Aug2025 00:33:21.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5830ms or 116 ticks behind
+[02Aug2025 00:33:42.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[02Aug2025 00:33:42.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sickaric lost connection: Timed out
+[02Aug2025 00:33:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric left the game
+[02Aug2025 00:33:42.577] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

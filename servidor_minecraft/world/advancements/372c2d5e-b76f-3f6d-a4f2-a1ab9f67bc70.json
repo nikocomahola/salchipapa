@@ -8624,6 +8624,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-02 00:01:27 +0000"
@@ -8654,9 +8660,27 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/fisherman_necklace": {
     "criteria": {
       "has_tropical_fish": "2025-08-01 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-08-02 00:22:48 +0000"
     },
     "done": true
   },
@@ -8669,6 +8693,12 @@
   "naturalist:recipes/food/cooked_venison": {
     "criteria": {
       "has_venison": "2025-08-01 23:47:53 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-08-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -8714,9 +8744,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/misc/string_from_gossypium": {
+    "criteria": {
+      "has_gossypium": "2025-08-02 00:23:45 +0000"
     },
     "done": true
   },
@@ -8729,6 +8771,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-08-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-08-02 00:25:06 +0000"
     },
     "done": true
   },
@@ -8759,6 +8807,12 @@
   "miners_delight:recipes/cooking/takoyaki": {
     "criteria": {
       "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -8798,6 +8852,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-02 00:04:35 +0000"
@@ -8828,9 +8888,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -8882,6 +8954,18 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-02 00:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-02 00:02:22 +0000"
@@ -8915,6 +8999,18 @@
   "miners_delight:recipes/food/squid_sandwich": {
     "criteria": {
       "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 00:27:44 +0000"
     },
     "done": true
   },
@@ -8981,6 +9077,18 @@
   "species:recipes/bone_vertebra": {
     "criteria": {
       "has_item": "2025-08-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-08-02 00:27:44 +0000"
     },
     "done": true
   },
