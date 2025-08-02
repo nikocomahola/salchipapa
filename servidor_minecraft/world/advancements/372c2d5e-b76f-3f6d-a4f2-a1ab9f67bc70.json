@@ -7162,6 +7162,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-08-02 04:27:22 +0000",
       "illager_camp": "2025-08-01 07:10:38 +0000"
     },
     "done": false
@@ -9640,15 +9641,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-08-02 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2025-08-02 04:02:29 +0000"
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2025-08-02 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
   "species:species/v3/wicked_stop_haunting": {
     "criteria": {
       "wicked_stop_haunting": "2025-08-02 03:44:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 04:18:06 +0000"
     },
     "done": true
   },
@@ -9664,15 +9701,51 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-02 04:27:22 +0000"
+    },
+    "done": true
+  },
   "species:recipes/wicked_dope": {
     "criteria": {
       "has_item": "2025-08-02 03:52:31 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-08-02 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-08-02 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-02 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
   "species:recipes/monster_meal": {
     "criteria": {
       "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
     },
     "done": true
   },
@@ -9691,6 +9764,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-08-02 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
     },
     "done": true
   },
