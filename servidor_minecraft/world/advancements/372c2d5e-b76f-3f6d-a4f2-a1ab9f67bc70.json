@@ -10110,9 +10110,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/amanita_sign": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/coarse_toadstool_soil": {
     "criteria": {
       "has_material": "2025-08-02 06:08:15 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_button": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/chiseled_toadstone_bricks": {
+    "criteria": {
+      "has_toadstone_brick_slab": "2025-08-02 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
     },
     "done": true
   },
@@ -10122,9 +10230,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/rainbow_tiles": {
     "criteria": {
       "has_star_bit": "2025-08-02 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_fence_gate": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_pressure_plate": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
     },
     "done": true
   },
@@ -10134,9 +10272,171 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/amanita_wood": {
     "criteria": {
       "has_log": "2025-08-02 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_stairs": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/amanita_fence": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:lets_start_a_video": {
+    "criteria": {
+      "lets_start_a_video": "2025-08-02 06:18:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_door": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/super_block_world/sign_post_amanita": {
+    "criteria": {
+      "has_item": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_slab": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-02 06:18:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-08-02 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_trapdoor": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:16:02 +0000"
     },
     "done": true
   },

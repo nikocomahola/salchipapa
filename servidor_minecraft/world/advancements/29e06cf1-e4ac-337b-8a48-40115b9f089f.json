@@ -125,6 +125,7 @@
       "minecraft:cold_ocean": "2025-08-02 03:15:25 +0000",
       "minecraft:forest": "2025-08-01 05:29:34 +0000",
       "minecraft:ocean": "2025-08-01 04:34:23 +0000",
+      "minecraft:jungle": "2025-08-02 06:20:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 05:15:07 +0000",
       "minecraft:meadow": "2025-08-02 04:02:44 +0000",
       "minecraft:plains": "2025-08-02 02:03:23 +0000"
@@ -7962,7 +7963,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-02 04:44:14 +0000"
+      "requirement": "2025-08-02 06:13:28 +0000"
     },
     "done": true
   },
@@ -8218,15 +8219,93 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/jungle": {
+    "criteria": {
+      "requirement": "2025-08-02 06:20:33 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/amanita_sign": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_button": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-08-02 06:18:23 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/amanita_planks": {
     "criteria": {
       "has_logs": "2025-08-02 06:09:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-02 06:18:23 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_fence_gate": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_pressure_plate": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/amanita_wood": {
     "criteria": {
       "has_log": "2025-08-02 06:09:29 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_stairs": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/amanita_fence": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_door": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/super_block_world/sign_post_amanita": {
+    "criteria": {
+      "has_item": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_slab": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/redstone/amanita_trapdoor": {
+    "criteria": {
+      "has_amanita_planks": "2025-08-02 06:10:35 +0000"
     },
     "done": true
   },
