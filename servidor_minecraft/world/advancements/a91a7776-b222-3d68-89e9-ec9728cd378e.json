@@ -5015,7 +5015,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-01 21:34:24 +0000"
+      "requirement": "2025-08-01 23:53:14 +0000"
     },
     "done": true
   },
@@ -5772,6 +5772,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-08-01 23:56:44 +0000"
     },
     "done": true
   },
@@ -8028,6 +8034,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-01 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-01 23:56:07 +0000"
     },
     "done": true
   },

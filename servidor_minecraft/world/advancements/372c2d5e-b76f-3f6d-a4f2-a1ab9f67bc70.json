@@ -2209,6 +2209,7 @@
       "minecraft:vindicator": "2025-08-01 07:11:29 +0000",
       "minecraft:spider": "2025-08-01 08:43:33 +0000",
       "minecraft:creeper": "2025-08-01 05:18:09 +0000",
+      "minecraft:witch": "2025-08-02 00:01:36 +0000",
       "minecraft:cave_spider": "2025-08-01 06:36:34 +0000",
       "minecraft:enderman": "2025-08-01 23:47:06 +0000",
       "minecraft:zombie": "2025-08-01 06:10:24 +0000",
@@ -8622,9 +8623,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-01 23:57:21 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_squid_campfire": {
     "criteria": {
       "has_squid": "2025-08-01 23:33:27 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2025-08-01 23:59:54 +0000"
     },
     "done": true
   },
@@ -8652,6 +8671,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 00:01:30 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/takoyaki": {
     "criteria": {
       "has_squid": "2025-08-01 23:33:27 +0000"
@@ -8667,6 +8692,18 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-08-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-01 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-02 00:01:31 +0000"
     },
     "done": true
   },
@@ -8703,6 +8740,24 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-08-01 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-08-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-08-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-01 23:57:21 +0000"
     },
     "done": true
   },
