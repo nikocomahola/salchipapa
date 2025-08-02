@@ -420,3 +420,64 @@
 [02Aug2025 01:14:56.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NIKORREO> ./dia aparecer
 [02Aug2025 01:15:07.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NIKORREO> ./porfavor dia
 [02Aug2025 01:15:17.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9186ms or 183 ticks behind
+[02Aug2025 01:15:35.727] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5318917, l='ServerLevel[world]', x=127.50, y=72.00, z=-257.50]
+[02Aug2025 01:15:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NIKORREO has made the advancement [Suit Up]
+[02Aug2025 01:15:40.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8873ms or 177 ticks behind
+[02Aug2025 01:16:03.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind
+[02Aug2025 01:16:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Life turned out to be a comedy]
+[02Aug2025 01:16:25.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
+[02Aug2025 01:16:48.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8186ms or 163 ticks behind
+[02Aug2025 01:17:13.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9504ms or 190 ticks behind
+[02Aug2025 01:17:35.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7501ms or 150 ticks behind
+[02Aug2025 01:17:58.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8015ms or 160 ticks behind
+[02Aug2025 01:18:07.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NIKORREO> ./dio polfavo hacé de dia te lo pido te doy de ofrenda a la player sick
+[02Aug2025 01:18:22.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8470ms or 169 ticks behind
+[02Aug2025 01:18:40.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[02Aug2025 01:18:40.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:18:40.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:18:43.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 01:18:46.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8835ms or 176 ticks behind
+[02Aug2025 01:18:51.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:18:51.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:18:56.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 01:19:01.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 01:19:03.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_player but it was marked as removed already
+[02Aug2025 01:19:11.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10122ms or 202 ticks behind
+[02Aug2025 01:19:13.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NIKORREO> ./jesú gracia papa dio pol hacel de amanecer te amo
+[02Aug2025 01:19:13.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:13.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:14.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[02Aug2025 01:19:17.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[02Aug2025 01:19:17.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[02Aug2025 01:19:17.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[02Aug2025 01:19:19.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:19.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 01:19:20.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:20.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:20.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NIKORREO> shhhh
+[02Aug2025 01:19:24.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[02Aug2025 01:19:33.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 01:19:33.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:33.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:37.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghostly_anomaly but it was marked as removed already
+[02Aug2025 01:19:37.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[02Aug2025 01:19:37.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11691ms or 233 ticks behind
+[02Aug2025 01:19:39.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 01:19:47.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[02Aug2025 01:20:02.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9921ms or 198 ticks behind
+[02Aug2025 01:20:04.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5393223, l='ServerLevel[world]', x=124.50, y=70.00, z=-253.50]
+[02Aug2025 01:20:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has reached the goal [Exorcism]
+[02Aug2025 01:20:28.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10778ms or 215 ticks behind
+[02Aug2025 01:20:54.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10605ms or 212 ticks behind
+[02Aug2025 01:21:19.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10499ms or 209 ticks behind
+[02Aug2025 01:21:45.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11075ms or 221 ticks behind
+[02Aug2025 01:22:13.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12823ms or 256 ticks behind
+[02Aug2025 01:22:40.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12118ms or 242 ticks behind
+[02Aug2025 01:23:06.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11157ms or 223 ticks behind
+[02Aug2025 01:23:31.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9963ms or 199 ticks behind
+[02Aug2025 01:23:55.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9156ms or 183 ticks behind
+[02Aug2025 01:24:20.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9456ms or 189 ticks behind
+[02Aug2025 01:24:44.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9464ms or 189 ticks behind
+[02Aug2025 01:25:09.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10172ms or 203 ticks behind
+[02Aug2025 01:25:35.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11076ms or 221 ticks behind
