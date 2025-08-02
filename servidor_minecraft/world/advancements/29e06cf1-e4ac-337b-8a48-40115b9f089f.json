@@ -252,6 +252,7 @@
       "minecraft:creeper": "2025-08-02 00:47:04 +0000",
       "minecraft:husk": "2025-08-02 02:05:15 +0000",
       "minecraft:cave_spider": "2025-08-02 03:18:11 +0000",
+      "minecraft:stray": "2025-08-02 03:42:53 +0000",
       "minecraft:zombie": "2025-08-01 08:30:03 +0000",
       "minecraft:zombie_villager": "2025-08-02 03:10:58 +0000"
     },
@@ -7522,6 +7523,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-08-02 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-02 03:38:23 +0000"
     },
     "done": true
   },

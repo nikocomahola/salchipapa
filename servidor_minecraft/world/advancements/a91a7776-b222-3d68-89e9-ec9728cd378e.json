@@ -3305,7 +3305,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-01 05:25:13 +0000",
-      "opened_chest": "2025-08-01 05:36:27 +0000"
+      "opened_chest": "2025-08-01 05:36:27 +0000",
+      "opened_cart": "2025-08-02 03:40:55 +0000"
     },
     "done": false
   },
@@ -10050,6 +10051,48 @@
   "miners_delight:recipes/misc/string_from_gossypium": {
     "criteria": {
       "has_gossypium": "2025-08-02 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-02 03:40:55 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-08-02 03:44:15 +0000"
     },
     "done": true
   },

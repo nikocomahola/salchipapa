@@ -9483,12 +9483,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 03:03:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-02 03:07:11 +0000"
@@ -9636,6 +9630,18 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-02 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "species:species/v3/wicked_stop_haunting": {
+    "criteria": {
+      "wicked_stop_haunting": "2025-08-02 03:44:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 03:46:03 +0000"
     },
     "done": true
   },
