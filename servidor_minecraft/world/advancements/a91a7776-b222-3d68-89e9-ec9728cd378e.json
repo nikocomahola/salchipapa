@@ -10159,15 +10159,117 @@
     },
     "done": true
   },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_bricks_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
+    "criteria": {
+      "has_material": "2025-08-02 05:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_slab_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/toadstone_wall": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
   "super_block_world:mushroom_kingdom/enter_dimension": {
     "criteria": {
       "entered_dimension": "2025-08-02 05:15:09 +0000"
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/toadstone_stairs": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-08-02 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_slab_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_stairs_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/smooth_toadstone": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_toadstone_bricks_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_wall_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_slab": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_bricks": {
+    "criteria": {
+      "has_material": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/vanillate": {
+    "criteria": {
+      "has_vanillate_crumble": "2025-08-02 05:26:42 +0000"
     },
     "done": true
   },
