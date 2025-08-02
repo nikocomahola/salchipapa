@@ -116,13 +116,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-01 06:19:12 +0000",
+      "minecraft:sunflower_plains": "2025-08-02 02:30:53 +0000",
       "minecraft:birch_forest": "2025-08-01 03:52:45 +0000",
       "minecraft:beach": "2025-08-01 03:32:23 +0000",
       "minecraft:dark_forest": "2025-08-01 03:33:04 +0000",
       "minecraft:river": "2025-08-01 05:17:52 +0000",
       "minecraft:forest": "2025-08-01 05:29:42 +0000",
       "minecraft:ocean": "2025-08-01 04:33:42 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-01 05:20:58 +0000"
+      "minecraft:old_growth_birch_forest": "2025-08-01 05:20:58 +0000",
+      "minecraft:plains": "2025-08-02 02:29:44 +0000"
     },
     "done": false
   },
@@ -9513,6 +9515,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-08-02 02:31:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-08-02 02:02:57 +0000"
@@ -9528,6 +9536,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-08-02 02:09:22 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-08-02 02:29:44 +0000"
     },
     "done": true
   },
