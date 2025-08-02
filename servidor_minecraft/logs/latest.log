@@ -2641,3 +2641,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 06:02:22.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [02Aug2025 06:02:41.099] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [02Aug2025 06:02:56.598] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[02Aug2025 06:05:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blueby87: Teleported Sickaric to blueby87]
+[02Aug2025 06:08:20.494] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[02Aug2025 06:08:58.222] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[02Aug2025 06:09:19.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[02Aug2025 06:10:34.260] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.888 ms. 5838/6007 recipes are parallelized.
+[02Aug2025 06:11:00.357] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[02Aug2025 06:12:14.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[02Aug2025 06:12:14.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[02Aug2025 06:12:14.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric fell from a high place
+[02Aug2025 06:12:14.612] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[02Aug2025 06:12:14.623] [Server thread/INFO] [tombstone/]: The player Sickaric has successfully been saved
+[02Aug2025 06:12:17.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[02Aug2025 06:12:18.664] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[02Aug2025 06:12:20.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[02Aug2025 06:12:21.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Aug2025 06:12:26.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[02Aug2025 06:13:30.875] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}

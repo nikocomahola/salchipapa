@@ -10110,5 +10110,35 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/coarse_toadstool_soil": {
+    "criteria": {
+      "has_material": "2025-08-02 06:08:15 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_planks": {
+    "criteria": {
+      "has_logs": "2025-08-02 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/rainbow_tiles": {
+    "criteria": {
+      "has_star_bit": "2025-08-02 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone": {
+    "criteria": {
+      "has_toadstool_soil": "2025-08-02 06:08:15 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 06:02:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

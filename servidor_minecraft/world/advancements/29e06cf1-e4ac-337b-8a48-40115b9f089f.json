@@ -8218,5 +8218,17 @@
     },
     "done": true
   },
+  "super_block_world:recipes/building_blocks/amanita_planks": {
+    "criteria": {
+      "has_logs": "2025-08-02 06:09:29 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/amanita_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 06:09:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
