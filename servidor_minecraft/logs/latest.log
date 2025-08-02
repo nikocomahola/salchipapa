@@ -3485,3 +3485,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 05:15:24.363] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
 [02Aug2025 05:15:30.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7160ms or 143 ticks behind
 [02Aug2025 05:15:48.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[02Aug2025 05:34:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> Yo vengo de ahi blu
+[02Aug2025 05:36:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Ashes 'n Bones]
+[02Aug2025 05:37:49.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> y si hacemos un portal pero del mundo
+[02Aug2025 05:38:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> necesitamos de estos hilos
+[02Aug2025 05:38:20.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> alguien saquese un cuadro
+[02Aug2025 05:39:16.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> tienen lana
+[02Aug2025 05:39:44.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> mucho hilo?
+[02Aug2025 05:40:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> con palos y lana
+[02Aug2025 05:41:08.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Klade250> nadie se trajo hilo?

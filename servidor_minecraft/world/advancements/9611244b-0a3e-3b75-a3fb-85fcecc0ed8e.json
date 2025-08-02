@@ -7041,6 +7041,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 05:36:45 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/smooth_toadstone": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
