@@ -75,3 +75,59 @@
 [02Aug2025 00:12:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Magery]
 [02Aug2025 00:12:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Magic Writing]
 [02Aug2025 00:12:24.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4226361, l='ServerLevel[world]', x=578.50, y=76.00, z=-514.50]
+[02Aug2025 00:13:59.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[02Aug2025 00:14:03.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[02Aug2025 00:14:03.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 00:14:09.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 00:14:23.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:14:25.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 00:14:25.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[02Aug2025 00:14:26.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[02Aug2025 00:14:26.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 00:14:33.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has reached the goal [Senior Summoner]
+[02Aug2025 00:14:39.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 00:14:39.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[02Aug2025 00:14:47.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:figure but it was marked as removed already
+[02Aug2025 00:15:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [IT MOVES!]
+[02Aug2025 00:15:16.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:murder but it was marked as removed already
+[02Aug2025 00:17:15.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Aug2025 00:20:19.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4365186, l='ServerLevel[world]', x=411.50, y=70.00, z=-426.50]
+[02Aug2025 00:20:27.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sickaric[/172.29.46.126:56592] logged in with entity id 4367470 at (666.6992717765891, 72.0, -230.21364507858476)
+[02Aug2025 00:20:27.680] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sickaric
+[02Aug2025 00:20:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric joined the game
+[02Aug2025 00:20:27.729] [Server thread/INFO] [Jade/]: Syncing config to Sickaric (29e06cf1-e4ac-337b-8a48-40115b9f089f)
+[02Aug2025 00:20:27.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[02Aug2025 00:20:37.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Aug2025 00:20:56.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[02Aug2025 00:21:15.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3925ms or 78 ticks behind
+[02Aug2025 00:21:34.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
+[02Aug2025 00:21:54.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5227ms or 104 ticks behind
+[02Aug2025 00:22:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric has made the advancement [The Wind Darkening]
+[02Aug2025 00:22:09.472] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:22:14.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[02Aug2025 00:22:35.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6042ms or 120 ticks behind
+[02Aug2025 00:22:39.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[02Aug2025 00:22:46.022] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:22:48.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [The Cutest Predator]
+[02Aug2025 00:22:48.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:22:48.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:22:55.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5107ms or 102 ticks behind
+[02Aug2025 00:23:03.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[02Aug2025 00:23:03.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:03.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:05.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[02Aug2025 00:23:09.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[02Aug2025 00:23:09.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[02Aug2025 00:23:14.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[02Aug2025 00:23:14.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
+[02Aug2025 00:23:16.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_hanging but it was marked as removed already
+[02Aug2025 00:23:17.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:17.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:19.468] [Server thread/INFO] [STDOUT/]: [com.ninni.species.server.entity.mob.update_3.Quake:damage:167]: [entity.species.springling, entity.species.cruncher, entity.species.treeper, entity.minecraft.sniffer, entity.species.goober]
+[02Aug2025 00:23:23.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:23.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:33.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:stalking_face but it was marked as removed already
+[02Aug2025 00:23:34.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[02Aug2025 00:23:39.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:43.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 00:23:45.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
