@@ -3361,3 +3361,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 08:07:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> creo que lo dejare hasta aca por hoy
 [02Aug2025 08:07:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> diria que las mejores son las de los pokemones
 [02Aug2025 08:07:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> sii, ya es hora
+[02Aug2025 08:07:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> estan bien animados ambos
+[02Aug2025 08:07:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> me gusto el umbreon
+[02Aug2025 08:08:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> auchis
+[02Aug2025 08:09:01.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> ahh con razon
+[02Aug2025 08:09:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> deje mi anillo a prueba de echizos de fuego en la casa
+[02Aug2025 08:09:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> nomas tengo el anit veneno
+[02Aug2025 08:09:26.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> anti
+[02Aug2025 08:09:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> oh no blu
+[02Aug2025 08:09:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> mira ven
+[02Aug2025 08:09:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> es el que me acoso
+[02Aug2025 08:10:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> yo me encargo
+[02Aug2025 08:10:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> gracias miamor
+[02Aug2025 08:10:37.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> que
+[02Aug2025 08:10:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> JAJAJAJ
+[02Aug2025 08:10:52.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> no estaba preparado para atacar hot
+[02Aug2025 08:10:53.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> tiene poderes sobrenaturales.....
+[02Aug2025 08:10:55.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> hoy
+[02Aug2025 08:11:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> bueno ya me voi
+[02Aug2025 08:11:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> buenas nocheees
+[02Aug2025 08:11:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> vas a seguir?
+[02Aug2025 08:11:31.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> nop
+[02Aug2025 08:11:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> oki
+[02Aug2025 08:11:45.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> descansa
+[02Aug2025 08:11:49.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> cerrare el server entonces
+[02Aug2025 08:11:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> nos vimos
+[02Aug2025 08:12:03.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 lost connection: Disconnected
+[02Aug2025 08:12:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 left the game
+[02Aug2025 08:12:07.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sickaric lost connection: Disconnected
+[02Aug2025 08:12:07.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric left the game
+[02Aug2025 08:12:16.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2025 08:12:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2025 08:12:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2025 08:12:16.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2025 08:12:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[02Aug2025 08:12:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[02Aug2025 08:12:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2025 08:12:16.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[02Aug2025 08:12:16.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2025 08:12:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/super_block_world:mushroom_kingdom
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mushroom_kingdom): All chunks are saved
+[02Aug2025 08:12:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2025 08:12:18.036] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Aug2025 08:12:18.037] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Aug2025 08:12:18.041] [Server thread/INFO] [Framework/]: Finished unloading server configs
