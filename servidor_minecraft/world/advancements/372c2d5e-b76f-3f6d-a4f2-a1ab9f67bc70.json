@@ -8624,6 +8624,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 00:30:50 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_hamburger": {
     "criteria": {
       "has_cave_carrot": "2025-08-02 00:27:44 +0000"
@@ -8825,6 +8831,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "species:species/v1/break_limpet": {
+    "criteria": {
+      "break_limpet": "2025-08-02 00:36:59 +0000"
     },
     "done": true
   },
@@ -9071,6 +9083,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-02 00:30:50 +0000"
     },
     "done": true
   },
