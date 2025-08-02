@@ -5691,6 +5691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-01 21:45:36 +0000"
@@ -6027,6 +6033,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-08-02 00:05:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-08-01 21:19:45 +0000"
@@ -6099,6 +6111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 00:03:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-01 21:00:14 +0000"
@@ -6150,6 +6168,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-02 00:09:30 +0000"
     },
     "done": true
   },
@@ -7065,6 +7089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-08-01 22:11:47 +0000"
@@ -7128,6 +7158,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-08-02 00:11:26 +0000"
     },
     "done": true
   },
@@ -7275,6 +7311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 00:03:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-08-01 19:28:53 +0000"
@@ -7368,6 +7410,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-01 21:00:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-08-02 00:09:30 +0000"
     },
     "done": true
   },
@@ -7686,6 +7734,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
     },
     "done": true
   },
@@ -8157,6 +8211,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-08-02 00:08:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -8283,6 +8343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 21:02:29 +0000"
@@ -8358,6 +8424,12 @@
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
     },
     "done": true
   },
@@ -8925,6 +8997,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-08-02 00:08:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-01 20:14:12 +0000"
@@ -9270,6 +9348,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 22:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 00:09:57 +0000"
     },
     "done": true
   },

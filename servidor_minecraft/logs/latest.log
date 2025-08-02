@@ -55,3 +55,23 @@
 [02Aug2025 00:02:43.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [02Aug2025 00:02:44.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
 [02Aug2025 00:02:45.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:ghost_girl but it was marked as removed already
+[02Aug2025 00:03:21.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Aug2025 00:03:45.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 00:04:18.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 00:05:00.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[02Aug2025 00:05:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Good Demoman]
+[02Aug2025 00:06:12.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Aug2025 00:06:49.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4136484, l='ServerLevel[world]', x=425.50, y=73.00, z=-402.50]
+[02Aug2025 00:07:00.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3910013, l='ServerLevel[world]', x=1141.19, y=63.00, z=-858.24] died, message: 'Unemployed tried to swim in lava'
+[02Aug2025 00:08:00.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4155496, l='ServerLevel[world]', x=558.50, y=77.00, z=-459.50]
+[02Aug2025 00:09:53.355] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:09:53.355] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:09:53.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:09:53.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 00:09:57.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[02Aug2025 00:11:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Mine Turtle!]
+[02Aug2025 00:11:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [How long's this been here?]
+[02Aug2025 00:11:29.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Aug2025 00:12:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Magery]
+[02Aug2025 00:12:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has made the advancement [Magic Writing]
+[02Aug2025 00:12:24.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4226361, l='ServerLevel[world]', x=578.50, y=76.00, z=-514.50]
