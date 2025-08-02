@@ -9483,6 +9483,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-02 03:48:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-02 03:07:11 +0000"
@@ -9639,9 +9645,45 @@
     },
     "done": true
   },
+  "species:recipes/monster_mask": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-02 03:46:03 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_dope": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/monster_meal": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_treat": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/smoke_bomb": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_swapper": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
     },
     "done": true
   },
