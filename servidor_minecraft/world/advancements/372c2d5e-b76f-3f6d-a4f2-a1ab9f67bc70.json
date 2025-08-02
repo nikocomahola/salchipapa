@@ -8472,7 +8472,8 @@
     "criteria": {
       "onion": "2025-08-01 23:17:56 +0000",
       "sugar_cane": "2025-08-01 22:03:02 +0000",
-      "potato": "2025-08-01 23:20:01 +0000"
+      "potato": "2025-08-01 23:20:01 +0000",
+      "wheat": "2025-08-02 02:22:38 +0000"
     },
     "done": false
   },
@@ -9209,12 +9210,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 02:11:07 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-08-02 01:41:22 +0000"
@@ -9224,6 +9219,12 @@
   "terramity:elite_rifle_advancement": {
     "criteria": {
       "elite_rifle_advancement_0": "2025-08-02 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-02 02:22:38 +0000"
     },
     "done": true
   },
