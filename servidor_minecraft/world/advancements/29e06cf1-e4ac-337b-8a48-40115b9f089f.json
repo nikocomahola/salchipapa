@@ -122,7 +122,8 @@
       "minecraft:river": "2025-08-01 05:15:01 +0000",
       "minecraft:forest": "2025-08-01 05:29:34 +0000",
       "minecraft:ocean": "2025-08-01 04:34:23 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-01 05:15:07 +0000"
+      "minecraft:old_growth_birch_forest": "2025-08-01 05:15:07 +0000",
+      "minecraft:plains": "2025-08-02 02:03:23 +0000"
     },
     "done": false
   },
@@ -247,6 +248,7 @@
       "minecraft:vindicator": "2025-08-01 06:43:43 +0000",
       "minecraft:spider": "2025-08-01 04:34:24 +0000",
       "minecraft:creeper": "2025-08-02 00:47:04 +0000",
+      "minecraft:husk": "2025-08-02 02:05:15 +0000",
       "minecraft:zombie": "2025-08-01 08:30:03 +0000"
     },
     "done": false
@@ -6973,12 +6975,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 00:49:59 +0000"
-    },
-    "done": true
-  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-08-01 07:31:28 +0000"
@@ -7207,15 +7203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 00:42:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-08-02 00:42:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "has_clay_ball": "2025-08-02 00:42:07 +0000"
+      "coded_trigger": "2025-08-02 00:44:20 +0000"
     },
     "done": true
   },
@@ -7225,9 +7227,57 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "vanilla_refresh:player/hurt": {
     "criteria": {
-      "coded_trigger": "2025-08-02 00:44:20 +0000"
+      "requirement": "2025-08-02 00:49:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-08-02 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-02 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-08-02 02:01:25 +0000"
     },
     "done": true
   },
