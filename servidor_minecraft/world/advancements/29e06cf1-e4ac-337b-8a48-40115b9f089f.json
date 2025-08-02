@@ -120,6 +120,8 @@
       "minecraft:beach": "2025-08-01 04:33:33 +0000",
       "minecraft:dark_forest": "2025-08-01 04:32:39 +0000",
       "minecraft:river": "2025-08-01 05:15:01 +0000",
+      "minecraft:stony_shore": "2025-08-02 03:14:58 +0000",
+      "minecraft:cold_ocean": "2025-08-02 03:15:25 +0000",
       "minecraft:forest": "2025-08-01 05:29:34 +0000",
       "minecraft:ocean": "2025-08-01 04:34:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 05:15:07 +0000",
@@ -249,6 +251,7 @@
       "minecraft:spider": "2025-08-01 04:34:24 +0000",
       "minecraft:creeper": "2025-08-02 00:47:04 +0000",
       "minecraft:husk": "2025-08-02 02:05:15 +0000",
+      "minecraft:cave_spider": "2025-08-02 03:18:11 +0000",
       "minecraft:zombie": "2025-08-01 08:30:03 +0000",
       "minecraft:zombie_villager": "2025-08-02 03:10:58 +0000"
     },
@@ -7228,42 +7231,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 03:03:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-02 02:20:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-08-02 02:12:37 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-08-02 02:25:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-02 03:07:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
       "has_dead_bush": "2025-08-02 02:01:25 +0000"
@@ -7282,81 +7249,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "supplementaries:recipes/ash_brick": {
     "criteria": {
-      "tamed_animal": "2025-08-02 03:06:04 +0000"
+      "forge:ash": "2025-08-02 02:01:25 +0000"
     },
     "done": true
   },
-  "lootr:50loot": {
+  "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
-      "loot_stat": "2025-08-02 02:28:22 +0000"
+      "has_cobweb": "2025-08-02 02:01:25 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "coded_trigger": "2025-08-02 02:09:53 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-08-02 03:04:36 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-02 02:20:22 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 02:09:53 +0000"
-    },
-    "done": true
-  },
-  "species:species/v3/wicked_stop_haunting": {
-    "criteria": {
-      "wicked_stop_haunting": "2025-08-02 03:08:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-08-02 02:31:03 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2025-08-02 02:20:22 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:has/banners": {
-    "criteria": {
-      "requirement": "2025-08-02 02:35:59 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_0": "2025-08-02 03:04:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-08-02 02:08:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-02 03:07:13 +0000"
+      "has_cobweb": "2025-08-02 02:01:25 +0000"
     },
     "done": true
   },
@@ -7372,33 +7279,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_any_ingredient": "2025-08-02 02:20:22 +0000"
+      "has_tripwire_hook": "2025-08-02 02:08:49 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "tombstone:adventure/first_grave": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-08-02 02:26:11 +0000"
+      "coded_trigger": "2025-08-02 02:09:53 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-08-02 02:12:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
+      "coded_trigger": "2025-08-02 02:09:53 +0000"
     },
     "done": true
   },
@@ -7408,15 +7303,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "supplementaries:recipes/flint_block": {
     "criteria": {
-      "has_golden_sword": "2025-08-02 02:31:03 +0000"
+      "has_flint": "2025-08-02 02:12:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_gold_nugget": "2025-08-02 02:25:06 +0000"
+      "has_flint": "2025-08-02 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-02 02:12:37 +0000"
     },
     "done": true
   },
@@ -7426,63 +7327,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/ash_brick": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "forge:ash": "2025-08-02 02:01:25 +0000"
+      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
     },
     "done": true
   },
-  "largemeals:recipes/cooking/red_soup": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_any_ingredient": "2025-08-02 02:20:22 +0000"
+      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
-      "has_beetroot": "2025-08-02 02:20:22 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/sticky_basket": {
-    "criteria": {
-      "has_cobweb": "2025-08-02 02:01:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 02:26:19 +0000"
+      "has_any_ingredient": "2025-08-02 02:20:21 +0000"
     },
     "done": true
   },
   "largemeals:recipes/cooking/roast_mutton_rack_block": {
     "criteria": {
       "has_any_ingredient": "2025-08-02 02:20:21 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-08-02 02:25:06 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-08-02 03:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-08-02 02:25:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-08-02 02:12:37 +0000"
     },
     "done": true
   },
@@ -7504,21 +7369,159 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-08-02 02:01:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-02 02:20:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/red_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-08-02 02:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-02 02:25:06 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-08-02 02:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-02 02:25:06 +0000"
+    },
+    "done": true
+  },
   "vanilla_refresh:place/cake_batter": {
     "criteria": {
       "requirement": "2025-08-02 02:26:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-02 02:26:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 02:26:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-02 02:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-02 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-02 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/banners": {
+    "criteria": {
+      "requirement": "2025-08-02 02:35:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-02 03:01:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-08-02 03:04:36 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-08-02 03:04:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-02 03:06:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-02 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-02 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "species:species/v3/wicked_stop_haunting": {
+    "criteria": {
+      "wicked_stop_haunting": "2025-08-02 03:08:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 03:17:22 +0000"
     },
     "done": true
   },
