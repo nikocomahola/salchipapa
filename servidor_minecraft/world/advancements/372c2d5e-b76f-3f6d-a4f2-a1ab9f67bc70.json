@@ -2210,6 +2210,7 @@
       "minecraft:vindicator": "2025-08-01 07:11:29 +0000",
       "minecraft:spider": "2025-08-01 08:43:33 +0000",
       "minecraft:creeper": "2025-08-01 05:18:09 +0000",
+      "quark:forgotten": "2025-08-02 01:05:02 +0000",
       "minecraft:witch": "2025-08-02 00:01:36 +0000",
       "minecraft:cave_spider": "2025-08-01 06:36:34 +0000",
       "minecraft:enderman": "2025-08-01 23:47:06 +0000",
@@ -8636,6 +8637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 01:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-02 00:01:27 +0000"
@@ -8660,6 +8667,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-08-02 01:05:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-08-02 01:08:25 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_squid_campfire": {
     "criteria": {
       "has_squid": "2025-08-01 23:33:27 +0000"
@@ -8675,6 +8694,12 @@
   "miners_delight:recipes/food/cave_carrots_from_crate": {
     "criteria": {
       "has_cave_carrot": "2025-08-02 00:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 01:08:25 +0000"
     },
     "done": true
   },
@@ -8722,6 +8747,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2025-08-02 01:10:07 +0000",
       "skeleton_skull": "2025-08-02 00:16:56 +0000"
     },
     "done": false
@@ -8840,9 +8866,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 01:08:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-08-02 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-02 01:08:25 +0000"
     },
     "done": true
   },
@@ -8954,6 +8992,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-08-02 01:08:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
@@ -9014,6 +9058,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-08-02 01:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-02 00:08:59 +0000"
@@ -9044,9 +9094,21 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-08-02 01:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-02 01:08:25 +0000"
     },
     "done": true
   },
@@ -9113,6 +9175,12 @@
   "species:recipes/bone_vertebra": {
     "criteria": {
       "has_item": "2025-08-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-02 01:08:25 +0000"
     },
     "done": true
   },
