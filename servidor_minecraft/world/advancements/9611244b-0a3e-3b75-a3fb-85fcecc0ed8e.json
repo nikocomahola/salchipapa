@@ -6921,5 +6921,11 @@
     },
     "done": true
   },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-08-02 05:01:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

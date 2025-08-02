@@ -9684,6 +9684,12 @@
     },
     "done": true
   },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-08-02 05:01:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-08-02 04:18:06 +0000"
