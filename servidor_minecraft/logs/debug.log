@@ -19864,3 +19864,661 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 06:24:23.642] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
 [02Aug2025 06:24:26.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [02Aug2025 06:24:44.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Aug2025 06:25:16.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Aug2025 06:25:34.843] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[02Aug2025 06:25:34.849] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[02Aug2025 06:25:37.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
+[02Aug2025 06:25:57.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4898ms or 97 ticks behind
+[02Aug2025 06:26:15.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[02Aug2025 06:26:20.527] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1297, y=-10, z=-2206}
+[02Aug2025 06:26:20.570] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=-10, z=-2223}
+[02Aug2025 06:26:20.571] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2222}
+[02Aug2025 06:26:20.573] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1297, y=-10, z=-2206}
+[02Aug2025 06:26:20.574] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=-10, z=-2221}
+[02Aug2025 06:26:20.622] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-10, z=-2249}
+[02Aug2025 06:26:20.623] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=-10, z=-2223}
+[02Aug2025 06:26:20.624] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1309, y=-30, z=-2233}
+[02Aug2025 06:26:20.625] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1300, y=-10, z=-2232}
+[02Aug2025 06:26:20.625] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1297, y=-10, z=-2206}
+[02Aug2025 06:26:20.626] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-30, z=-2232}
+[02Aug2025 06:26:20.627] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-30, z=-2248}
+[02Aug2025 06:26:22.125] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:26:22.126] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-10, z=-2250}
+[02Aug2025 06:26:22.127] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-10, z=-2249}
+[02Aug2025 06:26:22.128] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-10, z=-2255}
+[02Aug2025 06:26:22.128] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-30, z=-2251}
+[02Aug2025 06:26:22.129] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1309, y=-30, z=-2233}
+[02Aug2025 06:26:22.130] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-30, z=-2232}
+[02Aug2025 06:26:22.131] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-30, z=-2248}
+[02Aug2025 06:26:23.003] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:23.003] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:23.592] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:23.592] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:23.597] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-10, z=-2224}
+[02Aug2025 06:26:23.597] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-10, z=-2224}
+[02Aug2025 06:26:23.597] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=-10, z=-2223}
+[02Aug2025 06:26:24.475] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1331, y=-23, z=-2248}
+[02Aug2025 06:26:24.476] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-10, z=-2224}
+[02Aug2025 06:26:24.476] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=-24, z=-2233}
+[02Aug2025 06:26:24.478] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=-10, z=-2224}
+[02Aug2025 06:26:24.478] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=-10, z=-2223}
+[02Aug2025 06:26:24.479] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-30, z=-2248}
+[02Aug2025 06:26:25.563] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[02Aug2025 06:26:27.429] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.430] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.430] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.430] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.431] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.435] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:27.541] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.541] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:27.546] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:28.193] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[02Aug2025 06:26:29.093] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:30.170] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:31.596] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:31.894] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[02Aug2025 06:26:31.900] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:32.231] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:32.237] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1331, y=-23, z=-2248}
+[02Aug2025 06:26:32.237] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=-24, z=-2233}
+[02Aug2025 06:26:32.316] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:32.322] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1361, y=-23, z=-2248}
+[02Aug2025 06:26:32.364] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:26:33.038] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:34.128] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[02Aug2025 06:26:34.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[02Aug2025 06:26:36.212] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.213] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.213] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.213] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.214] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.214] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.214] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.214] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.215] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.215] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.215] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.215] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.215] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.216] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.216] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.216] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.216] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.217] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.868] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.868] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.868] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.869] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.869] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.869] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.869] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.870] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.870] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.870] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.870] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.870] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:36.871] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[02Aug2025 06:26:37.761] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Aug2025 06:26:37.823] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Aug2025 06:26:37.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 06:26:37.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 06:26:38.312] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.312] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.313] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.313] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.313] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.313] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.314] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.314] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.314] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.314] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.421] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.421] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:38.421] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.837] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.837] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.837] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.838] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.973] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.973] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.973] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.974] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:41.974] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:26:59.690] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[02Aug2025 06:26:59.690] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdb6b0ef$securitycraft$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin from mod securitycraft
+[02Aug2025 06:26:59.691] [Server thread/DEBUG] [mixin/]: securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin from mod securitycraft->@Inject::securitycraft$callGetCapabilityForSecuritySeaBoat(Lnet/minecraft/world/level/Level;DDDLnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02Aug2025 06:27:04.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Aug2025 06:27:07.401] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[02Aug2025 06:27:14.489] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:27:14.491] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1331, y=-23, z=-2248}
+[02Aug2025 06:27:14.493] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-10, z=-2224}
+[02Aug2025 06:27:14.493] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1317, y=-23, z=-2263}
+[02Aug2025 06:27:14.494] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-30, z=-2251}
+[02Aug2025 06:27:14.495] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-23, z=-2261}
+[02Aug2025 06:27:14.495] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-30, z=-2248}
+[02Aug2025 06:27:14.746] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:27:14.751] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1361, y=-23, z=-2248}
+[02Aug2025 06:27:14.752] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1369, y=-23, z=-2266}
+[02Aug2025 06:27:14.753] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1368, y=-23, z=-2249}
+[02Aug2025 06:27:14.753] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2259}
+[02Aug2025 06:27:14.795] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:27:14.867] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-23, z=-2256}
+[02Aug2025 06:27:14.875] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:27:14.876] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1331, y=-23, z=-2248}
+[02Aug2025 06:27:14.876] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-23, z=-2261}
+[02Aug2025 06:27:15.037] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2259}
+[02Aug2025 06:27:21.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[02Aug2025 06:27:24.480] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2259}
+[02Aug2025 06:27:24.509] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:27:24.513] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1369, y=-23, z=-2266}
+[02Aug2025 06:27:24.514] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1368, y=-23, z=-2249}
+[02Aug2025 06:27:24.514] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2259}
+[02Aug2025 06:27:24.514] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1369, y=-23, z=-2284}
+[02Aug2025 06:27:25.003] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:27:25.004] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:27:25.004] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:27:25.005] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:27:25.017] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-23, z=-2277}
+[02Aug2025 06:27:25.300] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:27:25.301] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-23, z=-2277}
+[02Aug2025 06:27:25.302] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-23, z=-2276}
+[02Aug2025 06:27:25.304] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-23, z=-2261}
+[02Aug2025 06:27:25.352] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:27:25.352] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-23, z=-2276}
+[02Aug2025 06:27:25.353] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1317, y=-23, z=-2263}
+[02Aug2025 06:27:25.354] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-30, z=-2251}
+[02Aug2025 06:27:25.355] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1326, y=-23, z=-2261}
+[02Aug2025 06:27:25.416] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1311, y=-10, z=-2242}
+[02Aug2025 06:27:25.416] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-10, z=-2255}
+[02Aug2025 06:27:25.416] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=-30, z=-2251}
+[02Aug2025 06:27:37.347] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[02Aug2025 06:27:44.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Aug2025 06:27:46.578] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[02Aug2025 06:27:58.250] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[02Aug2025 06:27:58.256] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[02Aug2025 06:27:58.270] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[02Aug2025 06:27:58.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[02Aug2025 06:27:58.284] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[02Aug2025 06:27:58.287] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[02Aug2025 06:27:58.290] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[02Aug2025 06:27:58.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[02Aug2025 06:27:58.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[02Aug2025 06:27:58.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[02Aug2025 06:27:58.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[02Aug2025 06:27:58.298] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[02Aug2025 06:27:58.298] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[02Aug2025 06:27:58.299] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[02Aug2025 06:27:58.299] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[02Aug2025 06:27:58.300] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[02Aug2025 06:27:58.301] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[02Aug2025 06:27:58.302] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[02Aug2025 06:27:58.302] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[02Aug2025 06:27:58.303] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[02Aug2025 06:27:58.303] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[02Aug2025 06:27:58.303] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[02Aug2025 06:27:58.304] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[02Aug2025 06:27:58.304] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[02Aug2025 06:27:58.305] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 06:27:58.305] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 06:27:58.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[02Aug2025 06:27:58.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[02Aug2025 06:27:58.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[02Aug2025 06:27:58.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[02Aug2025 06:27:58.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[02Aug2025 06:27:58.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[02Aug2025 06:27:59.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[02Aug2025 06:27:59.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[02Aug2025 06:27:59.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[02Aug2025 06:27:59.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[02Aug2025 06:27:59.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[02Aug2025 06:27:59.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[02Aug2025 06:27:59.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[02Aug2025 06:27:59.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[02Aug2025 06:27:59.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[02Aug2025 06:27:59.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[02Aug2025 06:27:59.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[02Aug2025 06:27:59.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[02Aug2025 06:27:59.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[02Aug2025 06:27:59.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[02Aug2025 06:27:59.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[02Aug2025 06:27:59.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[02Aug2025 06:27:59.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[02Aug2025 06:27:59.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[02Aug2025 06:27:59.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[02Aug2025 06:27:59.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[02Aug2025 06:27:59.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[02Aug2025 06:27:59.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[02Aug2025 06:27:59.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[02Aug2025 06:27:59.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[02Aug2025 06:27:59.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[02Aug2025 06:27:59.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[02Aug2025 06:27:59.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[02Aug2025 06:28:04.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[02Aug2025 06:28:19.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:22.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:22.049] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:22.050] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:22.050] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 3.06 Armor value: 3.0 Damage ignoring armor (50.0% damage): 1.53 Damage not ignoring armor: 1.53 Reduced Damage: 1.176923 Result Damage: 2.706923
+[02Aug2025 06:28:22.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Aug2025 06:28:23.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:23.037] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:23.038] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:23.038] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 8.368848 Armor value: 3.0 Damage ignoring armor (50.0% damage): 4.184424 Damage not ignoring armor: 4.184424 Reduced Damage: 3.2187877 Result Damage: 7.4032116
+[02Aug2025 06:28:23.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[02Aug2025 06:28:24.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:24.929] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:24.930] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:24.930] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.14 Armor value: 3.0 Damage ignoring armor (50.0% damage): 3.57 Damage not ignoring armor: 3.57 Reduced Damage: 2.7461538 Result Damage: 6.3161535
+[02Aug2025 06:28:26.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:26.829] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:26.830] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:26.830] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.14 Armor value: 3.0 Damage ignoring armor (50.0% damage): 3.57 Damage not ignoring armor: 3.57 Reduced Damage: 2.7461538 Result Damage: 6.3161535
+[02Aug2025 06:28:27.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:27.772] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:27.773] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:27.773] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 5.5792317 Armor value: 3.0 Damage ignoring armor (50.0% damage): 2.7896159 Damage not ignoring armor: 2.7896159 Reduced Damage: 2.1458583 Result Damage: 4.9354744
+[02Aug2025 06:28:29.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:29.666] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:29.667] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:29.667] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.14 Armor value: 3.0 Damage ignoring armor (50.0% damage): 3.57 Damage not ignoring armor: 3.57 Reduced Damage: 2.7461538 Result Damage: 6.3161535
+[02Aug2025 06:28:30.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:28:30.611] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[02Aug2025 06:28:30.612] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[02Aug2025 06:28:30.612] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 6.1321535 Armor value: 3.0 Damage ignoring armor (50.0% damage): 3.0660768 Damage not ignoring armor: 3.0660768 Reduced Damage: 2.3585205 Result Damage: 5.4245973
+[02Aug2025 06:28:30.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has reached the goal [Horror of the Depths]
+[02Aug2025 06:28:41.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[02Aug2025 06:28:57.743] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Aug2025 06:28:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sickaric> xaero-waypoint:torre de pizza:T:1386:62:-1990:1:false:0:Internal-overworld-waypoints
+[02Aug2025 06:28:59.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2855ms or 57 ticks behind
+[02Aug2025 06:29:09.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 06:29:09.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:cursed_goat but it was marked as removed already
+[02Aug2025 06:29:10.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 06:29:10.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 06:29:16.005] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[02Aug2025 06:29:16.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:creature_from_the_woods_idle but it was marked as removed already
+[02Aug2025 06:29:18.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blueby87> zzzzz
+[02Aug2025 06:29:19.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 06:29:21.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6544ms or 130 ticks behind
+[02Aug2025 06:29:26.160] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:26.160] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:26.161] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:26.161] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:26.167] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-23, z=-2277}
+[02Aug2025 06:29:26.168] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1348, y=-23, z=-2278}
+[02Aug2025 06:29:26.169] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=-37, z=-2294}
+[02Aug2025 06:29:26.209] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2284}
+[02Aug2025 06:29:26.283] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1369, y=-23, z=-2284}
+[02Aug2025 06:29:26.284] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1368, y=-23, z=-2274}
+[02Aug2025 06:29:26.284] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-23, z=-2284}
+[02Aug2025 06:29:26.357] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-23, z=-2277}
+[02Aug2025 06:29:26.357] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-23, z=-2276}
+[02Aug2025 06:29:26.358] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-16, z=-2277}
+[02Aug2025 06:29:26.359] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1343, y=-23, z=-2284}
+[02Aug2025 06:29:26.473] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-23, z=-2276}
+[02Aug2025 06:29:26.474] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=-16, z=-2277}
+[02Aug2025 06:29:29.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[02Aug2025 06:29:30.932] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:31.042] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1348, y=-23, z=-2278}
+[02Aug2025 06:29:31.043] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=-37, z=-2294}
+[02Aug2025 06:29:31.044] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1355, y=-23, z=-2296}
+[02Aug2025 06:29:31.046] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:31.111] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1355, y=-23, z=-2296}
+[02Aug2025 06:29:31.111] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1343, y=-23, z=-2284}
+[02Aug2025 06:29:31.613] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[02Aug2025 06:29:31.721] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:34.122] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:34.792] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:34.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.175866413659833,0.0,-8.367361838203124
+[02Aug2025 06:29:34.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.4134050360858055,0.0,-8.689190626508662
+[02Aug2025 06:29:34.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.650943774505777,0.0,-9.011019571969427
+[02Aug2025 06:29:34.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.888482617320278,0.0,-9.332848658869807
+[02Aug2025 06:29:34.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.126021554089903,0.0,-9.654677873065793
+[02Aug2025 06:29:34.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.363560575419115,0.0,-9.976507201828099
+[02Aug2025 06:29:34.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.601099672852115,0.0,-10.298336633699819
+[02Aug2025 06:29:34.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.838638838778252,0.0,-10.620166158370012
+[02Aug2025 06:29:34.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.076178066348348,0.0,-10.941995766559103
+[02Aug2025 06:29:34.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.313717349398075,0.0,-11.263825449914748
+[02Aug2025 06:29:34.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.55125668237929,0.0,-11.585655200920883
+[02Aug2025 06:29:34.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.788796060299092,0.0,-11.907485012811776
+[02Aug2025 06:29:34.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.02633547866344,0.0,-12.22931487949927
+[02Aug2025 06:29:34.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.263874933428042,0.0,-12.55114479550366
+[02Aug2025 06:29:34.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.501414420952642,0.0,-12.872974755893665
+[02Aug2025 06:29:34.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.738953937961469,0.0,-13.194804756230042
+[02Aug2025 06:29:34.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.97649348150594,0.0,-13.516634792518744
+[02Aug2025 06:29:34.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -10.214033048932379,0.0,-13.838464861164084
+[02Aug2025 06:29:34.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -10.451572637852905,0.0,-14.160294958930535
+[02Aug2025 06:29:34.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -10.68911224611793,0.0,-14.48212508290635
+[02Aug2025 06:29:34.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -10.926651871792956,0.0,-14.803955230470365
+[02Aug2025 06:29:34.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -11.164191513136984,0.0,-15.12578539926335
+[02Aug2025 06:29:34.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -11.401731168583183,0.0,-15.447615587163
+[02Aug2025 06:29:34.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -11.63927083672138,0.0,-15.769445792258466
+[02Aug2025 06:29:34.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.176022286007765,0.0,-8.367573022815577
+[02Aug2025 06:29:34.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.4135619851015235,0.0,-8.689403269851482
+[02Aug2025 06:29:34.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.651101692522616,0.0,-9.011233528169214
+[02Aug2025 06:29:34.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -6.888641407438172,0.0,-9.333063796641
+[02Aug2025 06:29:34.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.126181129098768,0.0,-9.654894074251388
+[02Aug2025 06:29:34.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.3637208568297865,0.0,-9.976724360086337
+[02Aug2025 06:29:34.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.60126059002414,0.0,-10.298554653323663
+[02Aug2025 06:29:34.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -7.838800328135676,0.0,-10.620384953223038
+[02Aug2025 06:29:34.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.076340070672586,0.0,-10.942215259117802
+[02Aug2025 06:29:34.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.3138798171924,0.0,-11.264045570409053
+[02Aug2025 06:29:34.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.551419567296762,0.0,-11.585875886557005
+[02Aug2025 06:29:34.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -8.788959320627328,0.0,-11.907706207075535
+[02Aug2025 06:29:34.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.026499076861455,0.0,-12.229536531528083
+[02Aug2025 06:29:34.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.264038835708561,0.0,-12.55136685952084
+[02Aug2025 06:29:34.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.50157859690762,0.0,-12.873197190700012
+[02Aug2025 06:29:34.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.739118360223301,0.0,-13.195027524747275
+[02Aug2025 06:29:34.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sickaric) moved too quickly! -9.976658125443919,0.0,-13.516857861375229
+[02Aug2025 06:29:34.958] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1355, y=-23, z=-2296}
+[02Aug2025 06:29:34.959] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=-16, z=-2309}
+[02Aug2025 06:29:34.991] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1355, y=-23, z=-2296}
+[02Aug2025 06:29:40.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[02Aug2025 06:29:40.423] [Server thread/DEBUG] [mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.world.CompoundContainer
+[02Aug2025 06:29:40.424] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Aug2025 06:29:40.461] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_25
+[02Aug2025 06:29:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Valengarf> Z
+[02Aug2025 06:29:44.774] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.774] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.774] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.774] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.775] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.775] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.776] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.776] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.776] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.814] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:44.876] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:46.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10701ms or 214 ticks behind
+[02Aug2025 06:29:47.936] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:47.936] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:47.936] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:47.997] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=126, z=-751}
+[02Aug2025 06:29:47.997] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-745}
+[02Aug2025 06:29:47.998] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-748}
+[02Aug2025 06:29:47.998] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-750}
+[02Aug2025 06:29:47.998] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-751}
+[02Aug2025 06:29:47.998] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-747}
+[02Aug2025 06:29:47.998] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-748}
+[02Aug2025 06:29:48.002] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:48.003] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 06:29:50.329] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[02Aug2025 06:29:53.473] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[02Aug2025 06:29:55.940] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[02Aug2025 06:29:55.940] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[02Aug2025 06:29:55.940] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[02Aug2025 06:29:55.941] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[02Aug2025 06:29:58.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:29:59.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:30:09.488] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[02Aug2025 06:30:09.490] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[02Aug2025 06:30:09.491] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[02Aug2025 06:30:09.492] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[02Aug2025 06:30:09.493] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[02Aug2025 06:30:09.493] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[02Aug2025 06:30:09.494] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[02Aug2025 06:30:09.496] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[02Aug2025 06:30:09.497] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[02Aug2025 06:30:09.497] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[02Aug2025 06:30:09.500] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[02Aug2025 06:30:09.502] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[02Aug2025 06:30:09.502] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[02Aug2025 06:30:09.503] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[02Aug2025 06:30:09.504] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[02Aug2025 06:30:09.504] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[02Aug2025 06:30:09.505] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[02Aug2025 06:30:09.506] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[02Aug2025 06:30:09.507] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[02Aug2025 06:30:09.507] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[02Aug2025 06:30:09.508] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[02Aug2025 06:30:09.508] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[02Aug2025 06:30:09.509] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[02Aug2025 06:30:09.509] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[02Aug2025 06:30:09.510] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[02Aug2025 06:30:09.510] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[02Aug2025 06:30:09.511] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[02Aug2025 06:30:09.511] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[02Aug2025 06:30:09.511] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[02Aug2025 06:30:09.512] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[02Aug2025 06:30:09.512] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[02Aug2025 06:30:09.513] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[02Aug2025 06:30:09.513] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[02Aug2025 06:30:09.513] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[02Aug2025 06:30:09.514] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[02Aug2025 06:30:09.514] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[02Aug2025 06:30:09.514] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[02Aug2025 06:30:09.515] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[02Aug2025 06:30:09.515] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[02Aug2025 06:30:09.516] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[02Aug2025 06:30:09.516] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[02Aug2025 06:30:09.516] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[02Aug2025 06:30:09.517] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[02Aug2025 06:30:09.517] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[02Aug2025 06:30:09.518] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[02Aug2025 06:30:09.518] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[02Aug2025 06:30:09.518] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[02Aug2025 06:30:09.519] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[02Aug2025 06:30:09.519] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[02Aug2025 06:30:09.519] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[02Aug2025 06:30:09.520] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[02Aug2025 06:30:09.520] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[02Aug2025 06:30:09.521] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[02Aug2025 06:30:09.521] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[02Aug2025 06:30:09.522] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[02Aug2025 06:30:09.522] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[02Aug2025 06:30:09.522] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[02Aug2025 06:30:09.523] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[02Aug2025 06:30:09.523] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[02Aug2025 06:30:09.524] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[02Aug2025 06:30:09.524] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[02Aug2025 06:30:09.525] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[02Aug2025 06:30:09.525] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[02Aug2025 06:30:09.526] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[02Aug2025 06:30:09.526] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[02Aug2025 06:30:09.527] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[02Aug2025 06:30:09.527] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[02Aug2025 06:30:09.528] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[02Aug2025 06:30:09.529] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[02Aug2025 06:30:09.529] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[02Aug2025 06:30:09.529] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[02Aug2025 06:30:09.530] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[02Aug2025 06:30:09.530] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[02Aug2025 06:30:09.530] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[02Aug2025 06:30:09.531] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[02Aug2025 06:30:09.531] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[02Aug2025 06:30:09.532] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[02Aug2025 06:30:09.532] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[02Aug2025 06:30:09.532] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[02Aug2025 06:30:09.533] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[02Aug2025 06:30:09.533] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[02Aug2025 06:30:09.534] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[02Aug2025 06:30:09.534] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[02Aug2025 06:30:09.535] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[02Aug2025 06:30:09.535] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[02Aug2025 06:30:09.536] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[02Aug2025 06:30:09.536] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[02Aug2025 06:30:09.537] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[02Aug2025 06:30:09.537] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[02Aug2025 06:30:09.537] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[02Aug2025 06:30:09.538] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[02Aug2025 06:30:09.538] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[02Aug2025 06:30:09.539] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[02Aug2025 06:30:09.539] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[02Aug2025 06:30:09.540] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[02Aug2025 06:30:09.541] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[02Aug2025 06:30:09.541] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[02Aug2025 06:30:09.541] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[02Aug2025 06:30:09.542] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[02Aug2025 06:30:09.542] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[02Aug2025 06:30:09.543] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[02Aug2025 06:30:09.543] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[02Aug2025 06:30:09.543] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[02Aug2025 06:30:09.544] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[02Aug2025 06:30:09.544] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[02Aug2025 06:30:09.545] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[02Aug2025 06:30:09.545] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[02Aug2025 06:30:09.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7688ms or 153 ticks behind
+[02Aug2025 06:30:30.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6057ms or 121 ticks behind
+[02Aug2025 06:30:37.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:30:48.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:30:49.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Aug2025 06:30:51.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5923ms or 118 ticks behind
+[02Aug2025 06:31:07.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Aug2025 06:31:12.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5727ms or 114 ticks behind
+[02Aug2025 06:31:31.017] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Aug2025 06:31:32.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5337ms or 106 ticks behind
+[02Aug2025 06:31:45.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Valengarf lost connection: Disconnected
+[02Aug2025 06:31:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf left the game
+[02Aug2025 06:31:50.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3475ms or 69 ticks behind
+[02Aug2025 06:31:59.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Aug2025 06:32:51.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[02Aug2025 06:32:52.568] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[02Aug2025 06:32:52.569] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Aug2025 06:32:52.667] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Aug2025 06:32:52.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 06:32:52.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 06:33:08.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[02Aug2025 06:33:59.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind

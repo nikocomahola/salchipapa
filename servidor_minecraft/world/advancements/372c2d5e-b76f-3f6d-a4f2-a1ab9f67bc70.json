@@ -9792,12 +9792,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 04:47:16 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:glaive": {
     "criteria": {
       "has_glaive": "2025-08-02 05:01:44 +0000"
@@ -10128,6 +10122,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-02 06:22:08 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/building_blocks/coarse_toadstool_soil": {
     "criteria": {
       "has_material": "2025-08-02 06:08:15 +0000"
@@ -10368,6 +10368,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-08-02 06:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-08-02 06:20:24 +0000"
@@ -10437,6 +10443,12 @@
   "super_block_world:recipes/redstone/amanita_trapdoor": {
     "criteria": {
       "has_amanita_planks": "2025-08-02 06:16:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-08-02 06:28:30 +0000"
     },
     "done": true
   },

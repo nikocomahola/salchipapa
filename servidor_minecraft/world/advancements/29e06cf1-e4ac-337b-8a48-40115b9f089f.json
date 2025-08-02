@@ -121,6 +121,7 @@
       "minecraft:beach": "2025-08-01 04:33:33 +0000",
       "minecraft:dark_forest": "2025-08-01 04:32:39 +0000",
       "minecraft:river": "2025-08-01 05:15:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-02 06:21:44 +0000",
       "minecraft:stony_shore": "2025-08-02 03:14:58 +0000",
       "minecraft:cold_ocean": "2025-08-02 03:15:25 +0000",
       "minecraft:forest": "2025-08-01 05:29:34 +0000",
@@ -7963,7 +7964,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-02 06:13:28 +0000"
+      "requirement": "2025-08-02 06:29:58 +0000"
     },
     "done": true
   },
