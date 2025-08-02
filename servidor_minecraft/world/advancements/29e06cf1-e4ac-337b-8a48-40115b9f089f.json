@@ -7494,7 +7494,13 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_0": "2025-08-02 03:04:42 +0000"
+      "trickor_treat_0": "2025-08-02 03:04:42 +0000",
+      "trickor_treat_2": "2025-08-02 04:10:30 +0000",
+      "trickor_treat_3": "2025-08-02 04:10:30 +0000",
+      "trickor_treat_4": "2025-08-02 04:10:30 +0000",
+      "trickor_treat_5": "2025-08-02 04:10:30 +0000",
+      "trickor_treat_6": "2025-08-02 04:10:30 +0000",
+      "trickor_treat_7": "2025-08-02 04:10:30 +0000"
     },
     "done": false
   },
