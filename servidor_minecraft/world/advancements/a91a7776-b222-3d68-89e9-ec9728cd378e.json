@@ -10159,5 +10159,17 @@
     },
     "done": true
   },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-02 05:18:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

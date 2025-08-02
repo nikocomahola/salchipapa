@@ -9648,6 +9648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/star_coin": {
+    "criteria": {
+      "has_coin": "2025-08-02 05:18:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-08-02 04:29:04 +0000"
@@ -9699,6 +9705,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-02 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:10 +0000"
     },
     "done": true
   },

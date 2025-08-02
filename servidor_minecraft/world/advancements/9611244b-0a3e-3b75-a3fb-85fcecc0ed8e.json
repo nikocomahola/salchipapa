@@ -6927,5 +6927,11 @@
     },
     "done": true
   },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

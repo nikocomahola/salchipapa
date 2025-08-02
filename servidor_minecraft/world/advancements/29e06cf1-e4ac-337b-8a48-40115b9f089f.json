@@ -7558,9 +7558,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/star_coin": {
+    "criteria": {
+      "has_coin": "2025-08-02 05:17:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-08-02 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
     },
     "done": true
   },
@@ -7606,6 +7618,12 @@
     },
     "done": true
   },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
@@ -7639,6 +7657,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:03 +0000"
     },
     "done": true
   },
