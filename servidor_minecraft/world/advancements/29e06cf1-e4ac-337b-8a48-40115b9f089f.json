@@ -7229,7 +7229,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-08-02 02:56:09 +0000"
+      "requirement": "2025-08-02 03:03:43 +0000"
     },
     "done": true
   },
@@ -7287,6 +7287,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-08-02 03:04:36 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-02 02:20:22 +0000"
@@ -7316,6 +7322,12 @@
       "requirement": "2025-08-02 02:35:59 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-08-02 03:04:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
@@ -7428,6 +7440,12 @@
   "skilltree:recipes/misc/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2025-08-02 02:25:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-02 03:01:36 +0000"
     },
     "done": true
   },

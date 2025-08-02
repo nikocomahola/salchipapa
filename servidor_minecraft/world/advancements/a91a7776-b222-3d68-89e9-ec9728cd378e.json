@@ -3100,6 +3100,7 @@
       "minecraft:vindicator": "2025-08-01 06:42:00 +0000",
       "minecraft:spider": "2025-08-01 05:21:14 +0000",
       "minecraft:creeper": "2025-08-01 05:16:22 +0000",
+      "minecraft:witch": "2025-08-02 03:02:50 +0000",
       "minecraft:cave_spider": "2025-08-01 23:47:53 +0000",
       "minecraft:stray": "2025-08-01 23:49:29 +0000",
       "minecraft:zombie": "2025-08-01 05:14:56 +0000",
@@ -9558,6 +9559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-02 03:03:00 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-08-02 02:32:35 +0000"
@@ -9738,6 +9745,12 @@
     },
     "done": true
   },
+  "species:species/v3/aggro_ghoul": {
+    "criteria": {
+      "aggro_ghoul": "2025-08-02 03:00:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
@@ -9789,6 +9802,12 @@
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-08-02 02:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-02 03:03:43 +0000"
     },
     "done": true
   },
@@ -9918,6 +9937,12 @@
     },
     "done": true
   },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-08-02 03:03:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
@@ -9927,6 +9952,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-08-02 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-08-02 03:03:00 +0000"
     },
     "done": true
   },
