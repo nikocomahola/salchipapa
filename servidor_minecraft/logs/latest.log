@@ -3304,3 +3304,126 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Aug2025 04:42:16.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [02Aug2025 04:42:18.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
 [02Aug2025 04:42:29.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8919ms or 178 ticks behind
+[02Aug2025 04:42:49.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 withered away
+[02Aug2025 04:42:49.651] [Server thread/INFO] [tombstone/]: The player blueby87 has successfully been saved
+[02Aug2025 04:42:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sickaric was slain by Nightmare Stalker
+[02Aug2025 04:42:52.716] [Server thread/INFO] [tombstone/]: The player Sickaric has successfully been saved
+[02Aug2025 04:42:52.879] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Aug2025 04:42:52.880] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 31 is dual wielding: false
+[02Aug2025 04:42:52.881] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[02Aug2025 04:42:52.882] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Aug2025 04:42:52.883] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Aug2025 04:42:54.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9771ms or 195 ticks behind
+[02Aug2025 04:43:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 was slain by Lifestealer
+[02Aug2025 04:43:05.558] [Server thread/INFO] [tombstone/]: The player blueby87 has successfully been saved
+[02Aug2025 04:43:19.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 04:43:39.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4796ms or 95 ticks behind
+[02Aug2025 04:44:01.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6828ms or 136 ticks behind
+[02Aug2025 04:44:24.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8078ms or 161 ticks behind
+[02Aug2025 04:44:46.156] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1393495, l='ServerLevel[world]', x=1285.50, y=76.00, z=-1076.50]
+[02Aug2025 04:44:47.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8336ms or 166 ticks behind
+[02Aug2025 04:45:10.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7745ms or 154 ticks behind
+[02Aug2025 04:45:27.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 has reached the goal [Horror of the Depths]
+[02Aug2025 04:45:33.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8316ms or 166 ticks behind
+[02Aug2025 04:45:58.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9947ms or 198 ticks behind
+[02Aug2025 04:46:17.174] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1425125, l='ServerLevel[world]', x=350.50, y=72.00, z=316.50]
+[02Aug2025 04:46:22.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8458ms or 169 ticks behind
+[02Aug2025 04:46:43.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
+[02Aug2025 04:47:03.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[02Aug2025 04:47:25.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6708ms or 134 ticks behind
+[02Aug2025 04:47:45.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4501ms or 90 ticks behind
+[02Aug2025 04:48:04.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[02Aug2025 04:48:25.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
+[02Aug2025 04:48:31.433] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=94, z=81}
+[02Aug2025 04:48:49.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8989ms or 179 ticks behind
+[02Aug2025 04:48:57.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 2.8016692799728844,0.0,-10.0155174690085
+[02Aug2025 04:48:57.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 2.9094257907365773,0.0,-10.400729679371125
+[02Aug2025 04:48:57.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 3.01718230150027,0.0,-10.785941889734204
+[02Aug2025 04:48:57.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 3.124938812263963,0.0,-11.171154100097738
+[02Aug2025 04:48:57.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 3.2326953230274285,0.0,-11.556366310461271
+[02Aug2025 04:48:57.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blueby87 moved too quickly! -10.00703358462522,-0.8232407249357578,-1.866309438747976
+[02Aug2025 04:48:57.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Klade250) moved too quickly! 3.340451833790894,0.0,-11.94157852082526
+[02Aug2025 04:49:05.833] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.834] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.845] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.845] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.926] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.927] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:05.928] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:13.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9199ms or 183 ticks behind
+[02Aug2025 04:49:25.068] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:25.068] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:25.068] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:25.112] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blueby87: Teleported Sickaric to blueby87]
+[02Aug2025 04:49:27.002] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.002] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.003] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.101] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.101] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.102] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:27.103] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:49:34.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[02Aug2025 04:49:52.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[02Aug2025 04:50:11.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Valengarf[/172.29.52.121:56589] logged in with entity id 1515687 at (968.0701771923483, 73.875, -1013.9715748698893)
+[02Aug2025 04:50:11.609] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Valengarf
+[02Aug2025 04:50:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf joined the game
+[02Aug2025 04:50:11.670] [Server thread/INFO] [Jade/]: Syncing config to Valengarf (9611244b-0a3e-3b75-a3fb-85fcecc0ed8e)
+[02Aug2025 04:50:11.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[02Aug2025 04:50:12.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Klade250 was kicked for floating a vehicle too long!
+[02Aug2025 04:50:12.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Klade250 lost connection: Flying is not enabled on this server
+[02Aug2025 04:50:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 left the game
+[02Aug2025 04:50:31.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Klade250[/172.29.95.35:63345] logged in with entity id 1522464 at (1002.0552877346217, 68.0, -2203.3066241812794)
+[02Aug2025 04:50:31.273] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Klade250
+[02Aug2025 04:50:31.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Klade250 joined the game
+[02Aug2025 04:50:31.287] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Boat['Boat'/1522465, l='ServerLevel[world]', x=1002.06, y=132.87, z=-2203.31] as it would cause deadlock
+[02Aug2025 04:50:31.323] [Server thread/INFO] [Jade/]: Syncing config to Klade250 (a91a7776-b222-3d68-89e9-ec9728cd378e)
+[02Aug2025 04:50:32.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Aug2025 04:50:53.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6504ms or 130 ticks behind
+[02Aug2025 04:51:06.372] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.642] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.643] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.643] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.644] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:06.644] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:17.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8690ms or 173 ticks behind
+[02Aug2025 04:51:23.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:23.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:23.634] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:23.635] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:25.196] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:25.196] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:25.197] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:25.197] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:25.253] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Aug2025 04:51:40.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8077ms or 161 ticks behind
+[02Aug2025 04:52:00.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[02Aug2025 04:52:18.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[02Aug2025 04:52:35.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[02Aug2025 04:52:59.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02Aug2025 04:53:18.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[02Aug2025 04:53:37.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
+[02Aug2025 04:53:55.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
+[02Aug2025 04:54:13.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[02Aug2025 04:54:31.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[02Aug2025 04:54:49.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[02Aug2025 04:55:08.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[02Aug2025 04:55:27.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[02Aug2025 04:55:49.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
+[02Aug2025 04:56:11.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7138ms or 142 ticks behind
+[02Aug2025 04:56:32.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blueby87: Teleported Klade250 to blueby87]
+[02Aug2025 04:56:34.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7757ms or 155 ticks behind
+[02Aug2025 04:56:45.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:demon_cloud but it was marked as removed already
+[02Aug2025 04:56:45.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 04:56:45.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:quick_light but it was marked as removed already
+[02Aug2025 04:56:52.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[02Aug2025 04:56:59.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 04:57:03.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:glowing_eyes but it was marked as removed already
+[02Aug2025 04:57:19.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity creepingwoods:hallucination but it was marked as removed already
+[02Aug2025 05:01:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blueby87 has made the advancement [Straightening the Scythes]
+[02Aug2025 05:01:53.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Valengarf has made the advancement [Straightening the Scythes]

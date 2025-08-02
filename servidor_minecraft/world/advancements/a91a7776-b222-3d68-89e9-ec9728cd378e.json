@@ -9565,12 +9565,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 04:19:52 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-08-02 02:19:37 +0000"
@@ -10063,27 +10057,9 @@
     },
     "done": true
   },
-  "miners_delight:recipes/food/weird_caviar": {
-    "criteria": {
-      "has_silverfish_eggs": "2025-08-02 04:19:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-08-02 04:16:20 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/cooking/bat_rolls": {
     "criteria": {
       "has_bat_wing": "2025-08-02 03:44:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-08-02 04:22:53 +0000"
     },
     "done": true
   },
@@ -10096,12 +10072,6 @@
   "miners_delight:recipes/food/smoked_bat_wing": {
     "criteria": {
       "has_bat_wing": "2025-08-02 03:44:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 04:02:08 +0000"
     },
     "done": true
   },
@@ -10120,6 +10090,72 @@
   "miners_delight:recipes/food/bat_cookie": {
     "criteria": {
       "has_bat_wing": "2025-08-02 03:44:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-08-02 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-02 04:19:52 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/weird_caviar": {
+    "criteria": {
+      "has_silverfish_eggs": "2025-08-02 04:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-02 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-08-02 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-02 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-02 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-02 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/chiseled_toadstone_bricks": {
+    "criteria": {
+      "has_toadstone_brick_slab": "2025-08-02 04:47:13 +0000"
     },
     "done": true
   },
