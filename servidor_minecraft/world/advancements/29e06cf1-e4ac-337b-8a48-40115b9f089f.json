@@ -7227,9 +7227,9 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "supplementaries:recipes/flint_block": {
     "criteria": {
-      "requirement": "2025-08-02 00:49:59 +0000"
+      "has_flint": "2025-08-02 02:12:37 +0000"
     },
     "done": true
   },
@@ -7251,6 +7251,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 02:09:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 02:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-02 02:08:49 +0000"
+    },
+    "done": true
+  },
   "vanilla_refresh:biome/plains": {
     "criteria": {
       "requirement": "2025-08-02 02:03:24 +0000"
@@ -7263,6 +7281,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-02 02:12:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-08-02 02:09:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 02:12:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-08-02 02:01:25 +0000"
@@ -7272,6 +7308,12 @@
   "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
       "has_cobweb": "2025-08-02 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-02 02:12:37 +0000"
     },
     "done": true
   },
