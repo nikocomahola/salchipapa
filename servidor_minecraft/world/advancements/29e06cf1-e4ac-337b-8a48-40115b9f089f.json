@@ -7540,33 +7540,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+      "location0": "2025-08-02 03:50:56 +0000"
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "requirement": "2025-08-02 04:44:14 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_stairs_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/star_coin": {
-    "criteria": {
-      "has_coin": "2025-08-02 05:17:50 +0000"
+      "coded_trigger": "2025-08-02 03:52:00 +0000"
     },
     "done": true
   },
@@ -7576,15 +7558,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
+      "has_smithing_trim_template": "2025-08-02 03:53:04 +0000"
     },
     "done": true
   },
-  "super_block_world:recipes/decorations/warp_painting": {
+  "spartanweaponry:spear": {
     "criteria": {
-      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
+      "has_spear": "2025-08-02 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/meadows": {
+    "criteria": {
+      "requirement": "2025-08-02 03:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 03:58:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-02 04:18:33 +0000"
     },
     "done": true
   },
@@ -7600,81 +7624,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/smooth_hardstone": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-08-02 03:58:40 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_bronze_block": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
-    "criteria": {
-      "has_material": "2025-08-02 05:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-02 04:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_pillar_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/tools/warp_link": {
-    "criteria": {
-      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
     },
     "done": true
   },
@@ -7696,12 +7654,6 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/rainbow_tiles": {
-    "criteria": {
-      "has_star_bit": "2025-08-02 05:28:18 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
@@ -7720,24 +7672,6 @@
     },
     "done": true
   },
-  "super_block_world:mushroom_kingdom/enter_dimension": {
-    "criteria": {
-      "entered_dimension": "2025-08-02 05:15:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
@@ -7750,111 +7684,9 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/hardstone_bricks": {
-    "criteria": {
-      "has_material": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-08-02 03:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-02 03:53:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-08-02 03:58:40 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/decorations/hardstone_wall": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-02 05:38:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-08-02 04:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/hardstone_stairs": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-08-02 03:58:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-08-02 05:05:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
     },
     "done": true
   },
@@ -7864,27 +7696,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 03:52:00 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:spear": {
-    "criteria": {
-      "has_spear": "2025-08-02 03:56:53 +0000"
     },
     "done": true
   },
@@ -7894,33 +7708,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
     },
     "done": true
   },
@@ -7942,18 +7732,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hardstone_brick_wall_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
@@ -7966,45 +7744,9 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/meadows": {
-    "criteria": {
-      "requirement": "2025-08-02 03:58:14 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/gritzy_sandstone_pillar": {
-    "criteria": {
-      "has_material": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_brick_stairs_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_hardstone_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
     },
     "done": true
   },
@@ -8014,75 +7756,15 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/hardstone_slab": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-02 03:58:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-02 03:58:40 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-08-02 05:25:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_slab_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-08-02 04:34:03 +0000"
     },
     "done": true
   },
@@ -8110,57 +7792,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_wall_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_brick_slab_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/vanillate": {
-    "criteria": {
-      "has_vanillate_crumble": "2025-08-02 05:26:18 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/hardstone_pillar": {
-    "criteria": {
-      "has_material": "2025-08-02 05:28:01 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-02 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/decorations/gritzy_sandstone_wall": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-08-02 05:05:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
     },
     "done": true
   },
@@ -8176,9 +7810,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hardstone_bricks_from_hardstone_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:28:01 +0000"
+      "has_upgrade_base": "2025-08-02 04:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-08-02 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-02 04:35:13 +0000"
     },
     "done": true
   },
@@ -8188,9 +7960,99 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+  "vanilla_refresh:player/hurt": {
     "criteria": {
-      "has_upgrade_base": "2025-08-02 04:18:33 +0000"
+      "requirement": "2025-08-02 04:44:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-02 05:05:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-02 05:05:17 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/star_coin": {
+    "criteria": {
+      "has_coin": "2025-08-02 05:17:50 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:18:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
+    "criteria": {
+      "has_material": "2025-08-02 05:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_stairs_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_pillar_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/gritzy_sandstone_pillar": {
+    "criteria": {
+      "has_material": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_slab_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_wall_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/gritzy_sandstone_wall": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
     },
     "done": true
   },
@@ -8215,6 +8077,144 @@
   "super_block_world:recipes/building_blocks/gritzy_sandstone_stairs": {
     "criteria": {
       "has_gritzy_sandstone": "2025-08-02 05:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-02 05:25:35 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/vanillate": {
+    "criteria": {
+      "has_vanillate_crumble": "2025-08-02 05:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_bronze_block": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/smooth_hardstone": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_bricks": {
+    "criteria": {
+      "has_material": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/hardstone_wall": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_stairs": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_wall_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_stairs_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_hardstone_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_slab": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_slab_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_pillar": {
+    "criteria": {
+      "has_material": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_bricks_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:01 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/rainbow_tiles": {
+    "criteria": {
+      "has_star_bit": "2025-08-02 05:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-02 05:38:37 +0000"
     },
     "done": true
   },

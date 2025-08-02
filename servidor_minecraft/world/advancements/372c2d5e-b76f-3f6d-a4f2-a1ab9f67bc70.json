@@ -9486,12 +9486,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 04:47:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-02 03:07:11 +0000"
@@ -9642,171 +9636,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-08-02 04:16:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_stairs_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/star_coin": {
-    "criteria": {
-      "has_coin": "2025-08-02 05:18:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/decorations/warp_painting": {
-    "criteria": {
-      "has_subcon_thread": "2025-08-02 05:23:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bale": {
-    "criteria": {
-      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/smooth_hardstone": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_bronze_block": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_dark_oak": "2025-08-02 04:27:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/toadstone_bricks_from_toadstone_stonecutting": {
-    "criteria": {
-      "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
-    "criteria": {
-      "has_material": "2025-08-02 05:23:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_stonecutting": {
-    "criteria": {
-      "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_pillar_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
   "species:species/v3/wicked_stop_haunting": {
     "criteria": {
       "wicked_stop_haunting": "2025-08-02 03:44:32 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/tools/warp_link": {
-    "criteria": {
-      "has_subcon_thread": "2025-08-02 05:23:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/toadstone_slab_from_toadstone_stonecutting": {
-    "criteria": {
-      "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:glaive": {
-    "criteria": {
-      "has_glaive": "2025-08-02 05:01:44 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/decorations/toadstone_wall": {
-    "criteria": {
-      "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-02 04:18:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-02 04:32:48 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:mushroom_kingdom/enter_dimension": {
-    "criteria": {
-      "entered_dimension": "2025-08-02 05:15:10 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/monster_mask": {
-    "criteria": {
-      "has_item": "2025-08-02 03:52:31 +0000"
     },
     "done": true
   },
@@ -9816,21 +9648,9 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/hardstone_bricks": {
+  "species:recipes/monster_mask": {
     "criteria": {
-      "has_material": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-08-02 04:27:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
+      "has_item": "2025-08-02 03:52:31 +0000"
     },
     "done": true
   },
@@ -9840,15 +9660,117 @@
     },
     "done": true
   },
+  "species:recipes/monster_meal": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_treat": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/smoke_bomb": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/wicked_swapper": {
+    "criteria": {
+      "has_item": "2025-08-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-08-02 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-08-02 04:16:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-08-02 04:16:13 +0000"
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/toadstone_stairs": {
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
-      "has_toadstone": "2025-08-02 05:22:44 +0000"
+      "has_any_ingredient": "2025-08-02 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-02 04:18:06 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_dark_oak": "2025-08-02 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-02 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-08-02 04:29:04 +0000"
     },
     "done": true
   },
@@ -9858,15 +9780,75 @@
     },
     "done": true
   },
-  "super_block_world:recipes/decorations/hardstone_wall": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
+      "has_log": "2025-08-02 04:32:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_cabbage": "2025-08-02 04:18:06 +0000"
+      "has_logs": "2025-08-02 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-02 04:47:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-08-02 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:mushroom_kingdom/enter_dimension": {
+    "criteria": {
+      "entered_dimension": "2025-08-02 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/star_coin": {
+    "criteria": {
+      "has_coin": "2025-08-02 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/vanillate": {
+    "criteria": {
+      "has_vanillate_crumble": "2025-08-02 05:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_bricks_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/toadstone_slab_from_toadstone_stonecutting": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/toadstone_wall": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:22:44 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_stairs": {
+    "criteria": {
+      "has_toadstone": "2025-08-02 05:22:44 +0000"
     },
     "done": true
   },
@@ -9888,21 +9870,9 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/hardstone_stairs": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_stonecutting": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
     },
     "done": true
   },
@@ -9918,105 +9888,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/monster_meal": {
-    "criteria": {
-      "has_item": "2025-08-02 03:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice": {
-    "criteria": {
-      "has_rice_panicle": "2025-08-02 04:02:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_brick_wall_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/building_blocks/toadstone_slab": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:22:44 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/wicked_treat": {
-    "criteria": {
-      "has_item": "2025-08-02 03:52:31 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/gritzy_sandstone_pillar": {
-    "criteria": {
-      "has_material": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_brick_stairs_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2025-08-02 04:01:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_hardstone_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/hardstone_slab": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gritzy_sandstone_slab_from_gritzy_sandstone_stonecutting": {
-    "criteria": {
-      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-08-02 04:29:04 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/smoke_bomb": {
-    "criteria": {
-      "has_item": "2025-08-02 03:52:31 +0000"
     },
     "done": true
   },
@@ -10026,9 +9900,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/building_blocks/gritzy_sandstone_stairs_from_gritzy_sandstone_stonecutting": {
     "criteria": {
-      "has_logs": "2025-08-02 04:32:48 +0000"
+      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_pillar_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/gritzy_sandstone_pillar": {
+    "criteria": {
+      "has_material": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_gritzy_sandstone_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gritzy_sandstone_slab_from_gritzy_sandstone_stonecutting": {
+    "criteria": {
+      "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
     },
     "done": true
   },
@@ -10038,45 +9942,9 @@
     },
     "done": true
   },
-  "species:recipes/wicked_swapper": {
-    "criteria": {
-      "has_item": "2025-08-02 03:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_brick_slab_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/vanillate": {
-    "criteria": {
-      "has_vanillate_crumble": "2025-08-02 05:22:27 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/hardstone_pillar": {
-    "criteria": {
-      "has_material": "2025-08-02 05:27:58 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/decorations/gritzy_sandstone_wall": {
     "criteria": {
       "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_bricks_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:27:58 +0000"
     },
     "done": true
   },
@@ -10101,6 +9969,144 @@
   "super_block_world:recipes/building_blocks/gritzy_sandstone_stairs": {
     "criteria": {
       "has_gritzy_sandstone": "2025-08-02 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:23:18 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:23:18 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
+    "criteria": {
+      "has_material": "2025-08-02 05:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_bronze_block": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/smooth_hardstone": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_bricks": {
+    "criteria": {
+      "has_material": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/hardstone_wall": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_stairs": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_wall_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_stairs_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_hardstone_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_slab": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_brick_slab_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_pillar": {
+    "criteria": {
+      "has_material": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_bricks_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-02 05:45:07 +0000"
     },
     "done": true
   },

@@ -6921,31 +6921,43 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
+  "spartanweaponry:glaive": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
+      "has_glaive": "2025-08-02 05:01:53 +0000"
     },
     "done": true
   },
-  "super_block_world:recipes/decorations/warp_painting": {
+  "super_block_world:mushroom_kingdom/enter_dimension": {
     "criteria": {
-      "has_subcon_thread": "2025-08-02 05:28:02 +0000"
+      "entered_dimension": "2025-08-02 05:15:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
+  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
+      "has_material": "2025-08-02 05:24:04 +0000"
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/smooth_hardstone": {
+  "super_block_world:recipes/building_blocks/vanillate": {
     "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
+      "has_vanillate_crumble": "2025-08-02 05:24:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/raw_bronze_block": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
+    "criteria": {
+      "has_raw_bronze": "2025-08-02 05:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
     "criteria": {
       "has_raw_bronze": "2025-08-02 05:25:01 +0000"
     },
@@ -6957,27 +6969,9 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/gritzy_sandstone": {
-    "criteria": {
-      "has_material": "2025-08-02 05:24:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/toadstone_brick_wall_from_toadstone_stonecutting": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/tools/warp_link": {
-    "criteria": {
-      "has_subcon_thread": "2025-08-02 05:28:02 +0000"
     },
     "done": true
   },
@@ -6987,45 +6981,15 @@
     },
     "done": true
   },
-  "spartanweaponry:glaive": {
-    "criteria": {
-      "has_glaive": "2025-08-02 05:01:53 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/decorations/toadstone_wall": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
-  "super_block_world:mushroom_kingdom/enter_dimension": {
-    "criteria": {
-      "entered_dimension": "2025-08-02 05:15:08 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/hardstone_bricks": {
-    "criteria": {
-      "has_material": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/building_blocks/toadstone_stairs": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/decorations/hardstone_wall": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
     },
     "done": true
   },
@@ -7041,33 +7005,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-08-02 05:36:45 +0000"
-    },
-    "done": true
-  },
   "super_block_world:recipes/building_blocks/smooth_toadstone": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/hardstone_stairs": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/toadstone_brick_stairs_from_toadstone_stonecutting": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
-    "criteria": {
-      "has_hardstone": "2025-08-02 05:28:25 +0000"
     },
     "done": true
   },
@@ -7083,21 +7029,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bronze_ingot_from_blasting_raw_bronze": {
+  "super_block_world:recipes/building_blocks/toadstone_slab": {
     "criteria": {
-      "has_raw_bronze": "2025-08-02 05:25:01 +0000"
+      "has_toadstone": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/toadstone_bricks": {
+    "criteria": {
+      "has_material": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/warp_painting": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:28:02 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/tools/warp_link": {
+    "criteria": {
+      "has_subcon_thread": "2025-08-02 05:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_stairs_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_hardstone_bricks_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/smooth_hardstone": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_wall_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_bricks": {
+    "criteria": {
+      "has_material": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_pillar_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/decorations/hardstone_wall": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "super_block_world:recipes/building_blocks/hardstone_stairs": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hardstone_slab_from_hardstone_stonecutting": {
+    "criteria": {
+      "has_hardstone": "2025-08-02 05:28:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/hardstone_brick_wall_from_hardstone_stonecutting": {
     "criteria": {
       "has_hardstone": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/toadstone_slab": {
-    "criteria": {
-      "has_toadstone": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
@@ -7119,21 +7131,9 @@
     },
     "done": true
   },
-  "super_block_world:recipes/building_blocks/toadstone_bricks": {
-    "criteria": {
-      "has_material": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hardstone_brick_slab_from_hardstone_stonecutting": {
     "criteria": {
       "has_hardstone": "2025-08-02 05:28:25 +0000"
-    },
-    "done": true
-  },
-  "super_block_world:recipes/building_blocks/vanillate": {
-    "criteria": {
-      "has_vanillate_crumble": "2025-08-02 05:24:58 +0000"
     },
     "done": true
   },
@@ -7143,15 +7143,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bronze_ingot_from_smelting_raw_bronze": {
-    "criteria": {
-      "has_raw_bronze": "2025-08-02 05:25:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hardstone_bricks_from_hardstone_stonecutting": {
     "criteria": {
       "has_hardstone": "2025-08-02 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 05:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/star_coin": {
+    "criteria": {
+      "has_coin": "2025-08-02 05:59:09 +0000"
     },
     "done": true
   },

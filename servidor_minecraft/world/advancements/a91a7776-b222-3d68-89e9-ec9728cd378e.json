@@ -10165,6 +10165,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/cooked_prickly_pear": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-08-02 05:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/toadstone_bricks_from_toadstone_stonecutting": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:26:41 +0000"
@@ -10213,6 +10219,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_smoking": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-08-02 05:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-08-02 05:18:58 +0000"
@@ -10252,6 +10264,12 @@
   "minecraft:recipes/building_blocks/toadstone_wall_from_toadstone_stonecutting": {
     "criteria": {
       "has_toadstone": "2025-08-02 05:26:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_campfire_cooking": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-08-02 05:45:03 +0000"
     },
     "done": true
   },
