@@ -10356,6 +10356,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-02 07:35:00 +0000"
+    },
+    "done": true
+  },
   "super_block_world:recipes/redstone/amanita_door": {
     "criteria": {
       "has_amanita_planks": "2025-08-02 06:16:02 +0000"
