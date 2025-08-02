@@ -9792,6 +9792,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-08-02 07:07:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:glaive": {
     "criteria": {
       "has_glaive": "2025-08-02 05:01:44 +0000"

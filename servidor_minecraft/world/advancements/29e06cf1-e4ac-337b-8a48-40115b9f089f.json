@@ -7962,12 +7962,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 06:49:39 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-08-02 05:05:17 +0000"
@@ -8310,6 +8304,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 07:01:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-08-02 06:40:24 +0000"
@@ -8604,6 +8604,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-02 07:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-02 06:34:01 +0000"
@@ -8847,6 +8853,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-02 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-02 07:00:20 +0000"
     },
     "done": true
   },
